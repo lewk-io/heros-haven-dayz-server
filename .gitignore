@@ -2,7 +2,8 @@
 addons/**/*
 backups/**/*
 battleye/**/*
-BEC/**/*
+BEC/Config/Config.cfg
+BEC/Log
 bliss/**/*
 changes/**/*
 config/**/*
