@@ -4,6 +4,7 @@ backups/**/*
 battleye/**/*
 BEC/Config/Config.cfg
 BEC/Log
+BEC/count.txt
 bliss/**/*
 changes/**/*
 config/**/*
@@ -27,4 +28,3 @@ steamclient64.dll
 tier0_s64.dll
 vstdlib_s64.dll
 whitelist.txt
-
