@@ -12,7 +12,6 @@ docs/**/*
 dta/**/*
 keys/**/*
 logs/**/*
-mpmissions/**/*
 profiles/**/*
 steamapps/**/*
 
@@ -28,3 +27,5 @@ steamclient64.dll
 tier0_s64.dll
 vstdlib_s64.dll
 whitelist.txt
+
+mpmissions/**/storage_1/**/*
