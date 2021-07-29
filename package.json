@@ -1,0 +1,25 @@
+{
+  "name": "heros-haven-dayz-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_start-server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewk-io/heros-haven-dayz-server.git"
+  },
+  "author": "@Lewk_io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewk-io/heros-haven-dayz-server/issues"
+  },
+  "homepage": "https://github.com/lewk-io/heros-haven-dayz-server#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}

@@ -12,6 +12,7 @@ docs/**/*
 dta/**/*
 keys/**/*
 logs/**/*
+node_modules/
 profiles/**/*
 steamapps/**/*
 
