@@ -22,7 +22,8 @@ dayzsetting.xml
 DayZServer_x64.exe
 omega.cfg
 priority.txt
-serverdz.cfg
+serverDZ.cfg
+serverDZ.cfg.active
 steam_api64.dll
 steamclient64.dll
 tier0_s64.dll
