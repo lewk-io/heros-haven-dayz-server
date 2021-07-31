@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="A2G17">
+		<nominal>60</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>24</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A2G17_Magazine">
+		<nominal>60</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>24</min>
+		<quantmin>100</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Town"/>
+		<value name="Village"/>
+	</type>
+	<type name="A2M9">
+		<nominal>60</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>24</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+	</type>
+	<type name="A2M9_Magazine">
+		<nominal>60</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>24</min>
+		<quantmin>100</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Town"/>
+		<value name="Village"/>
+	</type>
+	<type name="A2LeeEnfield">
+		<nominal>30</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Town"/>
+		<value name="Village"/>
+		<value name="Farm"/>
+	</type>
+	<type name="A2Winchester1866">
+		<nominal>30</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Town"/>
+		<value name="Village"/>
+		<value name="Farm"/>
+	</type>
+	<type name="A2M14">
+		<nominal>30</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="A2Mag_DMR_20Rnd">
+		<nominal>60</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>24</min>
+		<quantmin>100</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="A2CZ550">
+		<nominal>30</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>12</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier1"/>
+		<value name="Tier2"/>
+		<value name="Town"/>
+		<value name="Village"/>
+		<value name="Farm"/>
+	</type>
+	<type name="A2M24Green">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+	<type name="A2DMR">
+		<nominal>20</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>8</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier2"/>
+		<value name="Tier3"/>
+		<value name="Tier4"/>
+	</type>
+
+    
+
+</types>
