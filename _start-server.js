@@ -4,11 +4,11 @@ const path = require('path');
 const { copyFile } = require('path');
 const { exec, execSync, spawn } = require('child_process');
 
-const enableSyncThis = false;
-const enableStartBEC = false;
-const enableSyncPlayerLoadouts = false;
-const enableSyncTrader = false;
-const enableSyncSubmodules = false;
+const enableSyncThis = true;
+const enableStartBEC = true;
+const enableSyncPlayerLoadouts = true;
+const enableSyncTrader = true;
+const enableSyncSubmodules = true;
 const enableSyncProfileByMap = true;
 
 const getPath = p => p ? path.resolve(__dirname, p) : __dirname;

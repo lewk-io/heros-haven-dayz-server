@@ -1,1 +1,1 @@
-node _start-server
+npm install && node _start-server.js
