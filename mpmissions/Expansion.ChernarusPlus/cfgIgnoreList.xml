@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ignore>
+	<type name="EasterEgg"></type>
+    <type name="MilitaryGear_Bandana_black"></type>
+    <type name="MilitaryGear_Bandana_brown"></type>
+    <type name="MilitaryGear_Bandana_PartizanM"></type>
+    <type name="MilitaryGear_Bandana_dpm"></type>
+    <type name="MilitaryGear_Bandana_duckhunter"></type>
+    <type name="MilitaryGear_Bandana_flt"></type>
+    <type name="MilitaryGear_Bandana_mpat"></type>
+    <type name="MilitaryGear_Bandana_multicam"></type>
+    <type name="MilitaryGear_Bandana_partizan"></type>
+    <type name="MilitaryGear_Bandana_skol"></type>
+    <type name="MilitaryGear_Bandana_splinter"></type>
+    <type name="MilitaryGear_Bandana_splinter_dark"></type>
+    <type name="MilitaryGear_Bandana_tiger"></type>
+    <type name="MilitaryGear_Bandana_woodland"></type>
+    <type name="MilitaryGear_Bandana_ATACS"></type>
+    <type name="MilitaryGear_Bandana_Yeger"></type>
+</ignore>
