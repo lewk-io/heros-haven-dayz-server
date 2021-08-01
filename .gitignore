@@ -2,6 +2,7 @@
 addons/**/*
 backups/**/*
 battleye/**/*
+bot/bot.js
 BEC/Config/Config.cfg
 BEC/Log
 BEC/count.txt
