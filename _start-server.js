@@ -14,26 +14,26 @@ const enableSyncProfileByMap = true;
 
 const getPath = p => p ? path.resolve(__dirname, p) : __dirname;
 
-const getMap = /template="(.*)";/gm.exec(fs.readFileSync( getPath('serverDZ.cfg'), { encoding:'utf8' }))[1].toLowerCase();
+const getMap = /template="(.*)";/gm.exec(fs.readFileSync( getPath('serverDZ.cfg'), { encoding:'utf8' }))[1];
 
 let mapName;
 switch (true) {
-    case getMap.includes('chernarus'):
+    case getMap.toLowerCase().includes('chernarus'):
         mapName = 'chernarus';
         break;
-    case getMap.includes('chiemsee'):
+    case getMap.toLowerCase().includes('chiemsee'):
         mapName = 'chiemsee';
         break;
-    case getMap.includes('deerisle'):
+    case getMap.toLowerCase().includes('deerisle'):
         mapName = 'deerisle';
         break;
-    case getMap.includes('esseker'):
+    case getMap.toLowerCase().includes('esseker'):
         mapName = 'esseker';
         break;
-    case getMap.includes('rostow'):
+    case getMap.toLowerCase().includes('rostow'):
         mapName = 'rostow';
         break;
-    case getMap.includes('takistan'):
+    case getMap.toLowerCase().includes('takistan'):
         mapName = 'takistan';
         break;
     default:
@@ -72,14 +72,8 @@ if (enableSyncThis) {
     });
 }
 
-if (enableStartBEC) {
-    // Start BEC
-    const BEC = spawn('BEC.exe', ['-f Config.cfg', '--dsc'], { cwd: getPath('BEC'), shell: true, detached: true });
-    console.log('###### Starting BEC');
-}
-
 if (enableSyncPlayerLoadouts) {
-    Console.log('###### Start PlayerLoadouts');
+    console.log('###### Start PlayerLoadouts');
     // Install PlayerLoadouts dependancies and build
     execSync('npm start', { cwd: getPath('profiles/PlayerLoadouts'), shell: true, detached: true }, (err, stdout, stderr) => {
         if (err || stderr) console.log(err || stderr);
@@ -88,9 +82,7 @@ if (enableSyncPlayerLoadouts) {
     });
 }
 
-// Install Trader dependancies and build
 if (enableSyncTrader) {
-    Console.log('###### Start Trader');
     execSync(`npm install && npm run build-${mapName}`, { cwd: getPath('profiles/Trader'), shell: true, detached: true }, (err, stdout, stderr) => {
         if (err || stderr) console.log(err || stderr);
         console.log(stdout);
@@ -101,6 +93,7 @@ if (enableSyncTrader) {
 if (enableSyncProfileByMap) {
     // Copy profile configuration for map
     console.log(`----------------------------------------- ${getMap}`)
+    console.log(fs.existsSync(getPath(`profiles/_MAPS/${getMap}`)))
     if (getMap && fs.existsSync(getPath(`profiles/_MAPS/${getMap}`))) {
         fse.copySync(getPath(`profiles/_MAPS/${getMap}/`), getPath('profiles/'), { overwrite: true }, err => {
             if (err) console.error(err);
@@ -109,4 +102,8 @@ if (enableSyncProfileByMap) {
     }
 }
 
-// { overwrite: true }
+if (enableStartBEC) {
+    // Start BEC
+    const BEC = spawn('BEC.exe', ['-f Config.cfg', '--dsc'], { cwd: getPath('BEC'), shell: true, detached: true });
+    console.log('###### Starting BEC');
+}
