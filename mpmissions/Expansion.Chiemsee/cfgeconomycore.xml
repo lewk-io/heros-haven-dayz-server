@@ -36,6 +36,12 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
 	<updaters>
 	</updaters>
+
+	<!-- CHIEMSEE CENTRAL ECONOMY -->
+	<ce folder="chiemsee_ce">
+		<file name="chiemsee_types.xml" type="types"/>
+		<file name="chiemsee_events.xml" type="events"/>
+	</ce>
 	
 	<!-- EXPANSION CENTRAL ECONOMY -->
 	<ce folder="expansion_ce">
