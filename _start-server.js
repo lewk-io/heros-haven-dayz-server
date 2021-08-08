@@ -42,20 +42,6 @@ switch (true) {
 
 console.log(`###### Building for map "${mapName}"`);
 
-// Sync with profile repo
-if (enableSyncSubmodules) {
-    execSync('git submodule update --init --recursive --remote', { cwd: getPath('profiles'), shell: true, detached: true }, (err, stdout, stderr) => {
-        if (err || stderr) console.log(err || stderr);
-        console.log(stdout);
-        console.log('###### Submodules synced');
-        execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
-            if (err || stderr) console.log(err || stderr);
-            console.log(stdout);
-            console.log('###### Submodules synced');
-        });
-    });
-}
-
 // Pull updates from heros-haven-dayz-server repo
 if (enableSyncThis) {
     execSync('git pull', { cwd: getPath() }, (err, stdout, stderr) => {
@@ -69,6 +55,20 @@ if (enableSyncThis) {
             console.log(stdout);
             console.log('###### Submodules synced');
         });
+        execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
+            if (err || stderr) console.log(err || stderr);
+            console.log(stdout);
+            console.log('###### Submodules synced');
+        });
+    });
+}
+
+// Sync with profile repo
+if (enableSyncSubmodules) {
+    execSync('git submodule update --init --recursive --remote', { cwd: getPath('profiles'), shell: true, detached: true }, (err, stdout, stderr) => {
+        if (err || stderr) console.log(err || stderr);
+        console.log(stdout);
+        console.log('###### Submodules synced');
         execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
             if (err || stderr) console.log(err || stderr);
             console.log(stdout);
