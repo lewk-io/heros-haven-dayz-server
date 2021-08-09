@@ -55,11 +55,11 @@ if (enableSyncThis) {
             console.log(stdout);
             console.log('###### Submodules synced');
         });
-        execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
-            if (err || stderr) console.log(err || stderr);
-            console.log(stdout);
-            console.log('###### Submodules synced');
-        });
+    });
+    execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
+        if (err || stderr) console.log(err || stderr);
+        console.log(stdout);
+        console.log('###### Submodules synced');
     });
 }
 
