@@ -56,11 +56,7 @@ if (enableSyncThis) {
             console.log('###### Submodules synced');
         });
     });
-    execSync('git submodule foreach git pull origin main', { cwd: getPath('profiles') }, (err, stdout, stderr) => {
-        if (err || stderr) console.log(err || stderr);
-        console.log(stdout);
-        console.log('###### Submodules synced');
-    });
+    const loopSubmodules = spawn('cmd.exe', ['git submodule foreach git pull origin main'], { cwd: getPath('C:\Windows\System32'), shell: true, detached: true });
 }
 
 // Sync with profile repo
