@@ -28,31 +28,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="log_ce_lootrespawn" value="false"/>
 		<default name="log_ce_statistics" value="false"/>
 		<default name="log_ce_zombie" value="false"/>
-		<default name="log_storageinfo" value="true"/>
-		<default name="log_hivewarning" value="false"/>
-		<default name="log_missionfilewarning" value="false"/>
-		<default name="save_events_startup" value="false"/>
+		<default name="log_ce_animal" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-	<updaters>
-	</updaters>
-	<!-- EXPANSION CENTRAL ECONOMY -->
-	<ce folder="expansion_ce">
-		<file name="expansion_types.xml" type="types" />
-		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
-		<file name="expansion_events.xml" type="events" />
-	</ce>
-
-	<!-- SERVER MODS TYPES -->
-	<ce folder="mods_ce">
-		<file name="carcover_types.xml" type="types" />
-		<file name="cloudswintergear.xml" type="types" />
-		<file name="muchstuffpack.xml" type="types" />
-		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
-		<file name="Morty_types.xml" type="types" />
-		<file name="mvs_types.xml" type="types" />
-		<file name="trader_types.xml" type="types" />
-		<file name="snafu_spawnabletypes.xml" type="spawnabletypes" />
-		<file name="snafu_types.xml" type="types" />
-	</ce>
 </economycore>
