@@ -283,6 +283,19 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+    <type name="TTC_AKMod_Suppressor">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>0</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <tag name="shelves"/>
+        <usage name="Military"/>
+    </type>
 <!--
 	<type name="TTC_KAC">
 		<nominal>6</nominal>
@@ -585,7 +598,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_AmmoBox_8mm_20Rnd">
         <nominal>30</nominal>
@@ -601,7 +614,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_AmmoBox_30CAL_30Rnd">
         <nominal>30</nominal>
@@ -617,7 +630,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_Ammo_30carbine">
         <nominal>40</nominal>
@@ -633,7 +646,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>		
+        <value name="Tier2"/>
     </type>
 	<type name="TTC_M4DMROD">
 		<nominal>4</nominal>
@@ -2051,7 +2064,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_303">
         <nominal>30</nominal>
@@ -2083,7 +2096,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_3006">
         <nominal>30</nominal>
@@ -2115,7 +2128,7 @@
         <usage name="Village"/>
 		<usage name="Hunting"/>
 		<value name="Tier1"/>
-        <value name="Tier2"/>	
+        <value name="Tier2"/>
     </type>
     <type name="TTC_Ammo_4570">
         <nominal>30</nominal>
@@ -2544,19 +2557,6 @@
         <usage name="Military"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
-    </type>
-    <type name="TTC_AKMod_Suppressor">
-        <nominal>4</nominal>
-        <lifetime>3600</lifetime>
-        <restock>3600</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <tag name="shelves"/>
-        <usage name="Military"/>
     </type>
 	<type name="TTC_AKMod_Hndguard">
         <nominal>2</nominal>
