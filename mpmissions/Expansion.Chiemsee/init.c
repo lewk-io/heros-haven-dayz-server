@@ -92,8 +92,6 @@ class CustomMission: MissionServer
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
 		Entity playerEnt;
-		ExpPL_Loadout playerLoadout = ExpPL().GetPlayerLoadoutByPlayerIdentity( identity );
-		if ( playerLoadout && GetPlayerLoadoutEnableCharacter( playerLoadout ) ) characterName = GetPlayerLoadoutCharacter( playerLoadout );
 		playerEnt = GetGame().CreatePlayer( identity, characterName, pos, 0, "NONE" );
 		Class.CastTo( m_player, playerEnt );
 
