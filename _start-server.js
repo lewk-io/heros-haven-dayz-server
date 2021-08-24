@@ -76,7 +76,7 @@ if (enableSyncSubmodules) {
 if (enableSyncPlayerLoadouts) {
     console.log('###### Start PlayerLoadouts');
     // Install PlayerLoadouts dependancies and build
-    execSync('npm start', { cwd: getPath('profiles/PlayerLoadouts'), shell: true, detached: true }, (err, stdout, stderr) => {
+    execSync('npm install && npm start', { cwd: getPath('profiles/PlayerLoadouts'), shell: true, detached: true }, (err, stdout, stderr) => {
         if (err || stderr) console.log(err || stderr);
         console.log(stdout);
         console.log('###### PlayerLoadouts repo installed and built');
