@@ -167,6 +167,8 @@
 		<attachments chance="1.00">
 			<item name="SNAFU_Saint_Mag" chance="1.00" />
 			<item name="SNAFU_MCMR07" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="SNAFU_M4SS_Stock" chance="1.00" />
 		</attachments>
 	</type>
@@ -230,7 +232,9 @@
 			<item name="SNAFUAR15_SPR_40RND_Mag" chance="0.30" />
 			<item name="SNAFUAR15_SPR_60RND_Mag" chance="0.20" />
 			<item name="SNAFUAR15_SPR_100RND_Mag" chance="0.10" />
-			<item name="SNAFU_M4SS" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M4SS_Stock" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SNAFUAR15_SPR_Tan_GUN">
@@ -239,7 +243,9 @@
 			<item name="SNAFUAR15_SPR_40RND_Mag" chance="0.30" />
 			<item name="SNAFUAR15_SPR_60RND_Mag" chance="0.20" />
 			<item name="SNAFUAR15_SPR_100RND_Mag" chance="0.10" />
-			<item name="SNAFU_M4SS" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M4SS_Stock" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SNAFU_RPK16_Black">
