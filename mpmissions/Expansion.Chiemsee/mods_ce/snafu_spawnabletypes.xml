@@ -251,6 +251,10 @@
 		<attachments chance="1.00">
 			<item name="SNAFU_HGMlok" chance="1.00" />
 		</attachments>
+		<attachments chance="0.50">
+			<item name="SNAFU_FGKAC_Grip" chance="0.50" />
+			<item name="SNAFU_FGCR_Grip" chance="0.50" />
+		</attachments>
 	</type>
 	<type name="SNAFUAR15_SPR_Tan_GUN">
 		<attachments chance="1.00">
@@ -264,6 +268,10 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="SNAFU_HGMlok_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SNAFU_FGKAC_Grip" chance="0.50" />
+			<item name="SNAFU_FGCR_Grip" chance="0.50" />
 		</attachments>
 	</type>
 	<type name="SNAFU_RPK16_Black">
