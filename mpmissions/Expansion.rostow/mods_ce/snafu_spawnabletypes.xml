@@ -171,6 +171,18 @@
 		<attachments chance="1.00">
 			<item name="SNAFU_M4SS_Stock" chance="1.00" />
 		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_MCMR_07" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_MCMR_08" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_MCMR_09" chance="1.00" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_MCMR_10" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="GCGN_M700">
 		<attachments chance="1.00">
@@ -236,6 +248,9 @@
 		<attachments chance="1.00">
 			<item name="SNAFU_M4SS_Stock" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_HGMlok" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="SNAFUAR15_SPR_Tan_GUN">
 		<attachments chance="1.00">
@@ -246,6 +261,9 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="SNAFU_M4SS_Stock" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_HGMlok_Tan" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SNAFU_RPK16_Black">
