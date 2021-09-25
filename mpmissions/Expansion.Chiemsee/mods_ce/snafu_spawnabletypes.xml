@@ -80,8 +80,7 @@
 	</type>
 	<type name="SNAFU_M76">
 		<attachments chance="1.00">
-			<item name="GrozaOptic" chance="0.10" />
-			<item name="KobraOptic" chance="0.10" />
+			<item name="KobraOptic" chance="0.20" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="SNAFU_M76_Mag" chance="1.00" />
