@@ -165,22 +165,25 @@
 	<type name="SNAFU_Saint_Gun">
 		<attachments chance="1.00">
 			<item name="SNAFU_Saint_Mag" chance="1.00" />
-			<item name="SNAFU_MCMR07" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SNAFU_M4SS_Stock" chance="1.00" />
+			<item name="SNAFU_M4SS_Stock" chance="0.15" />
+			<item name="SNAFU_MOE_Stock" chance="0.15" />
+			<item name="SNAFU_PRSGen3_Stock" chance="0.15" />
+			<item name="SNAFU_SCQR_Stock" chance="0.15" />
+			<item name="SNAFU_SADAR_Stock" chance="0.15" />
+			<item name="SNAFU_SBA_Stock" chance="0.15" />
+			<item name="SNAFU_UBR_Stock" chance="0.10" />
 		</attachments>
 		<attachments chance="0.25">
-			<item name="SNAFU_MCMR_07" chance="1.00" />
-		</attachments>
-		<attachments chance="0.25">
-			<item name="SNAFU_MCMR_08" chance="1.00" />
-		</attachments>
-		<attachments chance="0.25">
-			<item name="SNAFU_MCMR_09" chance="1.00" />
-		</attachments>
-		<attachments chance="0.25">
-			<item name="SNAFU_MCMR_10" chance="1.00" />
+			<item name="SNAFU_MK9" chance="0.15" />
+			<item name="SNAFU_HG625" chance="0.15" />
+			<item name="SNAFU_HGGS" chance="0.15" />
+			<item name="SNAFU_MK10" chance="0.10" />
+			<item name="SNAFU_MCMR_07" chance="0.15" />
+			<item name="SNAFU_MCMR_08" chance="0.10" />
+			<item name="SNAFU_MCMR_09" chance="0.10" />
+			<item name="SNAFU_MCMR_10" chance="0.10" />
 		</attachments>
 	</type>
 	<type name="GCGN_M700">
