@@ -707,7 +707,7 @@
 		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
-	<type name="SR3_Vikhr_Gun">
+	<type name="SNAFUSR3_Vikhr">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
@@ -1252,7 +1252,7 @@
 		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
-	<type name="SR3_Vikhr_Mag">
+	<type name="SNAFU_SR3Vikhr_Mag">
 		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
@@ -1382,7 +1382,7 @@
 		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
-	<type name="SR3_Vikhr_Supp">
+	<type name="SNAFU_SR3Vikhr_Supp">
 		<nominal>2</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
