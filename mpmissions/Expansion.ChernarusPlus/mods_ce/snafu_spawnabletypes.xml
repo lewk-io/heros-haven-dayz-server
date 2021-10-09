@@ -308,6 +308,9 @@
 	<type name="GCGN_M249">
 		<attachments chance="1.00">
 			<item name="GCGN_M249_Mag" chance="1.00" />
+			<item name="SNAFU_M249Stock" chance="1.00" />
+			<item name="SNAFU_M249Grip" chance="0.50" />
+			<item name="SNAFU_M249HG" chance="0.50" />
 		</attachments>
 	</type>
 	<type name="SNAFU_U100">
