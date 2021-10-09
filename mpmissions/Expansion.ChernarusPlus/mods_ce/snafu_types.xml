@@ -417,6 +417,35 @@
 		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
+	<type name="SNAFU_MK4710Gun">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="SNAFU_MK4716Gun">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military" />
+		<usage name="Police" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
 	<type name="GCGN_M1Garand">
 		<nominal>30</nominal>
 		<lifetime>3600</lifetime>
