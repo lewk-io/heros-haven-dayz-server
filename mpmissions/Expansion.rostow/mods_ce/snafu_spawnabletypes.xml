@@ -135,6 +135,8 @@
 	<type name="SNAFU_AK12A">
 		<attachments chance="1.00">
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
+			<item name="SNAFU_AK_HG" chance="1.00" />
+			<item name="SNAFU_AK_AR_Stock" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SNAFU_AEK545_Gun">
