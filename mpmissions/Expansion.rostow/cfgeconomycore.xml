@@ -36,7 +36,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
 	<updaters>
 	</updaters>
-	
+
 	<!-- EXPANSION CENTRAL ECONOMY -->
 	<ce folder="expansion_ce">
 		<file name="expansion_types.xml" type="types" />
@@ -55,5 +55,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="trader_types.xml" type="types" />
 		<file name="snafu_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="snafu_types.xml" type="types" />
+		<file name="vanilla_types_changes.xml" type="types" />
 	</ce>
 </economycore>
