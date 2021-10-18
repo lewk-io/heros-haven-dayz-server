@@ -36,3 +36,5 @@ mpmissions/**/storage_1/**/*
 BEC/Plugins/PlayerCountToFile/__init__.pyo
 BEC/Plugins/CommandKickAll/__init__.pyo
 *.pyo
+.DS_Store
+**/*/.DS_Store
