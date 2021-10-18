@@ -2896,7 +2896,6 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Military" />
-		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUM98B_Atac_GUN">
@@ -3076,7 +3075,6 @@
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Military" />
-		<value name="Tier3" />
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUM98B_Mag">
