@@ -228,6 +228,9 @@
 				<item name="ExpansionReflexMRSOptic" chance="0.10" />
 				<item name="ExpansionEXPS3HoloOptic" chance="0.10" />
 		</attachments>
+		<attachments chance="1.0" name="HalloweenHat">
+                <item name="PumpkinHeadClassMame" chance="1.0" />
+        </attachments>
 		<!-- -------------------------------------------------------------------------------------------- -->
 		
 

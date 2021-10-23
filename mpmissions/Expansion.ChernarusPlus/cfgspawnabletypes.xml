@@ -1615,6 +1615,7 @@
 		</cargo>
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsPrisoner" />
+		<attachments preset="HalloweenHat" />
 	</type>
 	<!-- Religious -->
 	<type name="ZmbM_priestPopSkinny">
