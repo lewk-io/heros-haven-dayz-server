@@ -2335,7 +2335,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="GCGN_M110_Black">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -2354,7 +2354,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="GCGN_M110_Green">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -2373,7 +2373,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="GCGN_M110_Tan">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
