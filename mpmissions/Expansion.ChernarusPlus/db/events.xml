@@ -884,9 +884,9 @@
     </event>
     <event name="StaticSpookyArea">
         <nominal>0</nominal>
-        <min>10</min>
-        <max>25</max>
-        <lifetime>1800</lifetime>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
         <distanceradius>0</distanceradius>
