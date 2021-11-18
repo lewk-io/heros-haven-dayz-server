@@ -1,4 +1,0 @@
-[submodule "profiles"]
-	path = profiles
-	url = https://github.com/lewk-io/heros-haven-dayz-profile.git
-	branch = main
