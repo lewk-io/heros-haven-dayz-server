@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <type name="A2G17">
+		<attachments chance="1.00">
+			<item name="A2G17_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2M9">
+		<attachments chance="1.00">
+			<item name="A2M9_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2SA58V">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2M14">
+		<attachments chance="1.00">
+			<item name="A2Mag_DMR_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2CCO" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2CZ550">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2M24Green">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="A2DMR">
+		<attachments chance="1.00">
+			<item name="A2Mag_DMR_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2DMRScope" chance="1.00" />
+		</attachments>
+	</type>
+
+    
+</spawnabletypes
