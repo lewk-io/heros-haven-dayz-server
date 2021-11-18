@@ -1,0 +1,76 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Medications",
+    "Items": [
+        {
+            "ClassName": "CharcoalTablets",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "DisinfectantAlcohol",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "VitaminBottle",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "TetracyclineAntibiotics",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "PainkillerTablets",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Epinephrine",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Morphine",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

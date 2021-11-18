@@ -1,0 +1,316 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Bags",
+    "Items": [
+        {
+            "ClassName": "ChildBag_Red",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ChildBag_Blue",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ChildBag_Green",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Yellow",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Orange",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Red",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Blue",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Black",
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DryBag_Green",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TaloonBag_Orange",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TaloonBag_Violet",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TaloonBag_Blue",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TaloonBag_Green",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SmershBag",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WaterproofBag_Yellow",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WaterproofBag_Orange",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WaterproofBag_Green",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AssaultBag_Black",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AssaultBag_Green",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AssaultBag_Ttsko",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingBag",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TortillaBag",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CoyoteBag_Brown",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CoyoteBag_Green",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MountainBag_Orange",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MountainBag_Red",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MountainBag_Blue",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MountainBag_Green",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AliceBag_Black",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AliceBag_Green",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AliceBag_Camo",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Military Gear | MVS OD",
+    "Items": [
+        {
+            "ClassName": "MVS_Canteen_OD",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Cap_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Comtacs_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Balaclava_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Facemask_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Shroud_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Helmet_01_OD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_OpsCore_OD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_ArmoredHelmet_OD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_WarriorHelmet_OD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_S10Respirator_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_PMK2Respirator_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_M50Respirator_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_CombatShirt_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_CombatPants_OD",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_ChestRig_OD",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Combat_Vest_OD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Holster_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Magazine_Pouch_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Belt_OD",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Sheath_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Compact_1_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Compact_2_OD",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Assault_Pack_OD",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 1100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_SlingPack_OD",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Pack_OD",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Rucksack_OD",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Molle_Panel_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Utility_Pouch_OD",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Taco_Pouch_OD",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Admin_Pouch_OD",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Medical_Pouch_OD",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

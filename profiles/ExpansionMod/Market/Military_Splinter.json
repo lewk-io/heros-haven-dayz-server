@@ -1,0 +1,276 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Military Gear | Splinter",
+    "Items": [
+        {
+            "ClassName": "MilitaryGear_BoonieHat_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_Beanie_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_TacticalHelmet_Splinter",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_Bandana_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_Balaclava3_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_Balaclava3Skull_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_TacticalShirt_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_PatrolJacket_Splinter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_FieldJacket_Splinter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_CombatJacket_Splinter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_TacticalPants_Splinter",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_PatrolPants_Splinter",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_FieldPants_Splinter",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_AssaultVest_Splinter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_HighCapVest_Splinter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_PlateCarrier_Splinter",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_PlateCarrierHolster_Splinter",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_AssaultBag_Splinter",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_TortillaBag_Splinter",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_CoyoteBag_Splinter",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_HuntingBag_Splinter",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_MountainBag_Splinter",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_AliceBag_Splinter",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_GhillieGunWrap_Splinter",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_GhillieHood_Splinter",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_GhillieBushrag_Splinter",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryGear_GhillieTop_Splinter",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

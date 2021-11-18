@@ -1,0 +1,156 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Expansion Vehicles Parts",
+    "Items": [
+        {
+            "ClassName": "GlowPlug",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionHelicopterBattery",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionIgniterPlug",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionHydraulicHoses",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionVodnikDoorDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionVodnikDoorCoDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZWheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZDoorDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZDoorCoDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZDoorCargo1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionUAZDoorCargo2",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorFrontWheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorBackWheel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorDoorsDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorDoorsCoDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

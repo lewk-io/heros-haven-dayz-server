@@ -1,0 +1,66 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Launchers & Ammo",
+    "Items": [
+        {
+            "ClassName": "Expansion_M79",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ammo_Expansion_M203_HE",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionRPG7",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionAmmoRPG",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionLAW",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionAmmoLAW",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 7000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

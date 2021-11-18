@@ -1,0 +1,56 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Electronics",
+    "Items": [
+        {
+            "ClassName": "Battery9V",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Megaphone",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 10000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CableReel",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Rangefinder",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "NVGoggles",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1200,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

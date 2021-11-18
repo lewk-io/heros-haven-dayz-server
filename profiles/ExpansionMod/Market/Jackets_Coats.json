@@ -1,0 +1,906 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Jackets & Coats",
+    "Items": [
+        {
+            "ClassName": "LabCoat",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TrackSuitJacket_Red",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TrackSuitJacket_LightBlue",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TrackSuitJacket_Blue",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TrackSuitJacket_Black",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TrackSuitJacket_Green",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DenimJacket",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_Blue",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_White",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_LightGrey",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_DarkGrey",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_Beige",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_Brown",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_Black",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ManSuit_Khaki",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_Blue",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_White",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_LightGrey",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_DarkGrey",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_Beige",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_Brown",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_Black",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WomanSuit_Khaki",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_Red",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_RedCheck",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_Blue",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_BlueCheck",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_GreyCheck",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_BrownCheck",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_Beige",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_Black",
+            "MaxPriceThreshold": 19,
+            "MinPriceThreshold": 19,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_BlackCheck",
+            "MaxPriceThreshold": 19,
+            "MinPriceThreshold": 19,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WoolCoat_Green",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RidersJacket_Black",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FirefighterJacket_Beige",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 24,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FirefighterJacket_Black",
+            "MaxPriceThreshold": 24,
+            "MinPriceThreshold": 24,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JumpsuitJacket_Red",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JumpsuitJacket_Blue",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JumpsuitJacket_Gray",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JumpsuitJacket_Green",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Maroon",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_SkyBlue",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Blue",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Grey",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Brown",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Black",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BomberJacket_Olive",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Orange",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Yellow",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Red",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Violet",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Blue",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Grey",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Black",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "QuiltedJacket_Green",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PrisonUniformJacket",
+            "MaxPriceThreshold": 28,
+            "MinPriceThreshold": 28,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PoliceJacketOrel",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PoliceJacket",
+            "MaxPriceThreshold": 34,
+            "MinPriceThreshold": 34,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ParamedicJacket_Crimson",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ParamedicJacket_Blue",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ParamedicJacket_Green",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HikingJacket_Red",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HikingJacket_Blue",
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HikingJacket_Black",
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HikingJacket_Green",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Pink",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Orange",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Yellow",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Red",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Blue",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Black",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Raincoat_Green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TTsKOJacket_Camo",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BDUJacket",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingJacket_Winter",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingJacket_Brown",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingJacket_Autumn",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingJacket_Spring",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HuntingJacket_Summer",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M65Jacket_Tan",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M65Jacket_Black",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M65Jacket_Khaki",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M65Jacket_Olive",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaEJacket_Autumn",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaEJacket_Flat",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaEJacket_PautRev",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GorkaEJacket_Summer",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "USMCJacket_Desert",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "USMCJacket_Woodland",
+            "MaxPriceThreshold": 155,
+            "MinPriceThreshold": 155,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "NBCJacketGray",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 1250,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

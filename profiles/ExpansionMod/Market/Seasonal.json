@@ -1,0 +1,36 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Seasonal",
+    "Items": [
+        {
+            "ClassName": "SantasBeard",
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SantasHat",
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PumpkinHelmet",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

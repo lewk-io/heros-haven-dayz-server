@@ -1,0 +1,706 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Hats & Caps",
+    "Items": [
+        {
+            "ClassName": "MedicalScrubsHat_Blue",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MedicalScrubsHat_White",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MedicalScrubsHat_Green",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bandana_Polkapattern",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bandana_Redpattern",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bandana_Blackpattern",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 6,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bandana_Greenpattern",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 8,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bandana_Greenpattern",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_CMMG_Pink",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Pink",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Red",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Blue",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Beige",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_CMMG_Black",
+            "MaxPriceThreshold": 12,
+            "MinPriceThreshold": 12,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Black",
+            "MaxPriceThreshold": 13,
+            "MinPriceThreshold": 13,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Olive",
+            "MaxPriceThreshold": 14,
+            "MinPriceThreshold": 14,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BaseballCap_Camo",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PrisonerCap",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Orange",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Red",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Blue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_NavyBlue",
+            "MaxPriceThreshold": 16,
+            "MinPriceThreshold": 16,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Black",
+            "MaxPriceThreshold": 17,
+            "MinPriceThreshold": 17,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Tan",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Olive",
+            "MaxPriceThreshold": 18,
+            "MinPriceThreshold": 18,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_DPM",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Dubok",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BoonieHat_Flecktran",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CowboyHat_Brown",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CowboyHat_darkBrown",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CowboyHat_black",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CowboyHat_green",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PilotkaCap",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OfficerHat",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "PoliceCap",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryBeret_ChDKZ",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryBeret_Red",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryBeret_UN",
+            "MaxPriceThreshold": 26,
+            "MinPriceThreshold": 26,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryBeret_CDF",
+            "MaxPriceThreshold": 27,
+            "MinPriceThreshold": 27,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MilitaryBeret_NZ",
+            "MaxPriceThreshold": 27,
+            "MinPriceThreshold": 27,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Pink",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Red",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Blue",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Grey",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Beige",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Brown",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Black",
+            "MaxPriceThreshold": 31,
+            "MinPriceThreshold": 31,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BeanieHat_Green",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_Red",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_Blue",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_BrownCheck",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_GreyCheck",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_Grey",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_Brown",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_Black",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FlatCap_BlackCheck",
+            "MaxPriceThreshold": 32,
+            "MinPriceThreshold": 32,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ZmijovkaCap_Red",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ZmijovkaCap_Blue",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ZmijovkaCap_Brown",
+            "MaxPriceThreshold": 36,
+            "MinPriceThreshold": 36,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ZmijovkaCap_Black",
+            "MaxPriceThreshold": 37,
+            "MinPriceThreshold": 37,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ZmijovkaCap_Green",
+            "MaxPriceThreshold": 38,
+            "MinPriceThreshold": 38,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RadarCap_Red",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RadarCap_Blue",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RadarCap_Brown",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RadarCap_Black",
+            "MaxPriceThreshold": 42,
+            "MinPriceThreshold": 42,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "RadarCap_Green",
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 45,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ushanka_Blue",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ushanka_Black",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ushanka_Green",
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "NBCHoodGray",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

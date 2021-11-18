@@ -1,0 +1,146 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Gloves",
+    "Items": [
+        {
+            "ClassName": "SurgicalGloves_LightBlue",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SurgicalGloves_Blue",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SurgicalGloves_White",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SurgicalGloves_Green",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WorkingGloves_Yellow",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WorkingGloves_Beige",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WorkingGloves_Brown",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WorkingGloves_Black",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalGloves_Beige",
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalGloves_Black",
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "TacticalGloves_Green",
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OMNOGloves_Gray",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "OMNOGloves_Brown",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "NBCGlovesGray",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

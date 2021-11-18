@@ -1,0 +1,26 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Explosives",
+    "Items": [
+        {
+            "ClassName": "ExpansionSatchel",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionIED",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

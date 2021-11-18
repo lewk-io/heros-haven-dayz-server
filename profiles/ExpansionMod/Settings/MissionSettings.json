@@ -1,0 +1,54 @@
+{
+    "Enabled": 1,
+    "InitialMissionStartDelay": 900000,
+    "TimeBetweenMissions": 2700000,
+    "MinMissions": 0,
+    "MaxMissions": 1,
+    "MinPlayersToStartMissions": 30,
+    "Missions": [
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_NWAF.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_NEAF.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Berezino.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Balota.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Zelenogorsk.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Myshkinko.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Novodmitrovsk.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Chernogorsk.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Elektrozavodsk.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Skalisty-Island.json"
+        },
+        {
+            "MissionType": "ExpansionMissionEventAirdrop",
+            "MissionPath": "$profile:ExpansionMod\\Missions\\Airdrop_Random_Sosnovka.json"
+        }
+    ]
+}

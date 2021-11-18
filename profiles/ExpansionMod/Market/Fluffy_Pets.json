@@ -1,0 +1,50 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Fluffy Pets <3",
+    "Items": [
+        {
+            "ClassName": "Bear_Beige",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Bear_Dark",
+                "Bear_Pink",
+                "Bear_White"
+            ]
+        },
+        {
+            "ClassName": "Bear_Dark",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bear_Pink",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bear_White",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

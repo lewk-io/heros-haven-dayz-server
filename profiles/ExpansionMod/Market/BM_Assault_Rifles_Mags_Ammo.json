@@ -1,0 +1,366 @@
+{
+  "m_Version": 4,
+  "DisplayName": "Assault Rifles, Mags & Ammo",
+  "Items": [
+    {
+      "ClassName": "SNAFUAPS",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAPS_20rdMag",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 100,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUPPSKN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUPPSKN_30rdMag",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_KAC_Gun",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_KAC_Mag",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUSR3_Vikhr",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Ammo_300ACC",
+      "MaxPriceThreshold": 2,
+      "MinPriceThreshold": 2,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUTAR21_Black",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUTAR21_Tan",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUTAR21_Green",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUHoneyBadger_Black",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUHoneyBadger_Tan",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUHoneyBadger_30rdMag_Black",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUHoneyBadger_30rdMag_Tan",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM1A_Black",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM1A_Green",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM1A_Tan",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUM1A_20rdMag",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AK308",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AK308_Mag",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_Black_GUN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_DKMC_GUN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_OD_GUN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_Snow_GUN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_Tan_GUN",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_25RND_Mag_BK",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TTC_HK417",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 4000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TTC_HK417_Magazine_20rnd",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 400,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_SR25_Gun",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 6000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_SR25_Mag",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_SR25_Supp",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Ammo_308Win",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AmmoBox_308Win_20Rnd",
+      "MaxPriceThreshold": 200,
+      "MinPriceThreshold": 200,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUASh12",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 8000,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUASh12_20rdMag",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 800,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "PurchaseType": 0,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

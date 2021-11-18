@@ -1,0 +1,22 @@
+{
+    "m_Version": 4,
+    "DisplayName": "Expansion Vehicles",
+    "Items": [
+        {
+            "ClassName": "ExpansionTractor",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 1,
+            "SpawnAttachments": [
+                "GlowPlug",
+                "ExpansionTractorFrontWheel",
+                "ExpansionTractorBackWheel",
+                "ExpansionTractorDoorsDriver",
+                "ExpansionTractorDoorsCoDriver"
+            ],
+            "Variants": []
+        }
+    ]
+}
