@@ -97,7 +97,7 @@
         }
     ],
     "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
-    "ATMSystemEnabled": 1,
+    "ATMSystemEnabled": 0,
     "MaxDepositMoney": 100000,
     "DefaultDepositMoney": 10000,
     "ATMPlayerTransferEnabled": 1,
@@ -115,72 +115,12 @@
     "LandSpawnPositions": [
         {
             "Position": [
-                11903.400390625,
-                140.0,
-                12455.099609375
+                7227.629883,
+                253.7,
+                6962.200195
             ],
             "Orientation": [
-                24.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                11898.400390625,
-                140.0,
-                12481.599609375
-            ],
-            "Orientation": [
-                24.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                11878.0,
-                140.0,
-                12482.7998046875
-            ],
-            "Orientation": [
-                24.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                1145.0,
-                6.0,
-                2405.0
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                3722.77001953125,
-                402.0,
-                6018.93017578125
-            ],
-            "Orientation": [
-                138.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                3737.18994140625,
-                402.70001220703127,
-                6001.9501953125
-            ],
-            "Orientation": [
-                138.0,
+                -110.00000,
                 0.0,
                 0.0
             ]
@@ -189,60 +129,12 @@
     "AirSpawnPositions": [
         {
             "Position": [
-                12178.900390625,
-                140.0,
-                12638.400390625
+                8228.236328,
+                472.514490,
+                9030.395508
             ],
             "Orientation": [
-                -157.1999969482422,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                12126.7001953125,
-                140.0,
-                12664.7001953125
-            ],
-            "Orientation": [
-                -66.5999984741211,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                5006.27001953125,
-                9.5,
-                2491.10009765625
-            ],
-            "Orientation": [
-                -131.6999969482422,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                4982.0,
-                9.5,
-                2468.0
-            ],
-            "Orientation": [
-                -131.6999969482422,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                4968.0,
-                9.5,
-                2513.0
-            ],
-            "Orientation": [
-                -131.6999969482422,
+                11.263603,
                 0.0,
                 0.0
             ]
@@ -251,72 +143,24 @@
     "WaterSpawnPositions": [
         {
             "Position": [
-                1759.0,
-                0.0,
-                1994.0
+                14044.3125,
+                1.0,
+                11138.001953125
             ],
             "Orientation": [
-                0.0,
+                180.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                14347.7998046875,
-                0.0,
-                13235.7998046875
+                14070.509765625,
+                1.0,
+                11165.9765625
             ],
             "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14344.099609375,
-                0.0,
-                13219.7001953125
-            ],
-            "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14360.900390625,
-                0.0,
-                13246.7001953125
-            ],
-            "Orientation": [
-                -147.5,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                1760.0,
-                0.0,
-                1730.0
-            ],
-            "Orientation": [
-                0.0,
-                0.0,
-                0.0
-            ]
-        },
-        {
-            "Position": [
-                14540.0,
-                0.0,
-                12995.0
-            ],
-            "Orientation": [
-                0.0,
+                90.0,
                 0.0,
                 0.0
             ]
@@ -330,7 +174,7 @@
         "BaseColorCheckboxes": "FBFCFEFF",
         "BaseColorInfoSectionBackground": "2225268C",
         "BaseColorTooltipsHeaders": "000000F0",
-        "BaseColorTooltipsBackground": "000000DC",
+        "BaseColorTooltipsBackground": "27272DFF",
         "ColorDecreaseQuantityButton": "DD262614",
         "ColorDecreaseQuantityIcon": "DD262628",
         "ColorSetQuantityButton": "C7265114",
