@@ -1,54 +1,57 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Seeds & Lime",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "TomatoSeedsPack",
+            "ClassName": "tomatoseedspack",
             "MaxPriceThreshold": 4,
             "MinPriceThreshold": 4,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "PepperSeedsPack",
+            "ClassName": "pepperseedspack",
             "MaxPriceThreshold": 4,
             "MinPriceThreshold": 4,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ZucchiniSeedsPack",
+            "ClassName": "zucchiniseedspack",
             "MaxPriceThreshold": 6,
             "MinPriceThreshold": 6,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "PumpkinSeedsPack",
+            "ClassName": "pumpkinseedspack",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "GardenLime",
+            "ClassName": "gardenlime",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

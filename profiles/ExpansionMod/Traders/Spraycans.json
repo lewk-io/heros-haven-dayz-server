@@ -1,0 +1,16 @@
+{
+    "m_Version": 7,
+    "TraderName": "Spraycans",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPRAYCANS",
+    "TraderIcon": "Bottle",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Spraycans"
+    ],
+    "Items": {}
+}

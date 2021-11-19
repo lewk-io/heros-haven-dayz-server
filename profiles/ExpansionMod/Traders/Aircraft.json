@@ -1,0 +1,27 @@
+{
+    "m_Version": 7,
+    "TraderName": "Aircraft",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_AIRCRAFT",
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Helicopters"
+    ],
+    "Items": {
+        "expansionmh6": 1,
+        "wrench": 1,
+        "tirerepairkit": 1,
+        "expansionhydraulichoses": 1,
+        "headlighth7_box": 1,
+        "canistergasoline": 1,
+        "carbattery": 1,
+        "sparkplug": 1,
+        "expansionhelicopterbattery": 1,
+        "expansionigniterplug": 1
+    }
+}

@@ -1,74 +1,77 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Medications",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "CharcoalTablets",
+            "ClassName": "charcoaltablets",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "DisinfectantAlcohol",
+        {
+            "ClassName": "disinfectantalcohol",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "VitaminBottle",
+        {
+            "ClassName": "vitaminbottle",
             "MaxPriceThreshold": 75,
             "MinPriceThreshold": 75,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "TetracyclineAntibiotics",
+        {
+            "ClassName": "tetracyclineantibiotics",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "PainkillerTablets",
+        {
+            "ClassName": "painkillertablets",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Epinephrine",
+        {
+            "ClassName": "epinephrine",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Morphine",
+        {
+            "ClassName": "morphine",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

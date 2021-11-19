@@ -1,0 +1,23 @@
+{
+    "m_Version": 7,
+    "TraderName": "Boats",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BOATS",
+    "TraderIcon": "Boat",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Boats"
+    ],
+    "Items": {
+        "truckbattery": 1,
+        "headlighth7_box": 1,
+        "expansionutilityboat": 1,
+        "expansionzodiacboat": 1,
+        "glowplug": 1,
+        "canistergasoline": 1
+    }
+}

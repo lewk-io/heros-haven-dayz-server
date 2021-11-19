@@ -1,20 +1,23 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Expansion Vehicles",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "ExpansionTractor",
+            "ClassName": "expansiontractor",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [
-                "GlowPlug",
-                "ExpansionTractorFrontWheel",
-                "ExpansionTractorBackWheel",
-                "ExpansionTractorDoorsDriver",
-                "ExpansionTractorDoorsCoDriver"
+                "glowplug",
+                "expansiontractorfrontwheel",
+                "expansiontractorbackwheel",
+                "expansiontractordoorsdriver",
+                "expansiontractordoorscodriver"
             ],
             "Variants": []
         }

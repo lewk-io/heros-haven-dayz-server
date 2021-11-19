@@ -1,204 +1,37 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Please sell your starter gear",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "HH_Armband",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
+            "ClassName": "improvisedbag",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ImprovisedBag",
+            "ClassName": "hoodie_drj0nes",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "Hoodie_DrJ0nes",
+            "ClassName": "hoodie_graffititiles",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_GraffitiTiles",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_Red",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_Blue",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_Grey",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_Brown",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Hoodie_Green",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_Blue",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_BlueDark",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_Grey",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_Brown",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_Black",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Jeans_Green",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Sneakers_Red",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Sneakers_White",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Sneakers_Gray",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Sneakers_Black",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "Sneakers_Green",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,34 +1,37 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Seasonal",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "SantasBeard",
+            "ClassName": "santasbeard",
             "MaxPriceThreshold": 15,
             "MinPriceThreshold": 15,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "SantasHat",
+            "ClassName": "santashat",
             "MaxPriceThreshold": 35,
             "MinPriceThreshold": 35,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "PumpkinHelmet",
+            "ClassName": "pumpkinhelmet",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

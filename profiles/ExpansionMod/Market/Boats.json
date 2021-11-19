@@ -1,14 +1,17 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOATS",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
             "ClassName": "expansionutilityboat",
             "MaxPriceThreshold": 44000,
             "MinPriceThreshold": 22000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [
                 "truckbattery",
                 "glowplug"
@@ -19,9 +22,9 @@
             "ClassName": "expansionzodiacboat",
             "MaxPriceThreshold": 44000,
             "MinPriceThreshold": 22000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [
                 "truckbattery",
                 "glowplug"
@@ -29,22 +32,22 @@
             "Variants": []
         },
         {
-            "ClassName": "TruckBattery",
+            "ClassName": "truckbattery",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 180,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "GlowPlug",
+            "ClassName": "glowplug",
             "MaxPriceThreshold": 180,
             "MinPriceThreshold": 180,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 1,
             "SpawnAttachments": [],
             "Variants": []
         }

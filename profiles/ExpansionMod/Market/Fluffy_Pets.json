@@ -1,48 +1,51 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Fluffy Pets <3",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "Bear_Beige",
+            "ClassName": "bear_beige",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": [
-                "Bear_Dark",
-                "Bear_Pink",
-                "Bear_White"
+                "bear_dark",
+                "bear_pink",
+                "bear_white"
             ]
         },
         {
-            "ClassName": "Bear_Dark",
+            "ClassName": "bear_dark",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "Bear_Pink",
+            "ClassName": "bear_pink",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "Bear_White",
+            "ClassName": "bear_white",
             "MaxPriceThreshold": 50000,
             "MinPriceThreshold": 50000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,64 +1,67 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "MoneyRuble1",
+            "ClassName": "moneyruble1",
             "MaxPriceThreshold": 1,
             "MinPriceThreshold": 1,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MoneyRuble5",
+            "ClassName": "moneyruble5",
             "MaxPriceThreshold": 5,
             "MinPriceThreshold": 5,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MoneyRuble10",
+            "ClassName": "moneyruble10",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MoneyRuble25",
+            "ClassName": "moneyruble25",
             "MaxPriceThreshold": 25,
             "MinPriceThreshold": 25,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MoneyRuble50",
+            "ClassName": "moneyruble50",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MoneyRuble100",
+            "ClassName": "moneyruble100",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

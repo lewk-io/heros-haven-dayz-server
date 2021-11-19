@@ -1,204 +1,207 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Sidearms",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "MakarovIJ70",
+            "ClassName": "makarovij70",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "CZ75",
+        {
+            "ClassName": "cz75",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "FNX45",
+        {
+            "ClassName": "fnx45",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Glock19",
+        {
+            "ClassName": "glock19",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SN_Glock19",
+        {
+            "ClassName": "sn_glock19",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "MKII",
+        {
+            "ClassName": "mkii",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Colt1911",
+        {
+            "ClassName": "colt1911",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Engraved1911",
+        {
+            "ClassName": "engraved1911",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SN_USP",
+        {
+            "ClassName": "sn_usp",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SN_M9",
+        {
+            "ClassName": "sn_m9",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_PL14HQP",
+        {
+            "ClassName": "snafu_pl14hqp",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Tec9_Gun",
+        {
+            "ClassName": "tec9_gun",
             "MaxPriceThreshold": 890,
             "MinPriceThreshold": 890,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Fort12_GUN",
+        {
+            "ClassName": "snafu_fort12_gun",
             "MaxPriceThreshold": 850,
             "MinPriceThreshold": 850,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Expansion_Crossbow",
+        {
+            "ClassName": "expansion_crossbow",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFUChiappaRhino",
+        {
+            "ClassName": "snafuchiapparhino",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Magnum",
+        {
+            "ClassName": "magnum",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Deagle",
+        {
+            "ClassName": "deagle",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Deagle_Gold",
+        {
+            "ClassName": "deagle_gold",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFUMagnum500",
+        {
+            "ClassName": "snafumagnum500",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFUSWM629",
+        {
+            "ClassName": "snafuswm629",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

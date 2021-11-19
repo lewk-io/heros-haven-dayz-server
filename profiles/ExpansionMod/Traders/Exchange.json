@@ -1,0 +1,23 @@
+{
+    "m_Version": 7,
+    "TraderName": "Exchange",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
+    "TraderIcon": "Trader",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Exchange"
+    ],
+    "Items": {
+        "moneyruble10": 1,
+        "moneyruble5": 1,
+        "moneyruble100": 1,
+        "moneyruble25": 1,
+        "moneyruble50": 1,
+        "moneyruble1": 1
+    }
+}

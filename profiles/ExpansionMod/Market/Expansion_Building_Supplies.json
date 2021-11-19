@@ -1,64 +1,67 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Expansion",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "ExpansionSafeMini",
+            "ClassName": "expansionsafemini",
             "MaxPriceThreshold": 2500,
             "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionSafeMedium",
+            "ClassName": "expansionsafemedium",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionSafeLarge",
+            "ClassName": "expansionsafelarge",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionHelipadKit",
+            "ClassName": "expansionhelipadkit",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionBarbedWireKit",
+            "ClassName": "expansionbarbedwirekit",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionHescoKit",
+            "ClassName": "expansionhescokit",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

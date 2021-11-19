@@ -1,286 +1,289 @@
 {
-  "m_Version": 4,
-  "DisplayName": "Military Gear | PartizanM",
-  "Items": [
-    {
-      "ClassName": "MilitaryGear_BoonieHat_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_Beanie_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_TacticalHelmet_PartizanM",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_Bandana_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_Balaclava3_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_Balaclava3Skull_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_TacticalShirt_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_PatrolJacket_PartizanM",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_FieldJacket_PartizanM",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_CombatJacket_PartizanM",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_TacticalPants_PartizanM",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_PatrolPants_PartizanM",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_FieldPants_PartizanM",
-      "MaxPriceThreshold": 300,
-      "MinPriceThreshold": 300,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_AssaultVest_PartizanM",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_HighCapVest_PartizanM",
-      "MaxPriceThreshold": 500,
-      "MinPriceThreshold": 500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_PlateCarrier_PartizanM",
-      "MaxPriceThreshold": 1500,
-      "MinPriceThreshold": 1500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_PlateCarrierHolster_PartizanM",
-      "MaxPriceThreshold": 200,
-      "MinPriceThreshold": 200,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_AssaultBag_PartizanM",
-      "MaxPriceThreshold": 600,
-      "MinPriceThreshold": 600,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_TortillaBag_PartizanM",
-      "MaxPriceThreshold": 800,
-      "MinPriceThreshold": 800,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_CoyoteBag_PartizanM",
-      "MaxPriceThreshold": 800,
-      "MinPriceThreshold": 800,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_HuntingBag_PartizanM",
-      "MaxPriceThreshold": 800,
-      "MinPriceThreshold": 800,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_MountainBag_PartizanM",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_AliceBag_PartizanM",
-      "MaxPriceThreshold": 2500,
-      "MinPriceThreshold": 2500,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_GhillieGunWrap_PartizanM",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_GhillieHood_PartizanM",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_GhillieBushrag_PartizanM",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_GhillieTop_PartizanM",
-      "MaxPriceThreshold": 1000,
-      "MinPriceThreshold": 1000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    },
-    {
-      "ClassName": "MilitaryGear_GhillieSuit_PartizanM",
-      "MaxPriceThreshold": 3000,
-      "MinPriceThreshold": 3000,
-      "MaxStockThreshold": 1,
-      "MinStockThreshold": 1,
-      "PurchaseType": 0,
-      "SpawnAttachments": [],
-      "Variants": []
-    }
-  ]
+    "m_Version": 8,
+    "DisplayName": "Military Gear | PartizanM",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "militarygear_booniehat_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_beanie_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_tacticalhelmet_partizanm",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_bandana_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_balaclava3_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_balaclava3skull_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_tacticalshirt_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_patroljacket_partizanm",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_fieldjacket_partizanm",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_combatjacket_partizanm",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_tacticalpants_partizanm",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_patrolpants_partizanm",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_fieldpants_partizanm",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_assaultvest_partizanm",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_highcapvest_partizanm",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_platecarrier_partizanm",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_platecarrierholster_partizanm",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_assaultbag_partizanm",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_tortillabag_partizanm",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_coyotebag_partizanm",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_huntingbag_partizanm",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_mountainbag_partizanm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_alicebag_partizanm",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_ghilliegunwrap_partizanm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_ghilliehood_partizanm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_ghilliebushrag_partizanm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_ghillietop_partizanm",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militarygear_ghilliesuit_partizanm",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
 }

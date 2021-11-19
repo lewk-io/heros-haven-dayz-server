@@ -1,104 +1,97 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Submachine Guns",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "CZ61",
+            "ClassName": "cz61",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "UMP45",
+            "ClassName": "ump45",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "MP5K",
+            "ClassName": "mp5k",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "Expansion_MP5",
+            "ClassName": "expansion_mp5",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "SNAFU_MP9_GUN",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "GCGN_Vityaz",
+            "ClassName": "gcgn_vityaz",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_PDW_45ACP",
+        {
+            "ClassName": "snafu_pdw_45acp",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_PDW_9mm",
+        {
+            "ClassName": "snafu_pdw_9mm",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Expansion_G36",
+        {
+            "ClassName": "expansion_g36",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "AKS74U",
+        {
+            "ClassName": "aks74u",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

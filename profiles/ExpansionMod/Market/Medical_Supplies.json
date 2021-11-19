@@ -1,84 +1,87 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Medical Supplies",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "Rag",
+            "ClassName": "rag",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BandageDressing",
+        {
+            "ClassName": "bandagedressing",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BloodTestKit",
+        {
+            "ClassName": "bloodtestkit",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "DisinfectantSpray",
+        {
+            "ClassName": "disinfectantspray",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Heatpack",
+        {
+            "ClassName": "heatpack",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "StartKitIV",
+        {
+            "ClassName": "startkitiv",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SalineBag",
+        {
+            "ClassName": "salinebag",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BloodBagEmpty",
+        {
+            "ClassName": "bloodbagempty",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

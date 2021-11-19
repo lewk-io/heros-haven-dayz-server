@@ -1,74 +1,77 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Tools (big)",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "LugWrench",
+            "ClassName": "lugwrench",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Crowbar",
+        {
+            "ClassName": "crowbar",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Shovel",
+        {
+            "ClassName": "shovel",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Pickaxe",
+        {
+            "ClassName": "pickaxe",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SledgeHammer",
+        {
+            "ClassName": "sledgehammer",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "WoodAxe",
+        {
+            "ClassName": "woodaxe",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "FirefighterAxe",
+        {
+            "ClassName": "firefighteraxe",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

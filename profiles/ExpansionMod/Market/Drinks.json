@@ -1,74 +1,77 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Drinks",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "SodaCan_Cola",
+            "ClassName": "sodacan_cola",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SodaCan_Kvass",
+        {
+            "ClassName": "sodacan_kvass",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SodaCan_Pipsi",
+        {
+            "ClassName": "sodacan_pipsi",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SodaCan_Spite",
+        {
+            "ClassName": "sodacan_spite",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "WaterBottle",
+        {
+            "ClassName": "waterbottle",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Canteen",
+        {
+            "ClassName": "canteen",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Vodka",
+        {
+            "ClassName": "vodka",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

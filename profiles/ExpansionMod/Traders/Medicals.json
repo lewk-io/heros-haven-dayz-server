@@ -1,0 +1,16 @@
+{
+    "m_Version": 7,
+    "TraderName": "Medicals",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MEDICALS",
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Medical"
+    ],
+    "Items": {}
+}

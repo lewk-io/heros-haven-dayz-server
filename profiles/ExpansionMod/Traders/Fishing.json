@@ -1,0 +1,16 @@
+{
+    "m_Version": 7,
+    "TraderName": "Fishing",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_FISHING",
+    "TraderIcon": "Fishing",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Fishing"
+    ],
+    "Items": {}
+}

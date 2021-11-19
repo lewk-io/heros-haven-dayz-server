@@ -1,94 +1,97 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Shotguns",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "SNAFU_TP82S",
+            "ClassName": "snafu_tp82s",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Mp133Shotgun",
+        {
+            "ClassName": "mp133shotgun",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Izh43Shotgun",
+        {
+            "ClassName": "izh43shotgun",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Trenchgun",
+        {
+            "ClassName": "snafu_trenchgun",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Spas12_Gun",
+        {
+            "ClassName": "spas12_gun",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Saiga",
+        {
+            "ClassName": "saiga",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Expansion_DT11",
+        {
+            "ClassName": "expansion_dt11",
             "MaxPriceThreshold": 2000,
             "MinPriceThreshold": 2000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "AA12",
+        {
+            "ClassName": "aa12",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SN_Auto_Shotgun",
+        {
+            "ClassName": "sn_auto_shotgun",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

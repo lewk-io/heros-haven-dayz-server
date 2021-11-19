@@ -1,884 +1,767 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Optic and Rails",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "M14Rail",
+            "ClassName": "m14rail",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Expansion_M1A_RailAtt",
+        {
+            "ClassName": "expansion_m1a_railatt",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Crossbow_RedpointOptic",
+        {
+            "ClassName": "crossbow_redpointoptic",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "M4_CarryHandleOptic",
+        {
+            "ClassName": "m4_carryhandleoptic",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BUISOptic",
+        {
+            "ClassName": "buisoptic",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionDeltapointOptic",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "ExpansionEXPS3HoloOptic",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "FNP45_MRDSOptic",
+        {
+            "ClassName": "fnp45_mrdsoptic",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ReflexOptic",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "ExpansionReflexMRSOptic",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "ACOGOptic",
+        {
+            "ClassName": "pso11optic",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionHAMROptic",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "PSO1Optic",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "PSO11Optic",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "M68Optic",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "M4_T3NRDSOptic",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "KobraOptic",
+        {
+            "ClassName": "kobraoptic",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Kobra",
+        {
+            "ClassName": "snafu_kobra",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "KazuarOptic",
+        {
+            "ClassName": "kazuaroptic",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "StarlightOptic",
+        {
+            "ClassName": "starlightoptic",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "KashtanOptic",
+        {
+            "ClassName": "kashtanoptic",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 700,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "PUScopeOptic",
+        {
+            "ClassName": "puscopeoptic",
             "MaxPriceThreshold": 700,
             "MinPriceThreshold": 700,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "HuntingOptic",
+        {
+            "ClassName": "snafu_huntingoptic",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_akhuntingoptic",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_hhuntingoptic",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_mhuntingoptic",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_m14optic",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_nightforce",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "snafu_aknightforce",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionKar98ScopeOptic",
+        {
+            "ClassName": "snafu_hnightforce",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Expansion_PMII25Optic",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_HuntingOptic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_AKHuntingOptic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_HHuntingOptic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_MHuntingOptic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_M14Optic",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_Nightforce",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_AKNightforce",
+        {
+            "ClassName": "snafu_mnightforce",
             "MaxPriceThreshold": 800,
             "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HNightforce",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_MNightforce",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "SNAFU_Leupold_Mark8",
+        {
+            "ClassName": "snafu_leupold_mark8",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKLeupold_Mark8",
+        {
+            "ClassName": "snafu_akleupold_mark8",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HLeupold_Mark8",
+        {
+            "ClassName": "snafu_hleupold_mark8",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MLeupold_Mark8",
+        {
+            "ClassName": "snafu_mleupold_mark8",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Kahles",
+        {
+            "ClassName": "snafu_kahles",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKKahles",
+        {
+            "ClassName": "snafu_akkahles",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HKahles",
+        {
+            "ClassName": "snafu_hkahles",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MKahles",
+        {
+            "ClassName": "snafu_mkahles",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Aimpoint_ACO",
+        {
+            "ClassName": "snafu_aimpoint_aco",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKAimpoint_ACO",
+        {
+            "ClassName": "snafu_akaimpoint_aco",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HAimpoint_ACO",
+        {
+            "ClassName": "snafu_haimpoint_aco",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MAimpoint_ACO",
+        {
+            "ClassName": "snafu_maimpoint_aco",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Aimpoint_M5",
+        {
+            "ClassName": "snafu_aimpoint_m5",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKAimpoint_M5",
+        {
+            "ClassName": "snafu_akaimpoint_m5",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HAimpoint_M5",
+        {
+            "ClassName": "snafu_haimpoint_m5",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MAimpoint_M5",
+        {
+            "ClassName": "snafu_maimpoint_m5",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Elcan",
+        {
+            "ClassName": "snafu_elcan",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKElcan",
+        {
+            "ClassName": "snafu_akelcan",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HElcan",
+        {
+            "ClassName": "snafu_helcan",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MElcan",
+        {
+            "ClassName": "snafu_melcan",
             "MaxPriceThreshold": 900,
             "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_EOTech_EXPS3",
+        {
+            "ClassName": "snafu_eotech_exps3",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKEOTech_EXPS3",
+        {
+            "ClassName": "snafu_akeotech_exps3",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HEOTech_EXPS3",
+        {
+            "ClassName": "snafu_heotech_exps3",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MEOTech_EXPS3",
+        {
+            "ClassName": "snafu_meotech_exps3",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Trijicon",
+        {
+            "ClassName": "snafu_trijicon",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTrijicon",
+        {
+            "ClassName": "snafu_aktrijicon",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Trijicon_Docter",
+        {
+            "ClassName": "snafu_trijicon_docter",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTrijicon_Docter",
+        {
+            "ClassName": "snafu_aktrijicon_docter",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HTrijicon",
+        {
+            "ClassName": "snafu_htrijicon",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HTrijicon_Docter",
+        {
+            "ClassName": "snafu_htrijicon_docter",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTrijicon",
+        {
+            "ClassName": "snafu_mtrijicon",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTrijicon_Docter",
+        {
+            "ClassName": "snafu_mtrijicon_docter",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Walther",
+        {
+            "ClassName": "snafu_walther",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKWalther",
+        {
+            "ClassName": "snafu_akwalther",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_HWalther",
+        {
+            "ClassName": "snafu_hwalther",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MWalther",
+        {
+            "ClassName": "snafu_mwalther",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Docter",
+        {
+            "ClassName": "snafu_docter",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AK_Mount_Base",
+        {
+            "ClassName": "snafu_ak_mount_base",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Hunting_Mount_Base",
+        {
+            "ClassName": "snafu_hunting_mount_base",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Mosin_Mount_Base",
+        {
+            "ClassName": "snafu_mosin_mount_base",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "TTC_G3_Optic",
+        {
+            "ClassName": "ttc_g3_optic",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "TTC_Holo",
+        {
+            "ClassName": "ttc_holo",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Tango6T_Black",
+        {
+            "ClassName": "snafu_tango6t_black",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Tango6T_Tan",
+        {
+            "ClassName": "snafu_tango6t_tan",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Tango6T_Wood",
+        {
+            "ClassName": "snafu_tango6t_wood",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_Tango6T_Snow",
+        {
+            "ClassName": "snafu_tango6t_snow",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTango6T_Black",
+        {
+            "ClassName": "snafu_aktango6t_black",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTango6T_Tan",
+        {
+            "ClassName": "snafu_aktango6t_tan",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTango6T_Wood",
+        {
+            "ClassName": "snafu_aktango6t_wood",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_AKTango6T_Snow",
+        {
+            "ClassName": "snafu_aktango6t_snow",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTango6T_Black",
+        {
+            "ClassName": "snafu_mtango6t_black",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTango6T_Tan",
+        {
+            "ClassName": "snafu_mtango6t_tan",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTango6T_Wood",
+        {
+            "ClassName": "snafu_mtango6t_wood",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SNAFU_MTango6T_Snow",
+        {
+            "ClassName": "snafu_mtango6t_snow",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

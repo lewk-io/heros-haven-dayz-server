@@ -1,0 +1,37 @@
+{
+    "m_Version": 7,
+    "TraderName": "Consumables",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_CONSUMABLES",
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Drinks",
+        "Food",
+        "Fruit_And_Vegetables",
+        "Meat",
+        "Fish"
+    ],
+    "Items": {
+        "sodacan_cola": 1,
+        "cowsteakmeat": 1,
+        "sodacan_pipsi": 1,
+        "canteen": 1,
+        "wolfsteakmeat": 1,
+        "bearsteakmeat": 1,
+        "goatsteakmeat": 1,
+        "boarsteakmeat": 1,
+        "deersteakmeat": 1,
+        "vodka": 1,
+        "waterbottle": 1,
+        "sodacan_spite": 1,
+        "pigsteakmeat": 1,
+        "sheepsteakmeat": 1,
+        "sodacan_kvass": 1,
+        "chickenbreastmeat": 1
+    }
+}

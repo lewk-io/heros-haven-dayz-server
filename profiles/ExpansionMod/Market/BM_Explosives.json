@@ -1,24 +1,27 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Explosives",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "ExpansionSatchel",
+            "ClassName": "expansionsatchel",
             "MaxPriceThreshold": 100000,
             "MinPriceThreshold": 100000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "ExpansionIED",
+            "ClassName": "expansionied",
             "MaxPriceThreshold": 20000,
             "MinPriceThreshold": 20000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,54 +1,57 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Electronics",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "Battery9V",
+            "ClassName": "battery9v",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Megaphone",
+        {
+            "ClassName": "megaphone",
             "MaxPriceThreshold": 10000,
             "MinPriceThreshold": 10000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "CableReel",
+        {
+            "ClassName": "cablereel",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Rangefinder",
+        {
+            "ClassName": "rangefinder",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "NVGoggles",
+        {
+            "ClassName": "nvgoggles",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,174 +1,177 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Packaged Food",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "PowderedMilk",
+            "ClassName": "powderedmilk",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BoxCerealCrunchin",
+        {
+            "ClassName": "boxcerealcrunchin",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Rice",
+        {
+            "ClassName": "rice",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "Marmalade",
+        {
+            "ClassName": "marmalade",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "PeachesCan",
+        {
+            "ClassName": "peachescan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SardinesCan",
+        {
+            "ClassName": "sardinescan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "TunaCan",
+        {
+            "ClassName": "tunacan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "SpaghettiCan",
+        {
+            "ClassName": "spaghettican",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "BakedBeansCan",
+        {
+            "ClassName": "bakedbeanscan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "TacticalBaconCan",
+        {
+            "ClassName": "tacticalbaconcan",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionCheese1",
+        {
+            "ClassName": "expansioncheese1",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionCheese2",
+        {
+            "ClassName": "expansioncheese2",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionCheese3",
+        {
+            "ClassName": "expansioncheese3",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionCheese4",
+        {
+            "ClassName": "expansioncheese4",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionBread1",
+        {
+            "ClassName": "expansionbread1",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionBread2",
+        {
+            "ClassName": "expansionbread2",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
-            "ClassName": "ExpansionBread3",
+        {
+            "ClassName": "expansionbread3",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }

@@ -1,0 +1,50 @@
+{
+    "m_Version": 7,
+    "TraderName": "BuildingSupplies",
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES",
+    "TraderIcon": "Nails",
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ],
+    "Categories": [
+        "Tools",
+        "Supplies",
+        "Locks",
+        "Containers",
+        "Tents",
+        "Furnishings",
+        "Flags"
+    ],
+    "Items": {
+        "flag_cannibals": 1,
+        "flag_wolf": 1,
+        "flag_altis": 1,
+        "flag_nsahrani": 1,
+        "flag_ssahrani": 1,
+        "flag_livoniapolice": 1,
+        "flag_chel": 1,
+        "flag_bear": 1,
+        "flag_pirates": 1,
+        "flag_rooster": 1,
+        "flag_uec": 1,
+        "flag_hunterz": 1,
+        "flag_chedaki": 1,
+        "flag_brainz": 1,
+        "flag_livoniaarmy": 1,
+        "flag_zenit": 1,
+        "flag_chernarus": 1,
+        "flag_napa": 1,
+        "flag_cdf": 1,
+        "flag_babydeer": 1,
+        "flag_dayz": 1,
+        "flag_bohemia": 1,
+        "flag_apa": 1,
+        "flag_livonia": 1,
+        "flag_cmc": 1,
+        "flag_tec": 1,
+        "flag_white": 1
+    }
+}

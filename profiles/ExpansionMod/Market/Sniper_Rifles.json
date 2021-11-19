@@ -1,74 +1,77 @@
 {
-    "m_Version": 4,
+    "m_Version": 8,
     "DisplayName": "Sniper Rifles",
+    "Icon": "Deliver",
+    "Color": "",
+    "InitStockPercent": 75.0,
     "Items": [
         {
-            "ClassName": "B95",
+            "ClassName": "b95",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "SNAFUMarlin1895",
+            "ClassName": "snafumarlin1895",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "VSS",
+            "ClassName": "vss",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "SNAFU_M48",
+            "ClassName": "snafu_m48",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "SVD",
+            "ClassName": "svd",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "Expansion_Kar98",
+            "ClassName": "expansion_kar98",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         },
         {
-            "ClassName": "GCGN_M700",
+            "ClassName": "gcgn_m700",
             "MaxPriceThreshold": 6000,
             "MinPriceThreshold": 6000,
+            "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
             "SpawnAttachments": [],
             "Variants": []
         }
