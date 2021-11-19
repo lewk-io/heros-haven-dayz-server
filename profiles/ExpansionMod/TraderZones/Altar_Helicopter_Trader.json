@@ -1,0 +1,22 @@
+{
+    "m_Version": 5,
+    "m_ZoneName": "Altar_Helicopter",
+    "m_DisplayName": "Helicopter Trader",
+    "Position": [
+        8216.5703125,
+        470.5060119628906,
+        9040.099609375
+    ],
+    "Radius": 140.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 50.0,
+    "Stock": {
+        "expansionmh6": 1,
+        "camonet": 1,
+        "expansionhydraulichoses": 1,
+        "wrench": 1,
+        "expansionhelipadkit": 1,
+        "expansionhelicopterbattery": 1,
+        "expansionigniterplug": 1
+    }
+}

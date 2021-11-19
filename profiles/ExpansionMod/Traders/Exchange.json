@@ -2,22 +2,22 @@
     "m_Version": 7,
     "TraderName": "Exchange",
     "DisplayName": "#STR_EXPANSION_MARKET_TRADER_EXCHANGE",
-    "TraderIcon": "Trader",
+    "TraderIcon": "Questionmark",
     "Currencies": [
-        "expansiongoldbar",
-        "expansiongoldnugget",
-        "expansionsilverbar",
-        "expansionsilvernugget"
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
     ],
     "Categories": [
         "Exchange"
     ],
     "Items": {
-        "moneyruble10": 1,
-        "moneyruble5": 1,
-        "moneyruble100": 1,
-        "moneyruble25": 1,
-        "moneyruble50": 1,
-        "moneyruble1": 1
+        "expansiongoldbar": 1,
+        "expansionsilvernugget": 1,
+        "expansiongoldnugget": 1,
+        "expansionsilverbar": 1
     }
 }

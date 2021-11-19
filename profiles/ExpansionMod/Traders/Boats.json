@@ -4,20 +4,21 @@
     "DisplayName": "#STR_EXPANSION_MARKET_TRADER_BOATS",
     "TraderIcon": "Boat",
     "Currencies": [
-        "expansiongoldbar",
-        "expansiongoldnugget",
-        "expansionsilverbar",
-        "expansionsilvernugget"
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
     ],
     "Categories": [
         "Boats"
     ],
     "Items": {
         "truckbattery": 1,
-        "headlighth7_box": 1,
-        "expansionutilityboat": 1,
-        "expansionzodiacboat": 1,
+        "expansionzodiacboat": 0,
         "glowplug": 1,
-        "canistergasoline": 1
+        "expansioncarkey": 1,
+        "expansionutilityboat": 0
     }
 }
