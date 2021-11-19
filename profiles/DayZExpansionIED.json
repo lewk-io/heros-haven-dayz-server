@@ -1,0 +1,8 @@
+{
+    "range": 5.0,
+    "dropOff": 1.0,
+    "dropOffRange": 0.0,
+    "multiplierAdjustment": 0.8,
+    "timer": 15.0,
+    "objectsToSplash": 1
+}
