@@ -47,6 +47,7 @@ profiles/@Logging/**/*
 
 profiles/BattlEye/**/*
 
+profiles/CarCover/**/*
 profiles/CarCover/*.log
 
 profiles/CodeLock/**/*.log
