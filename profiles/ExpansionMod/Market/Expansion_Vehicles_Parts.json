@@ -144,6 +144,26 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorDoorsDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ExpansionTractorDoorsCoDriver",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

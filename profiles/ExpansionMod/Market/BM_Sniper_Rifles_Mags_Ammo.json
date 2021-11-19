@@ -16,6 +16,26 @@
             "Variants": []
         },
         {
+            "ClassName": "Ammo_9x39",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmmoBox_9x39_20Rnd",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_val_20rnd",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,

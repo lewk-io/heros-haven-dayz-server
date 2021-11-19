@@ -466,6 +466,16 @@
             "Variants": []
         },
         {
+            "ClassName": "Mich2001Helmet",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "ssh68helmet",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,

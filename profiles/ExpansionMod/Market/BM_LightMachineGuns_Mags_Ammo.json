@@ -140,6 +140,16 @@
             "Variants": []
         },
         {
+            "ClassName": "SNAFU_Ammo_300ACC",
+            "MaxPriceThreshold": 2,
+            "MinPriceThreshold": 2,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "snafumk12",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,
@@ -312,6 +322,26 @@
             "Variants": []
         },
         {
+            "ClassName": "Ammo_545x39",
+            "MaxPriceThreshold": 3,
+            "MinPriceThreshold": 3,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmmoBox_545x39_20Rnd",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "snafu_pkp_250rnd_mag",
             "MaxPriceThreshold": 1500,
             "MinPriceThreshold": 1500,
@@ -365,6 +395,26 @@
             "SpawnAttachments": [
                 "ammo_556x45"
             ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ammo_556x45",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 4,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AmmoBox_556x45_20Rnd",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

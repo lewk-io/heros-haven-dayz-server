@@ -377,6 +377,16 @@
             ],
             "Variants": []
         },
+		{
+            "ClassName": "SNAFU_KAC_Mag",
+            "MaxPriceThreshold": 85,
+            "MinPriceThreshold": 85,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "snafu_saint_mag",
             "MaxPriceThreshold": 115,
@@ -652,6 +662,26 @@
             "Variants": []
         },
         {
+            "ClassName": "SNAFUAR15_SPR_30RND_Mag",
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFUAR15_SPR_40RND_Mag",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "snhk417_mag",
             "MaxPriceThreshold": 75,
             "MinPriceThreshold": 75,
@@ -793,6 +823,16 @@
             "SpawnAttachments": [
                 "ammo_556x45"
             ],
+            "Variants": []
+        },
+        {
+            "ClassName": "SG550_Mag",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
             "Variants": []
         },
         {

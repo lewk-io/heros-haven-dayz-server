@@ -255,6 +255,16 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+		{
+            "ClassName": "TTC_M14Suppressor",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "expansiondeltapointoptic",
             "MaxPriceThreshold": 100,
