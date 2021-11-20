@@ -2,7 +2,7 @@
     "m_Version": 8,
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
     "Icon": "Deliver",
-    "Color": "",
+    "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
         {

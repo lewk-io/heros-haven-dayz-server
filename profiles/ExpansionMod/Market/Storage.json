@@ -2,7 +2,7 @@
     "m_Version": 8,
     "DisplayName": "Storage",
     "Icon": "Deliver",
-    "Color": "",
+    "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
         {
