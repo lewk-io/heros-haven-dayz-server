@@ -2183,7 +2183,7 @@
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ReflexOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
-		</attachments>	
+		</attachments>
 		<attachments chance="0.10">
 			<item name="TLRLight" chance="1.00" />
 		</attachments>
@@ -2310,6 +2310,11 @@
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_30Rnd" chance="0.85" />
             <item name="Mag_STANAGCoupled_30Rnd" chance="0.15" />
+		</attachments>
+	</type>
+	<type name="FAMAS">
+		<attachments chance="0.75">
+			<item name="Mag_FAMAS_25Rnd" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="FAL">
