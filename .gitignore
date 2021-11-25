@@ -13,6 +13,8 @@ config/**/*
 docs/**/*
 dta/**/*
 keys/**/*
+keys/**/*
+!keys/Heros-Haven.bikey
 logs/**/*
 node_modules/
 steamapps/**/*
