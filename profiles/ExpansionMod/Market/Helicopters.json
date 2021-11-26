@@ -7,8 +7,8 @@
     "Items": [
          {
             "ClassName": "expansionmh6",
-            "MaxPriceThreshold": 28500,
-            "MinPriceThreshold": 28500,
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 28000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
