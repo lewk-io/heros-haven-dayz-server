@@ -4,14 +4,19 @@
     "DisplayName": "Exotic Trader",
     "TraderIcon": "Deliver",
     "Currencies": [
-		"MoneyRuble1",
-		"MoneyRuble5",
-		"MoneyRuble10",
-		"MoneyRuble25",
-		"MoneyRuble50",
-		"MoneyRuble100"
+        "MoneyRuble1",
+        "MoneyRuble5",
+        "MoneyRuble10",
+        "MoneyRuble25",
+        "MoneyRuble50",
+        "MoneyRuble100"
     ],
     "Categories": [
         "Exotic_Pelts"
-    ]
+    ],
+    "Items": {
+		"HellHoundPelt": 2,
+		"PlagueHoundPelt": 2,
+		"ThurberPelt": 2
+    }
 }

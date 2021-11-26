@@ -77,8 +77,8 @@
         },
         {
             "ClassName": "rabbitpelt",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
