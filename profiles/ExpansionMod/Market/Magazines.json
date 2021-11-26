@@ -378,7 +378,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "SNAFU_KAC_Mag",
+            "ClassName": "snafu_kac_mag",
             "MaxPriceThreshold": 85,
             "MinPriceThreshold": 85,
             "MaxStockThreshold": 1,
