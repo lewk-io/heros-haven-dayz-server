@@ -31,6 +31,19 @@
             ]
         },
         {
+            "m_UID": "ExoticTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Exotic Trader",
+            "m_IconName": "Trader",
+            "m_Color": -22511,
+            "m_Position": [
+                8654.18,
+                176.266,
+                13629.9
+            ]
+        },
+        {
             "m_UID": "SurvivorsSafeTrader",
             "m_Visibility": 6,
             "m_Is3D": 1,
