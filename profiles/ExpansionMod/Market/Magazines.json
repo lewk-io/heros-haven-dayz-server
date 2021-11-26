@@ -246,6 +246,18 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_AK74_45Rnd",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ammo_545x39"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_expansion_g36_30rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
