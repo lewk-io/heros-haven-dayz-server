@@ -514,16 +514,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "nbcbootsgray",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

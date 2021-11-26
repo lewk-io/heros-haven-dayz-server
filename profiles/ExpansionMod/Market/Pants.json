@@ -784,16 +784,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "nbcpantsgray",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

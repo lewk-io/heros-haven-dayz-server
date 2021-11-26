@@ -894,16 +894,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "nbcjacketgray",
-            "MaxPriceThreshold": 1250,
-            "MinPriceThreshold": 1250,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

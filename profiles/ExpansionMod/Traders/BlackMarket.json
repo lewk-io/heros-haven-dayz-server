@@ -18,6 +18,19 @@
         "BM_Grenades",
         "BM_Launchers_Ammo",
         "BM_LightMachineGuns_Mags_Ammo",
-        "BM_Sniper_Rifles_Mags_Ammo"
-    ]
+        "BM_Sniper_Rifles_Mags_Ammo",
+        "NBC"
+    ],
+    "Items": {
+        "nbchoodgray": 2,
+        "nbcjacketgray": 2,
+        "nbcglovesgray": 2,
+        "nbcpantsgray": 2,
+        "nbcbootsgray": 2,
+        "nbchoodyellow": 2,
+        "nbcjacketyellow": 2,
+        "nbcglovesyellow": 2,
+        "nbcpantsyellow": 2,
+        "nbcbootsyellow": 2
+    }
 }
