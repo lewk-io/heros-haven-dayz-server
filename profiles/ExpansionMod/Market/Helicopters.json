@@ -13,15 +13,14 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [
-				"expansion_mh6_door_1_1",
-				"expansion_mh6_door_1_2",
-				"expansion_mh6_door_2_1",
-				"expansion_mh6_door_2_2",
 				"expansionhelicopterbattery",
 				"expansionhydraulichoses",
 				"expansionigniterplug",
 				"headlighth7",
-				"headlighth7"
+				"expansion_mh6_door_1_1",
+				"expansion_mh6_door_1_2",
+				"expansion_mh6_door_2_1",
+				"expansion_mh6_door_2_2"
 			],
             "Variants": []
         }
