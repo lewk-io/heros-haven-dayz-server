@@ -23,56 +23,5 @@
             ],
             "Variants": []
         }
-    ],
-    "ItemsFuture": [
-        {
-            "ClassName": "expansiongyrocopter",
-            "MaxPriceThreshold": 1000000,
-            "MinPriceThreshold": 500000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [
-                "expansionhelicopterbattery",
-                "sparkplug"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionuh1h",
-            "MaxPriceThreshold": 3400000,
-            "MinPriceThreshold": 1700000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [
-                "expansionhelicopterbattery",
-                "expansionigniterplug",
-                "expansionhydraulichoses",
-                "headlighth7",
-                "expansionuh1hdoor_1_1",
-                "expansionuh1hdoor_1_2"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionmerlin",
-            "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 2000000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 10,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [
-                "expansionhelicopterbattery",
-                "expansionigniterplug",
-                "expansionhydraulichoses",
-                "headlighth7",
-                "expansionmerlinfrontwheel",
-                "expansionmerlinfrontwheel",
-                "expansionmerlinbackwheel",
-                "expansionmerlinbackwheel"
-            ],
-            "Variants": []
-        }
-   ]
+    ]
 }
