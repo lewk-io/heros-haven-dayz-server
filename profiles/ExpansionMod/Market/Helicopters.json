@@ -5,24 +5,73 @@
     "Color": "FBFCFEFF",
     "InitStockPercent": 100.0,
     "Items": [
+        // {
+        //     "ClassName": "expansiongyrocopter",
+        //     "MaxPriceThreshold": 1000000,
+        //     "MinPriceThreshold": 500000,
+        //     "SellPricePercent": -1,
+        //     "MaxStockThreshold": 10,
+        //     "MinStockThreshold": 1,
+        //     "SpawnAttachments": [
+        //         "expansionhelicopterbattery",
+        //         "sparkplug"
+        //     ],
+        //     "Variants": []
+        // },
         {
             "ClassName": "expansionmh6",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 28500,
+            "MinPriceThreshold": 28500,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionhydraulichoses",
-				"expansionigniterplug",
-				"headlighth7",
-				"expansion_mh6_door_1_1",
-				"expansion_mh6_door_1_2",
-				"expansion_mh6_door_2_1",
-				"expansion_mh6_door_2_2"
-			],
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "expansion_mh6_door_1_1",
+                "expansion_mh6_door_1_2",
+                "expansion_mh6_door_2_1",
+                "expansion_mh6_door_2_2"
+            ],
             "Variants": []
-        }
+        },
+        // {
+        //     "ClassName": "expansionuh1h",
+        //     "MaxPriceThreshold": 3400000,
+        //     "MinPriceThreshold": 1700000,
+        //     "SellPricePercent": -1,
+        //     "MaxStockThreshold": 10,
+        //     "MinStockThreshold": 1,
+        //     "SpawnAttachments": [
+        //         "expansionhelicopterbattery",
+        //         "expansionigniterplug",
+        //         "expansionhydraulichoses",
+        //         "headlighth7",
+        //         "expansionuh1hdoor_1_1",
+        //         "expansionuh1hdoor_1_2"
+        //     ],
+        //     "Variants": []
+        // },
+        // {
+        //     "ClassName": "expansionmerlin",
+        //     "MaxPriceThreshold": 4000000,
+        //     "MinPriceThreshold": 2000000,
+        //     "SellPricePercent": -1,
+        //     "MaxStockThreshold": 10,
+        //     "MinStockThreshold": 1,
+        //     "SpawnAttachments": [
+        //         "expansionhelicopterbattery",
+        //         "expansionigniterplug",
+        //         "expansionhydraulichoses",
+        //         "headlighth7",
+        //         "expansionmerlinfrontwheel",
+        //         "expansionmerlinfrontwheel",
+        //         "expansionmerlinbackwheel",
+        //         "expansionmerlinbackwheel"
+        //     ],
+        //     "Variants": []
+        // }
     ]
 }
