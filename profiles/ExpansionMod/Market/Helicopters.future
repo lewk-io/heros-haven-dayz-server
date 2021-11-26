@@ -1,5 +1,6 @@
 {
-    "m_Version": 8,     "DisplayName": "Helicopters",
+    "m_Version": 8,
+    "DisplayName": "Helicopters",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 100.0,
