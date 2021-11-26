@@ -4,21 +4,15 @@
     "DisplayName": "Helicopter Trader",
     "TraderIcon": "Helicopter",
     "Currencies": [
-        "MoneyRuble1",
-        "MoneyRuble5",
-        "MoneyRuble10",
-        "MoneyRuble25",
-        "MoneyRuble50",
-        "MoneyRuble100"
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
     ],
-    "Categories": [],
-    "Items": {
-        "ExpansionMh6": 1,
-        "Camonet": 1,
-        "ExpansionHydraulicHoses": 1,
-        "Wrench": 0,
-        "ExpansionHelipadKit": 0,
-        "ExpansionHelicopterBattery": 1,
-        "ExpansionIgniterPlug": 1
-    }
+    "Categories": [
+        "Helicopters",
+        "Helicopters_Parts"
+    ]
 }

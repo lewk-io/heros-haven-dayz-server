@@ -3,7 +3,7 @@
     "DisplayName": "Grenades",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "ammo_expansion_m203_smoke_white",

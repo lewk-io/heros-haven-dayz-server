@@ -3,7 +3,7 @@
     "DisplayName": "Drinks",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "sodacan_cola",

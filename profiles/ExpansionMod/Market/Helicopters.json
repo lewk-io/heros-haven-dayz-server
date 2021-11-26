@@ -1,30 +1,10 @@
 {
     "m_Version": 8,
-    "DisplayName": "Helicopters (WITH KEYS)",
+    "DisplayName": "Helicopters",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 75.0,
     "Items": [
-        {
-            "ClassName": "Camonet",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "PurchaseType": 0,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "wrench",
-            "MaxPriceThreshold": 50,
-            "MinPriceThreshold": 50,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
         {
             "ClassName": "expansionmh6",
             "MaxPriceThreshold": 30000,

@@ -3,7 +3,7 @@
     "DisplayName": "Magazines",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "mag_ij70_8rnd",

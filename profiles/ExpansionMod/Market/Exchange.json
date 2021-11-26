@@ -1,9 +1,9 @@
 {
     "m_Version": 8,
-    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+    "DisplayName": "Exchange",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "moneyruble1",

@@ -3,7 +3,7 @@
     "DisplayName": "Optic and Rails",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "m14rail",

@@ -11,12 +11,10 @@
     "BuyPricePercent": 100.0,
     "SellPricePercent": 50.0,
     "Stock": {
-        "expansionmh6": 1,
-        "camonet": 1,
-        "expansionhydraulichoses": 1,
-        "wrench": 1,
-        "expansionhelipadkit": 1,
-        "expansionhelicopterbattery": 1,
-        "expansionigniterplug": 1
+        "expansionmh6": 0,
+        "expansionhydraulichoses": 0,
+        "wrench": 0,
+        "expansionigniterplug": 0,
+        "expansionhelicopterbattery": 0
     }
 }

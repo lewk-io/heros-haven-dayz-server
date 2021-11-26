@@ -3,7 +3,7 @@
     "DisplayName": "Windstrides Clothing",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "blue_leggings",

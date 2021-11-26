@@ -1,4 +1,3 @@
-admin
 Admin 0
 Admin.Chat 0
 Admin.Player 0

@@ -1,9 +1,9 @@
 {
     "m_Version": 8,
-    "DisplayName": "Vanilla Vehicle Parts",
+    "DisplayName": "Vehicles Parts",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "headlighth7_box",

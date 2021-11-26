@@ -3,7 +3,7 @@
     "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_AMMOBOXES",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 100.0,
     "Items": [
         {
             "ClassName": "ammobox_9x19_25rnd",
