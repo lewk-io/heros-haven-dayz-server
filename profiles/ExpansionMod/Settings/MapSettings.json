@@ -44,19 +44,6 @@
             ]
         },
         {
-            "m_UID": "BoatSafeTrader",
-            "m_Visibility": 6,
-            "m_Is3D": 1,
-            "m_Text": "Boat Safe Trader",
-            "m_IconName": "Trader",
-            "m_Color": -16646268,
-            "m_Position": [
-                14049.099609375,
-                1.0,
-                11162.400390625
-            ]
-        },
-        {
             "m_UID": "HelicopterTrader",
             "m_Visibility": 6,
             "m_Is3D": 1,
