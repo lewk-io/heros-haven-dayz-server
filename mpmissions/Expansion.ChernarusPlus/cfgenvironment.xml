@@ -15,7 +15,6 @@
 		<file path="env/hare_territories.xml" />
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
-		<file path="env/hare_territories.xml" />	<!-- EXPANSION -->
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
@@ -44,9 +43,6 @@
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
 		</territory>
-		<territory type="Herd" name="AmbientHare" behavior="DZDeerGroupBeh">	<!-- EXPANSION -->
-			<file usable="hare_territories" />									<!-- EXPANSION -->
-		</territory>															<!-- EXPANSION -->
 
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
@@ -66,6 +62,24 @@
 			<item name="zoneCountMax" val="1" />
 			<item name="playerSpawnRadiusNear" val="25" />
 			<item name="playerSpawnRadiusFar" val="75" />
+		</territory>
+
+		<!-- HARE -->
+		<territory type="Ambient" name="AmbientHare" behavior="DZAmbientLifeGroupBeh">
+			<file usable="hare_territories" />
+			<!-- different agent types - class has to begin with AgentType:w -->
+			<agent type="Male" chance="1">
+				<spawn configName="Animal_LepusEuropaeus" chance="1" />
+			</agent>
+			<agent type="Female" chance="3">
+				<spawn configName="Animal_LepusEuropaeus" chance="1" />
+			</agent>
+
+			<item name="globalCountMax" val="0" />
+			<item name="zoneCountMin" val="3" />
+			<item name="zoneCountMax" val="5" />
+			<item name="playerSpawnRadiusNear" val="15" />
+			<item name="playerSpawnRadiusFar" val="200" />
 		</territory>
 		
 		<!-- INFECTED -->
