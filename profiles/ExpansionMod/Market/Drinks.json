@@ -6,6 +6,16 @@
     "InitStockPercent": 100.0,
     "Items": [
         {
+            "ClassName": "SodaCan_Fronta",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "sodacan_cola",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,

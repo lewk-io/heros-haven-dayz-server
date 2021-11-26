@@ -116,6 +116,16 @@
             "Variants": []
         },
         {
+            "ClassName": "famas",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "m4a1",
             "MaxPriceThreshold": 4000,
             "MinPriceThreshold": 4000,

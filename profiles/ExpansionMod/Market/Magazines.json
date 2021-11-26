@@ -258,6 +258,18 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_FAMAS_25Rnd",
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ammo_556x45"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_stanag_30rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
@@ -271,6 +283,18 @@
         },
         {
             "ClassName": "mag_stanagcoupled_30rnd",
+            "MaxPriceThreshold": 40,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ammo_556x45"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Mag_STANAG_60Rnd",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1,
