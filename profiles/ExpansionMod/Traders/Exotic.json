@@ -11,9 +11,6 @@
         "MoneyRuble50",
         "MoneyRuble100"
     ],
-    "Categories": [
-        "Exotic_Pelts"
-    ],
     "Items": {
 		"HellHoundPelt": 2,
 		"PlagueHoundPelt": 2,
