@@ -246,7 +246,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_AK74_45Rnd",
+            "ClassName": "mag_ak74_45rnd",
             "MaxPriceThreshold": 30,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1,
@@ -270,7 +270,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_FAMAS_25Rnd",
+            "ClassName": "mag_famas_25rnd",
             "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1,
@@ -306,7 +306,7 @@
             "Variants": []
         },
         {
-            "ClassName": "Mag_STANAG_60Rnd",
+            "ClassName": "mag_stanag_60rnd",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 40,
             "SellPricePercent": -1,
@@ -698,7 +698,7 @@
             "Variants": []
         },
         {
-            "ClassName": "SNAFUAR15_SPR_30RND_Mag",
+            "ClassName": "snafuar15_spr_30rnd_mag",
             "MaxPriceThreshold": 25,
             "MinPriceThreshold": 25,
             "MaxStockThreshold": 1,
@@ -708,7 +708,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "SNAFUAR15_SPR_40RND_Mag",
+            "ClassName": "snafuar15_spr_40rnd_mag",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 40,
             "MaxStockThreshold": 1,
@@ -862,7 +862,7 @@
             "Variants": []
         },
         {
-            "ClassName": "SG550_Mag",
+            "ClassName": "sg550_mag",
             "MaxPriceThreshold": 75,
             "MinPriceThreshold": 75,
             "MaxStockThreshold": 1,

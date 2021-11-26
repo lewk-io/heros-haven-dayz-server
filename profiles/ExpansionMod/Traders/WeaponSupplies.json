@@ -19,5 +19,9 @@
         "Magazines",
         "Optics_Rails",
         "Supressors"
-    ]
+    ],
+    "Items": {
+      	"mag_stanagcoupled_30rnd": 2,
+		"mag_stanag_60rnd": 2
+    }
 }
