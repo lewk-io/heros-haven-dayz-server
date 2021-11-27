@@ -1,1 +1,1 @@
-git reset --hard origin/refactor && git clean -df && git pull
+git reset --hard origin/main && git clean -df && git pull
