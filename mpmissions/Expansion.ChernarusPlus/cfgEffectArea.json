@@ -114,6 +114,52 @@
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
+		},
+        { 	"AreaName": "Stary-Sobor-Surrounding", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 6322, 300, 7809 ],
+				"Radius": 100,
+				"PosHeight": 3,
+				"NegHeight": 8,
+				"InnerRingCount": 3,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 30, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 3,
+				"VerticalOffset": 3,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Stary-Sobor-Tents", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 6328, 300, 7818 ],
+				"Radius": 80,
+				"PosHeight": 3,
+				"NegHeight": 0,
+				"InnerRingCount": 1,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 0, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 1,
+				"VerticalOffset": 1,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
 		}
     ],
 
