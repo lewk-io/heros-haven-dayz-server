@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+    <!-- @CPBWeapons -->
+    <type name="Barret">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barret_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="M200">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="m200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="HK416">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="0.70" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="SR25_Black">
+		<attachments chance="0.70">
+			<item name="VerticalGrip_Black" chance="0.60" />
+			<item name="Bipod_Black" chance="0.40" />
+		</attachments>
+		<attachments chance="0.05">
+			<item name="SR25_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SR25_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="M447">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="Thompson">
+		<attachments chance="1.00">
+			<item name="Thompson_StickMag" chance="0.90" />
+			<item name="Thompson_DrumMag" chance="0.10" />
+		</attachments>
+	</type>
+    <type name="M14_EFT">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M14Rail" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Asgrip1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M14_Magazine" chance="0.80" />
+			<item name="M14_Magazine_Extended" chance="0.20" />
+		</attachments>
+	</type>
+    <type name="KDMR_Camo">
+		<attachments chance="0.10">
+			<item name="SR25_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="KDMR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+    <type name="MCRCARB_Black">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="VerticalGrip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PGEN3_Black" chance="0.34" />
+			<item name="HKE1_Black" chance="0.33" />
+			<item name="ETATH_Black" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Polymer_30rnd_Magazine" chance="0.70" />
+			<item name="Polymer_40rnd_Magazine" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="MCRCQC_Black">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="VerticalGrip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PGEN3_Black" chance="0.34" />
+			<item name="HKE1_Black" chance="0.33" />
+			<item name="ETATH_Black" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Polymer_30rnd_Magazine" chance="0.70" />
+			<item name="Polymer_40rnd_Magazine" chance="0.30" />
+		</attachments>
+	</type>
+    <type name="MCRSAW_Black">
+		<attachments chance="0.10">
+			<item name="BSuppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="VerticalGrip_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PGEN3_Black" chance="0.34" />
+			<item name="HKE1_Black" chance="0.33" />
+			<item name="ETATH_Black" chance="0.33" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Polymer_30rnd_Magazine" chance="0.65" />
+			<item name="Polymer_40rnd_Magazine" chance="0.30" />
+			<item name="Polymer_60rnd_Magazine" chance="0.05" />
+		</attachments>
+	</type>
+</spawnabletypes>
