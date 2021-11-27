@@ -1,1 +1,0 @@
-npm install && node _start-server.js
