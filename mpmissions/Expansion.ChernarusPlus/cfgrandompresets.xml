@@ -232,7 +232,7 @@
                 <item name="PumpkinHelmet" chance="1.0" />
         </attachments>
 		<attachments chance="1.0" name="HalloweenHatChance">
-                <item name="PumpkinHelmet" chance="0.3" />
+                <item name="PumpkinHelmet" chance="0.0" />
         </attachments>
 		<!-- -------------------------------------------------------------------------------------------- -->
 		<!-- -------------------------  NBC Cargo  -------------------------------- -->
