@@ -1,0 +1,26 @@
+{
+    "m_Version": 7,
+    "TraderName": "WinterMilitaryClothing",
+    "DisplayName": "Military Clothing Trader",
+    "TraderIcon": "Backpack",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Start_gear",
+        "Military_MVS_Black",
+        "Military_MVS_Digisnow",
+        "Military_MVS_ERDL",
+        "Military_MVS_Multicam_Black",
+        "Military_MVS_Navycam",
+        "Military_MVS_OD",
+        "Military_MVS_Snow",
+        "Military_MVS_Tan",
+        "Military_MVS_Wintercam"
+    ]
+}
