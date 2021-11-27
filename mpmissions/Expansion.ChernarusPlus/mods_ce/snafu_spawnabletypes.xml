@@ -209,15 +209,47 @@
 	<type name="SNAFU_MK4710Gun">
 		<attachments chance="1.00">
 			<item name="SNAFU_MK47_Stock" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="SNAFU_MK47HG" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SNAFU_MK4716Gun">
 		<attachments chance="1.00">
 			<item name="SNAFU_MK47_Stock" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="SNAFU_MK47HG" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUM1A_Black">
+		<attachments chance="0.10">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUM1A_20rdMag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUM1A_Green">
+		<attachments chance="0.10">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUM1A_20rdMag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUM1A_Tan">
+		<attachments chance="0.10">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUM1A_20rdMag" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Snafu_ScarH_Black_GUN">

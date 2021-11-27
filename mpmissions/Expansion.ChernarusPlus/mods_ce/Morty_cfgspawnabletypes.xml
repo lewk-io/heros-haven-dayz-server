@@ -467,7 +467,7 @@
 		<attachments chance="1.00">
 			<item name="TTC_Holo" chance="1.00" />
 		</attachments>
-		<attachments chance="0.60">
+		<attachments chance="1.00">
 			<item name="TTC_HK417_Magazine_20rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
