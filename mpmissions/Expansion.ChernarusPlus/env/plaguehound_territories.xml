@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4285976832">
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="2025" z="3440" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="2212.5" z="3450" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="2157.5" z="3275" r="110"/>
+    </territory>
+    <territory color="4285976832">
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="6290" z="7850" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="6330" z="7790" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="13465" z="3355" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="14020" z="2835" r="110"/>
+    </territory>
+    <territory color="4285976832">
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="13839" z="11358" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="13746" z="11220" r="110"/>
+    </territory>
+    <territory color="4285976832">
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="13130" z="3205" r="110"/>
+        <zone name="InfectedArmyHard" smin="0" smax="0" dmin="9" dmax="13" x="13370" z="2830" r="110"/>
+    </territory>
+</territory-type>
