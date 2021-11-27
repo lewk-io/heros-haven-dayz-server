@@ -1,0 +1,69 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Helicopters Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "camonet",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "wrench",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_mh6_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_mh6_door_1_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_mh6_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_mh6_door_2_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

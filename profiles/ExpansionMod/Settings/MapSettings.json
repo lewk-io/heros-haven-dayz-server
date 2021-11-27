@@ -1,0 +1,90 @@
+{
+    "m_Version": 2,
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "ShowPlayerPosition": 1,
+    "ShowMapStats": 1,
+    "NeedPenItemForCreateMarker": 0,
+    "NeedGPSItemForCreateMarker": 0,
+    "CanCreateMarker": 1,
+    "CanCreate3DMarker": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowDistanceOnPersonalMarkers": 1,
+    "EnableHUDGPS": 1,
+    "NeedGPSItemForKeyBinding": 1,
+    "NeedMapItemForKeyBinding": 0,
+    "EnableServerMarkers": 1,
+    "ShowNameOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 1,
+    "ServerMarkers": [
+        {
+            "m_UID": "BlackMarketTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Black Market Trader",
+            "m_IconName": "Trader",
+            "m_Color": -22511,
+            "m_Position": [
+                1382.6400146484376,
+                305.0,
+                9285.23046875
+            ]
+        },
+        {
+            "m_UID": "ExoticTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Exotic Trader",
+            "m_IconName": "Trader",
+            "m_Color": -22511,
+            "m_Position": [
+                8654.18,
+                176.266,
+                13629.9
+            ]
+        },
+        {
+            "m_UID": "SurvivorsSafeTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Survivors Safe Trader",
+            "m_IconName": "Trader",
+            "m_Color": -16646268,
+            "m_Position": [
+                7202.64013671875,
+                252.9929962158203,
+                6975.06005859375
+            ]
+        },
+        {
+            "m_UID": "HelicopterTrader",
+            "m_Visibility": 6,
+            "m_Is3D": 1,
+            "m_Text": "Helicopter Trader",
+            "m_IconName": "Trader",
+            "m_Color": -22511,
+            "m_Position": [
+                8216.5703125,
+                470.5060119628906,
+                9040.099609375
+            ]
+        },
+        {
+            "m_UID": "SeverogradStronghold",
+            "m_Visibility": 6,
+            "m_Is3D": 0,
+            "m_Text": "Severograd Stronghold",
+            "m_IconName": "Skull 1",
+            "m_Color": -22511,
+            "m_Position": [
+                8631.580078125,
+                112.81500244140625,
+                13384.0
+            ]
+        }
+    ],
+    "EnableHUDCompass": 1,
+    "NeedCompassItemForHUDCompass": 1,
+    "NeedGPSItemForHUDCompass": 1,
+    "CompassColor": -1
+}

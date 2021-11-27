@@ -1,0 +1,24 @@
+{
+    "m_Version": 7,
+    "TraderName": "Helicopter",
+    "DisplayName": "Helicopter Trader",
+    "TraderIcon": "Helicopter",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Helicopters",
+        "Helicopters_Parts"
+    ],
+    "Items": {
+        "expansion_mh6_door_1_1": 1,
+        "expansion_mh6_door_1_2": 1,
+        "expansion_mh6_door_2_1": 1,
+        "expansion_mh6_door_2_2": 1
+    }
+}

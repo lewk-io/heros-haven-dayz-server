@@ -1,0 +1,63 @@
+{
+    "m_Version": 7,
+    "VehicleSync": 1,
+    "VehicleRequireKeyToStart": 1,
+    "VehicleRequireAllDoors": 1,
+    "VehicleLockedAllowInventoryAccess": 0,
+    "VehicleLockedAllowInventoryAccessWithoutDoors": 1,
+    "MasterKeyPairingMode": 0,
+    "MasterKeyUses": 0,
+    "CanPickLock": 0,
+    "PickLockTools": [],
+    "PickLockChancePercent": 0.0,
+    "PickLockTimeSeconds": 0,
+    "PickLockToolDamagePercent": 0.0,
+    "EnableWindAerodynamics": 0,
+    "EnableTailRotorDamage": 1,
+    "PlayerAttachment": 0,
+    "Towing": 1,
+    "EnableHelicopterExplosions": 0,
+    "DisableVehicleDamage": 0,
+    "VehicleCrewDamageMultiplier": 0.0,
+    "VehicleSpeedDamageMultiplier": 0.0,
+    "CanChangeLock": 0,
+    "ChangeLockTools": [
+        "Screwdriver"
+    ],
+    "ChangeLockTimeSeconds": 120,
+    "ChangeLockToolDamagePercent": 10.0,
+    "PlacePlayerOnGroundOnReconnectInVehicle": 2,
+    "RevvingOverMaxRPMRuinsEngineInstantly": 0,
+    "VehicleDropsRuinedDoors": 1,
+    "ExplodingVehicleDropsAttachments": 1,
+    "VehiclesConfig": [
+        {
+            "ClassName": "ExpansionUAZCargoRoofless",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionBus",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionVodnik",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionUtilityBoat",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionZodiacBoat",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionLHD",
+            "CanPlayerAttach": 1
+        },
+        {
+            "ClassName": "ExpansionMerlin",
+            "CanPlayerAttach": 1
+        }
+    ]
+}

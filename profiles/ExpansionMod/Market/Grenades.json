@@ -1,0 +1,189 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Grenades",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "ammo_expansion_m203_smoke_white",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "M67Grenade",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "M18SmokeGrenade_Red",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "M18SmokeGrenade_Yellow",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "M18SmokeGrenade_Purple",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "M18SmokeGrenade_White",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RDG2SmokeGrenade_Black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RDG2SmokeGrenade_White",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "FlashGrenade",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Ammo_Expansion_M203_Smoke_White",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Ammo_Expansion_M203_Sticky_Smoke_White",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "PurchaseType": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_sticky_smoke_white",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_smoke_red",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_sticky_smoke_red",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_smoke_green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_sticky_smoke_green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_smoke_teargas",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ammo_expansion_m203_sticky_smoke_teargas",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

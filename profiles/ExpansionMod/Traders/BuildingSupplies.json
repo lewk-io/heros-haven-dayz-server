@@ -1,0 +1,20 @@
+{
+    "m_Version": 7,
+    "TraderName": "BuildingSupplies",
+    "DisplayName": "Building Supplies Trader",
+    "TraderIcon": "Nails",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Barrels",
+        "Expansion_Building_Supplies",
+        "Kits_Base_items",
+        "Storage"
+    ]
+}

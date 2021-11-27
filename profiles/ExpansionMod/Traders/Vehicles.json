@@ -1,0 +1,18 @@
+{
+    "m_Version": 7,
+    "TraderName": "Vehicles",
+    "DisplayName": "Vehicle Trader",
+    "TraderIcon": "Car",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Vanilla_Vehicles",
+        "Vanilla_Vehicles_Parts"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "m_Version": 7,
+    "TraderName": "Clothing",
+    "DisplayName": "Clothing Trader",
+    "TraderIcon": "Backpack",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+		"Start_gear",
+		"Glasses",
+		"Armbands",
+		"Gloves",
+		"Hats_Caps",
+		"Helmets",
+		"Masks",
+		"Shirts",
+		"Hoodies_Sweater",
+		"Vests",
+		"Jackets_Coats",
+		"Skirts_Dresses",
+		"Pants",
+		"Shoes_Boots",
+		"Ghillie",
+		"Windstriders_Clothing",
+		"Holster_Pouches",
+		"Belts",
+		"Bags"
+    ]
+}

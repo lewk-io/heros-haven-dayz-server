@@ -1,0 +1,18 @@
+{
+    "m_Version": 5,
+    "m_ZoneName": "Severograd",
+    "m_DisplayName": "Exotic Trader",
+    "Position": [
+        8654.1796875,
+        176.26600646972657,
+        13629.900390625
+    ],
+    "Radius": 10.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 100.0,
+    "Stock": {
+        "hellhoundpelt": 1,
+        "thurberpelt": 1,
+        "plaguehoundpelt": 1
+    }
+}

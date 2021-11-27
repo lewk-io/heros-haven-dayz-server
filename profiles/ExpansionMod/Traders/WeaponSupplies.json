@@ -1,0 +1,27 @@
+{
+    "m_Version": 7,
+    "TraderName": "WeaponSupplies",
+    "DisplayName": "Weapon Supplies Trader",
+    "TraderIcon": "Gun",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Ammo",
+        "Ammo_Boxes",
+        "Attachments",
+        "Grenades",
+        "Magazines",
+        "Optics_Rails",
+        "Supressors"
+    ],
+    "Items": {
+      	"mag_stanagcoupled_30rnd": 2,
+		"mag_stanag_60rnd": 2
+    }
+}

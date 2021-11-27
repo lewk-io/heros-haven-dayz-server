@@ -1,0 +1,23 @@
+{
+    "m_Version": 7,
+    "TraderName": "Consumables",
+    "DisplayName": "Consumables Trader",
+    "TraderIcon": "Soda",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Animal_Pelts",
+        "Drinks",
+        "Exchange",
+        "Meat",
+        "Medical_Supplies",
+        "Medications",
+        "Packages_Food"
+    ]
+}

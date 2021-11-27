@@ -1,0 +1,36 @@
+{
+    "m_Version": 7,
+    "TraderName": "BlackMarket",
+    "DisplayName": "Black Market Trader",
+    "TraderIcon": "Boat",
+    "Currencies": [
+        "MoneyRuble1",
+        "MoneyRuble5",
+        "MoneyRuble10",
+        "MoneyRuble25",
+        "MoneyRuble50",
+        "MoneyRuble100"
+    ],
+    "Categories": [
+        "BM_Assault_Rifles_Mags_Ammo",
+        "BM_Attachments",
+        "BM_Explosives",
+        "BM_Grenades",
+        "BM_Launchers_Ammo",
+        "BM_LightMachineGuns_Mags_Ammo",
+        "BM_Sniper_Rifles_Mags_Ammo",
+        "NBC"
+    ],
+    "Items": {
+        "nbchoodgray": 2,
+        "nbcjacketgray": 2,
+        "nbcglovesgray": 2,
+        "nbcpantsgray": 2,
+        "nbcbootsgray": 2,
+        "nbchoodyellow": 2,
+        "nbcjacketyellow": 2,
+        "nbcglovesyellow": 2,
+        "nbcpantsyellow": 2,
+        "nbcbootsyellow": 2
+    }
+}

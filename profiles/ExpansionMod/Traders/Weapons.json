@@ -1,0 +1,22 @@
+{
+    "m_Version": 7,
+    "TraderName": "Weapons",
+    "DisplayName": "Weapon Trader",
+    "TraderIcon": "Gun",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Assault_Rifles",
+        "Rifles",
+        "Shotguns",
+        "Sidearms",
+        "Sniper_Rifles",
+        "Submachine_Guns"
+    ]
+}

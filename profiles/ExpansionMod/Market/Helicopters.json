@@ -1,0 +1,28 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Helicopters",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+         {
+            "ClassName": "expansionmh6",
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 28000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "expansion_mh6_door_1_1",
+                "expansion_mh6_door_1_2",
+                "expansion_mh6_door_2_1",
+                "expansion_mh6_door_2_2"
+            ],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "m_Version": 7,
+    "TraderName": "Misc",
+    "DisplayName": "Miscellaneous Trader",
+    "TraderIcon": "Soda",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Cooking_Hunting_Supplies",
+        "Electronics",
+        "Fire_Lights",
+        "Fluffy_Pets",
+        "Hardware_Supplies",
+        "Seeds_Lime",
+        "Tools_big",
+        "Tools_small"
+    ]
+}
