@@ -48,6 +48,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="carcover_types.xml" type="types" />
 		<file name="cloudswintergear.xml" type="types" />
 		<file name="creatures_types.xml" type="types" />
+		<file name="expansionied_types.xml" type="types" />
 		<file name="muchstuffpack.xml" type="types" />
 		<file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
 		<file name="Morty_types.xml" type="types" />
