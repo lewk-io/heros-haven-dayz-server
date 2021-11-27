@@ -1053,8 +1053,8 @@
     </event> -->
     <event name="AnimalThurber">
         <nominal>1</nominal>
-        <min>2</min>
-        <max>2</max>
+        <min>1</min>
+        <max>1</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -1069,9 +1069,9 @@
         </children>
     </event>
     <event name="AnimalHellHound">
-        <nominal>8</nominal>
-        <min>4</min>
-        <max>6</max>
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>2</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -1082,13 +1082,13 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_HellHound"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_HellHound"/>
         </children>
     </event>
     <event name="AnimalPlagueHound">
-        <nominal>8</nominal>
-        <min>4</min>
-        <max>6</max>
+        <nominal>4</nominal>
+        <min>3</min>
+        <max>4</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -1099,7 +1099,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_PlagueHound"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Animal_PlagueHound"/>
         </children>
     </event>
 </events>
