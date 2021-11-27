@@ -1,7 +1,7 @@
 {
     "m_Version": 2,
     "EnableParties": 1,
-    "MaxMembersInParty": 6,
+    "MaxMembersInParty": 8,
     "UseWholeMapForInviteList": 1,
     "ShowPartyMember3DMarkers": 1,
     "ShowDistanceUnderPartyMembersMarkers": 1,
