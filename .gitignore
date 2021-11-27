@@ -3,11 +3,7 @@ addons/**/*
 backups/**/*
 battleye/**/*
 bot/**/*
-bot/bot.js
-BEC/**/*.pyo
-BEC/Config/Config.cfg
-BEC/Log
-BEC/count.txt
+BEC/**/*
 bliss/**/*
 changes/**/*
 config/**/*
