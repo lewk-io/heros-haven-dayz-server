@@ -5,18 +5,17 @@
  * www.dayzexpansion.com
  * © 2020 DayZ Expansion Mod Team
  *
- * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
  *
 */
 
-#include "$CurrentDir:\\mpmissions\\Expansion.ChernarusPlus\\expansion\\ExpansionObjectSpawnTools.c"
 #include "$CurrentDir:\\mpmissions\\Expansion.ChernarusPlus\\expansion\\missions\\MissionConstructor.c"
 
 void main()
 {
 	bool loadTraderObjects = true;
-	bool loadTraderNPCs = false;
+	bool loadTraderNPCs = true;
 
 	string MissionWorldName = "empty";
 	GetGame().GetWorldName(MissionWorldName);
@@ -24,7 +23,7 @@ void main()
 	if (MissionWorldName != "empty")
 	{
 		//! Spawn mission objects and traders
-		FindMissionFiles(MissionWorldName, loadTraderObjects, loadTraderNPCs);
+		ExpansionObjectSpawnTools.FindMissionFiles("$CurrentDir:\\mpmissions\\Expansion." + MissionWorldName, loadTraderObjects, loadTraderNPCs);
 	}
 
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
@@ -67,7 +66,7 @@ void main()
 }
 
 class CustomMission: MissionServer
-{	
+{
 	// ------------------------------------------------------------
 	// Override OnInit
 	// ------------------------------------------------------------
@@ -81,7 +80,7 @@ class CustomMission: MissionServer
 
 		super.OnInit();
 	}
-	
+
 	// ------------------------------------------------------------
 	// Override CreateCharacter
 	// ------------------------------------------------------------
@@ -95,7 +94,7 @@ class CustomMission: MissionServer
 
 		return m_player;
 	}
-	
+
 	// ------------------------------------------------------------
 	// SetRandomHealth
 	// ------------------------------------------------------------
@@ -107,7 +106,7 @@ class CustomMission: MissionServer
 			itemEnt.SetHealth01( "", "", rndHlt );
 		}
 	}
-	
+
 	// ------------------------------------------------------------
 	// StartingEquipSetup
 	// ------------------------------------------------------------
@@ -124,7 +123,7 @@ class CustomMission: MissionServer
 			if ( itemClothing )
 			{
 				SetRandomHealth( itemClothing );
-				
+
 				itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
 				if ( Class.CastTo( itemBs, itemEnt ) )
 					itemBs.SetQuantity( 4 );
@@ -146,11 +145,11 @@ class CustomMission: MissionServer
 
 				SetRandomHealth( itemEnt );
 			}
-			
+
 			itemClothing = player.FindAttachmentBySlotName( "Legs" );
 			if ( itemClothing )
 				SetRandomHealth( itemClothing );
-			
+
 			itemClothing = player.FindAttachmentBySlotName( "Feet" );
 			if ( itemClothing )
 				SetRandomHealth( itemClothing );
