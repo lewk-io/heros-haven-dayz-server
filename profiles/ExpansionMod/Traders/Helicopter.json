@@ -16,6 +16,10 @@
         "Helicopters_Parts"
     ],
     "Items": {
+        "expansionhelicopterbattery": 1,
+        "expansionigniterplug": 1,
+        "expansionhydraulichoses": 1,
+        "headlighth7": 1,
         "expansion_mh6_door_1_1": 1,
         "expansion_mh6_door_1_2": 1,
         "expansion_mh6_door_2_1": 1,
