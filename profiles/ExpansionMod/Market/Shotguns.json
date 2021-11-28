@@ -76,7 +76,7 @@
             "Variants": []
         },
         {
-            "ClassName": "aa12",
+            "ClassName": "aa12_gun",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
             "SellPricePercent": -1,
