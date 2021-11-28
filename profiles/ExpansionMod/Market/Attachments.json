@@ -136,7 +136,7 @@
             "Variants": []
         },
         {
-            "ClassName": "snafu_mcmr_07",
+            "ClassName": "snafu_mcmr07",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1,
@@ -146,7 +146,7 @@
             "Variants": []
         },
         {
-            "ClassName": "snafu_mcmr_08",
+            "ClassName": "snafu_mcmr08",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1,
@@ -156,7 +156,7 @@
             "Variants": []
         },
         {
-            "ClassName": "snafu_mcmr_09",
+            "ClassName": "snafu_mcmr09",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1,
@@ -166,7 +166,7 @@
             "Variants": []
         },
         {
-            "ClassName": "snafu_mcmr_10",
+            "ClassName": "snafu_mcmr10",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
             "SellPricePercent": -1,
