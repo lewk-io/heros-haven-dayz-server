@@ -496,7 +496,7 @@
             "Variants": []
         },
         {
-            "ClassName": "gcgn_vityaz_30rnd",
+            "ClassName": "gcgn_vityaz_mag",
             "MaxPriceThreshold": 42,
             "MinPriceThreshold": 42,
             "SellPricePercent": -1,
