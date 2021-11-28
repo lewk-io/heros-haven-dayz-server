@@ -26,16 +26,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_comtacs_snow",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mvs_balaclava_snow",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
@@ -56,7 +46,7 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_shroud_snow",
+            "ClassName": "mvs_shroud_digisnow",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1,

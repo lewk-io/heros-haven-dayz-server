@@ -96,26 +96,6 @@
             "Variants": []
         },
         {
-            "ClassName": "msp_smallfridge",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_jackdanielsfridge",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "msp_grenadebox",
             "MaxPriceThreshold": 1600,
             "MinPriceThreshold": 1600,
