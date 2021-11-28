@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+    <!--@[Remastered] Arma Weapon Pack-->
+    <type name="A2M14_DMR">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DMRScope" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2M14_DMRMAG" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2WM110_black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2WM110_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M16A4">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="0.80" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="A2G36_C">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="0.80" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="A2WM110_black">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2WM110_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2mk17">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.70" />
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2mk17_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2mk17_s">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2mk17_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2bizon">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="bizon_magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M240">
+		<attachments chance="1.00">
+			<item name="A2M240_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2MK16">
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_30Rnd" chance="0.80" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="A2MK48">
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.70" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2MK48_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M107">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2M107_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M40A3">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2M40A3_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2AK74S">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="0.80" />
+			<item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="A2M24_Green">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M249">
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2M249_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2PKM">
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2PKM_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M9">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2M9_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2LRRAWM">
+		<attachments chance="1.00">
+			<item name="A2Suppressor" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="A2LRRAWM_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2HKM5_SD">
+		<attachments chance="1.00">
+			<item name="A2HKM5_SD_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

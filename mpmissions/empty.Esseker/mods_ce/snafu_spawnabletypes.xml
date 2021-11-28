@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="SN_Glock19">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_Docter" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Glock_15Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SN_USP">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_Docter" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SN_USP_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SN_M9">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_Docter" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SN_M9_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_PL14HQP">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_Docter" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_PL14HQP_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Tec9_Gun">
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_Docter" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Tec9_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_M1Garand">
+		<attachments chance="1.00">
+			<item name="GCGN_M1Garand_Muzzle" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GCGN_M1Garand_Bayonet" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GCGN_M84_Optic" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="SNAFU_M14">
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.08" />
+			<item name="M68Optic" chance="0.08" />
+			<item name="M4_T3NRDSOptic" chance="0.08" />
+			<item name="ReflexOptic" chance="0.08" />
+			<item name="ACOGOptic" chance="0.08" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M14_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_M76">
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M76_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_SKS">
+		<attachments chance="1.00">
+			<item name="SNAFU_SKS_Bayonet" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BUISOptic" chance="0.08" />
+			<item name="M68Optic" chance="0.08" />
+			<item name="M4_T3NRDSOptic" chance="0.08" />
+			<item name="ReflexOptic" chance="0.08" />
+			<item name="ACOGOptic" chance="0.08" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_SKS_10Rnd_Mag" chance="0.90" />
+			<item name="SNAFU_SKS_30Rnd_Mag" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="SNAFU_FRF2">
+		<attachments chance="1.00">
+			<item name="SNAFU_FRF2_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SN_Auto_Shotgun">
+		<attachments chance="1.00">
+			<item name="SN_Auto_Shotgun_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_Vityaz">
+		<attachments chance="1.00">
+			<item name="GCGN_Vityaz_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_PDW_45ACP">
+		<attachments chance="1.00">
+			<item name="SNAFU_PDW_45ACP_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_PDW_9mm">
+		<attachments chance="1.00">
+			<item name="SNAFU_PDW_9mm_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_VEPR">
+		<attachments chance="1.00">
+			<item name="GCGN_VEPR_10rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_AK12A">
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+			<item name="SNAFU_AK_HG" chance="1.00" />
+			<item name="SNAFU_AK_AR_Stock" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_AEK545_Gun">
+		<attachments chance="1.00">
+			<item name="Mag_AK74_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_M1918A2">
+		<attachments chance="1.00">
+			<item name="SNAFU_M1918A2_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_CZ805_Gun">
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_10Rnd" chance="0.20" />
+			<item name="Mag_CMAG_20Rnd" chance="0.20" />
+			<item name="Mag_CMAG_30Rnd" chance="0.20" />
+			<item name="Mag_CMAG_40Rnd" chance="0.12" />
+			<item name="Mag_STANAG_30Rnd" chance="0.20" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.08" />
+		</attachments>
+	</type>
+	<type name="SNAFU_AK103A">
+		<attachments chance="1.00">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_Saint_Gun">
+		<attachments chance="1.00">
+			<item name="SNAFU_Saint_Mag" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M4SS_Stock" chance="0.15" />
+			<item name="SNAFU_MOE_Stock" chance="0.15" />
+			<item name="SNAFU_PRSGen3_Stock" chance="0.15" />
+			<item name="SNAFU_SCQR_Stock" chance="0.15" />
+			<item name="SNAFU_SADAR_Stock" chance="0.15" />
+			<item name="SNAFU_SBA_Stock" chance="0.15" />
+			<item name="SNAFU_UBR_Stock" chance="0.10" />
+		</attachments>
+		<attachments chance="0.25">
+			<item name="SNAFU_MK9" chance="0.15" />
+			<item name="SNAFU_HG625" chance="0.15" />
+			<item name="SNAFU_HGGS" chance="0.15" />
+			<item name="SNAFU_MK10" chance="0.10" />
+			<item name="SNAFU_MCMR_07" chance="0.15" />
+			<item name="SNAFU_MCMR_08" chance="0.10" />
+			<item name="SNAFU_MCMR_09" chance="0.10" />
+			<item name="SNAFU_MCMR_10" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="GCGN_M700">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GCGN_M700_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_M48">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_KAC_Gun">
+		<attachments chance="1.00">
+			<item name="SNAFU_KAC_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_MK4710Gun">
+		<attachments chance="1.00">
+			<item name="SNAFU_MK47_Stock" chance="1.00" />
+			<item name="SNAFU_MK47HG" chance="1.00" />
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_MK4716Gun">
+		<attachments chance="1.00">
+			<item name="SNAFU_MK47_Stock" chance="1.00" />
+			<item name="SNAFU_MK47HG" chance="1.00" />
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Snafu_ScarH_Black_GUN">
+		<attachments chance="1.00">
+			<item name="Snafu_ScarH_25RND_Mag_BK" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Snafu_ScarH_DKMC_GUN">
+		<attachments chance="1.00">
+			<item name="Snafu_ScarH_25RND_Mag_BK" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Snafu_ScarH_OD_GUN">
+		<attachments chance="1.00">
+			<item name="Snafu_ScarH_25RND_Mag_BK" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Snafu_ScarH_Snow_GUN">
+		<attachments chance="1.00">
+			<item name="Snafu_ScarH_25RND_Mag_BK" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="Snafu_ScarH_Tan_GUN">
+		<attachments chance="1.00">
+			<item name="Snafu_ScarH_25RND_Mag_BK" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_SR25_Gun">
+		<attachments chance="1.00">
+			<item name="SNAFU_SR25_Supp" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_SR25_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUAR15_SPR_Black_GUN">
+		<attachments chance="1.00">
+			<item name="SNAFUAR15_SPR_30RND_Mag" chance="0.40" />
+			<item name="SNAFUAR15_SPR_40RND_Mag" chance="0.30" />
+			<item name="SNAFUAR15_SPR_60RND_Mag" chance="0.20" />
+			<item name="SNAFUAR15_SPR_100RND_Mag" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M4SS_Stock" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_HGMlok" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SNAFU_FGKAC_Grip" chance="0.50" />
+			<item name="SNAFU_FGCR_Grip" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="SNAFUAR15_SPR_Tan_GUN">
+		<attachments chance="1.00">
+			<item name="SNAFUAR15_SPR_30RND_Mag" chance="0.40" />
+			<item name="SNAFUAR15_SPR_40RND_Mag" chance="0.30" />
+			<item name="SNAFUAR15_SPR_60RND_Mag" chance="0.20" />
+			<item name="SNAFUAR15_SPR_100RND_Mag" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_M4SS_Stock" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_HGMlok_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="SNAFU_FGKAC_Grip" chance="0.50" />
+			<item name="SNAFU_FGCR_Grip" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="SNAFU_RPK16_Black">
+		<attachments chance="1.00">
+			<item name="SNAFU_RPK16_Black_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_RPK16_Green">
+		<attachments chance="1.00">
+			<item name="SNAFU_RPK16_Green_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFU_RPK16_Tan">
+		<attachments chance="1.00">
+			<item name="SNAFU_RPK16_Tan_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_M249">
+		<attachments chance="1.00">
+			<item name="GCGN_M249_Mag" chance="1.00" />
+			<item name="SNAFU_M249Stock" chance="1.00" />
+			<item name="SNAFU_M249Grip" chance="0.50" />
+			<item name="SNAFU_M249HG" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="SNAFU_U100">
+		<attachments chance="1.00">
+			<item name="SNAFU_U100_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUT5000_Dkmcc_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUT5000_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUKivaari_Black_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_338_Supp" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_10rdMag" chance="0.80" />
+			<item name="SNAFUKivaari_25rdMag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="SNAFUKivaari_Tan_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_338_Supp" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_10rdMag" chance="0.80" />
+			<item name="SNAFUKivaari_25rdMag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="SNAFUKivaari_Grey_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_338_Supp" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUKivaari_10rdMag" chance="0.80" />
+			<item name="SNAFUKivaari_25rdMag" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="SNAFUAX50_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUAX50_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SNAFUAX50_GUN">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_50bmg_Suppressor_B" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFUAX50_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_M200">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_408_Suppressor_T" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GCGN_M200_Mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="GCGN_M82_Barret">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SNAFU_50bmg_Suppressor_B" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GCGN_M82_Mag" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
