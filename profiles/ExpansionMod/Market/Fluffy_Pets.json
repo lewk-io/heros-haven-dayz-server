@@ -7,8 +7,8 @@
     "Items": [
         {
             "ClassName": "bear_beige",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
         },
         {
             "ClassName": "bear_dark",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -31,8 +31,8 @@
         },
         {
             "ClassName": "bear_pink",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         },
         {
             "ClassName": "bear_white",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
