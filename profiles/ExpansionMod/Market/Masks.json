@@ -16,56 +16,6 @@
             "Variants": []
         },
         {
-            "ClassName": "bandanamask_polkapattern",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bandanamask_redpattern",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bandanamask_blackpattern",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bandanamask_greenpattern",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 30,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bandanamask_camopattern",
-            "MaxPriceThreshold": 35,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "nioshfacemask",
             "MaxPriceThreshold": 40,
             "MinPriceThreshold": 40,
