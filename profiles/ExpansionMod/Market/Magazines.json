@@ -330,6 +330,18 @@
             "Variants": []
         },
         {
+            "ClassName": "mag_scout_5rnd",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ammo_556x45"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_cmag_10rnd",
             "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,

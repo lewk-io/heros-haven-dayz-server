@@ -6,6 +6,26 @@
     "InitStockPercent": 100.0,
     "Items": [
         {
+            "ClassName": "scout",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "scout_chernarus",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "b95",
             "MaxPriceThreshold": 3000,
             "MinPriceThreshold": 3000,
