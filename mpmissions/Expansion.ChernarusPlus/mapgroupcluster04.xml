@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+<!--
     <group name="Haybale" pos="12584.625000 55.670750 10648.036133" a="-27.681591" />
     <group name="Haybale" pos="12580.984375 69.098846 10749.710938" a="-23.704479" />
     <group name="CaninaBush1" pos="12584.390625 74.351921 10854.089844" a="-16.000063" />
@@ -17345,4 +17346,5 @@
     <group name="PiceaAbies_2d" pos="15319.363281 218.683243 15242.416016" a="157.997818" />
     <group name="PiceaAbies_stump" pos="15319.015625 211.747635 15259.078125" a="69.841156" />
     <group name="PiceaAbies_stump" pos="15309.484375 212.244003 15256.461914" a="-146.049606" />
+-->
 </map>
