@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+<!--
     <territory color="864420070">
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9739.17" z="13152.7" r="80"/>
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="9860.83" z="13100.2" r="140"/>
@@ -293,4 +294,5 @@
         <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4031" z="7520.75" r="200"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="4196" z="7224.5" r="120"/>
     </territory>
+    -->
 </territory-type>
