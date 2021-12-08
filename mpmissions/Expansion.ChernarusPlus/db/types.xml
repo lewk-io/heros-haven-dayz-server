@@ -15594,7 +15594,7 @@
     </type>
     <type name="TerritoryFlag">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15605,7 +15605,7 @@
     </type>
     <type name="TerritoryFlagKit">
         <nominal>0</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
