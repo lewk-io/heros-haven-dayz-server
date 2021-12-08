@@ -3640,79 +3640,79 @@
         <usage name="Farm"/>
     </type>
     <type name="ExpansionCone">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger2">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger3">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignRoadBarrier">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionBarbedWire">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionHesco">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionBarrierGate">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionCamoBox">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionATent">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionCamoTent">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionHelipad">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionStove">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionWoodPillar">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionWall6x3">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionFloor6x6">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionFloor3x3">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionRamp6x1_5x6">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionStairS1_5x3x3">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<!-- BASE BUILDING END -->
