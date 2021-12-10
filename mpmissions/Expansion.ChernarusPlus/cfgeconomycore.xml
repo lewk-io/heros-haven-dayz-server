@@ -57,5 +57,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="snafu_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="snafu_types.xml" type="types" />
 		<file name="vanilla_types_changes.xml" type="types" />
+
+		<!-- Seasonal types -->
+		<file name="christmas_presents.xml" type="types" />
 	</ce>
 </economycore>
