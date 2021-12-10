@@ -34,7 +34,7 @@
             "ImprovisedBag"
         ]
     },
-    "EnableSpawnSelection": 0,
+    "EnableSpawnSelection": 1,
     "SpawnSelectionScreenMenuID": 1004,
     "SpawnOnTerritory": 0,
     "SpawnLocations": [
