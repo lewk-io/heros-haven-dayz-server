@@ -1924,7 +1924,7 @@
     </type>
     <type name="BandanaMask_BlackPattern">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1935,7 +1935,7 @@
     </type>
     <type name="BandanaMask_CamoPattern">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1946,7 +1946,7 @@
     </type>
     <type name="BandanaMask_GreenPattern">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1957,7 +1957,7 @@
     </type>
     <type name="BandanaMask_PolkaPattern">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1968,7 +1968,7 @@
     </type>
     <type name="BandanaMask_RedPattern">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3625,7 +3625,7 @@
     </type>
     <type name="CattleProd">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3746,7 +3746,7 @@
     </type>
     <type name="ChernarusMap_Open">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3855,7 +3855,7 @@
     </type>
     <type name="ChristmasTree">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4333,7 +4333,7 @@
     </type>
     <type name="CivilianSedan">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4343,7 +4343,7 @@
     </type>
     <type name="CivilianSedan_Black">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4353,7 +4353,7 @@
     </type>
     <type name="CivilianSedan_Wine">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4762,7 +4762,7 @@
     </type>
     <type name="DallasMask">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4972,7 +4972,7 @@
     </type>
     <type name="Defibrillator">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5370,7 +5370,7 @@
     </type>
     <type name="EngineOil">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7351,7 +7351,7 @@
     </type>
     <type name="Hatchback_02">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7361,7 +7361,7 @@
     </type>
     <type name="Hatchback_02_Black">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7371,7 +7371,7 @@
     </type>
     <type name="Hatchback_02_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7925,7 +7925,7 @@
     </type>
     <type name="HescoBox">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8287,7 +8287,7 @@
     </type>
     <type name="HoxtonMask">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11720,7 +11720,7 @@
     </type>
     <type name="OffroadHatchback">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11730,7 +11730,7 @@
     </type>
     <type name="OffroadHatchback_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11740,7 +11740,7 @@
     </type>
     <type name="OffroadHatchback_White">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12701,7 +12701,7 @@
     </type>
     <type name="PumpkinHelmet">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13431,7 +13431,7 @@
     </type>
     <type name="SantasSleigh">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13620,7 +13620,7 @@
     </type>
     <type name="Sedan_02">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13918,7 +13918,7 @@
     </type>
     <type name="Sedan_02_Grey">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14000,7 +14000,7 @@
     </type>
     <type name="Sedan_02_Red">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14902,7 +14902,7 @@
     </type>
     <type name="Spear">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14924,7 +14924,7 @@
     </type>
     <type name="Splint_Applied">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15089,7 +15089,7 @@
     </type>
     <type name="StunBaton">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15873,7 +15873,7 @@
     </type>
     <type name="TransitBus">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15920,7 +15920,7 @@
     </type>
     <type name="Truck_01_Covered">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15930,7 +15930,7 @@
     </type>
     <type name="Truck_01_Covered_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15940,7 +15940,7 @@
     </type>
     <type name="Truck_01_Covered_Orange">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16722,7 +16722,7 @@
     </type>
     <type name="WolfMask">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17176,7 +17176,7 @@
     </type>
     <type name="Wreck_Mi8_Crashed">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
