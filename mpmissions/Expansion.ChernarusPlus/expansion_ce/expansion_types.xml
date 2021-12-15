@@ -3370,11 +3370,11 @@
         <category name="tools"/>
     </type>
 	<type name="ExpansionFlagBase">
-		<lifetime>259200</lifetime>
+		<lifetime>691200</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="ExpansionTerritoryFlag">
-		<lifetime>259200</lifetime>
+		<lifetime>691200</lifetime>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<!-- FLAG END -->

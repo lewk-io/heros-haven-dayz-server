@@ -1924,7 +1924,7 @@
     </type>
     <type name="BandanaMask_BlackPattern">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1935,7 +1935,7 @@
     </type>
     <type name="BandanaMask_CamoPattern">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1946,7 +1946,7 @@
     </type>
     <type name="BandanaMask_GreenPattern">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1957,7 +1957,7 @@
     </type>
     <type name="BandanaMask_PolkaPattern">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1968,7 +1968,7 @@
     </type>
     <type name="BandanaMask_RedPattern">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1979,7 +1979,7 @@
     </type>
     <type name="Bandana_Blackpattern">
         <nominal>15</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -1992,7 +1992,7 @@
     </type>
     <type name="Bandana_Camopattern">
         <nominal>15</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -2005,7 +2005,7 @@
     </type>
     <type name="Bandana_Greenpattern">
         <nominal>15</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -2018,7 +2018,7 @@
     </type>
     <type name="Bandana_Polkapattern">
         <nominal>15</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -2031,7 +2031,7 @@
     </type>
     <type name="Bandana_Redpattern">
         <nominal>15</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3625,7 +3625,7 @@
     </type>
     <type name="CattleProd">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3746,7 +3746,7 @@
     </type>
     <type name="ChernarusMap_Open">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3855,7 +3855,7 @@
     </type>
     <type name="ChristmasTree">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4762,7 +4762,7 @@
     </type>
     <type name="DallasMask">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4972,7 +4972,7 @@
     </type>
     <type name="Defibrillator">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -5370,7 +5370,7 @@
     </type>
     <type name="EngineOil">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -7925,7 +7925,7 @@
     </type>
     <type name="HescoBox">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8287,7 +8287,7 @@
     </type>
     <type name="HoxtonMask">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12611,10 +12611,10 @@
         <value name="Tier3"/>
     </type>
     <type name="PowerGenerator">
-        <nominal>80</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>20</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12701,7 +12701,7 @@
     </type>
     <type name="PumpkinHelmet">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13431,7 +13431,7 @@
     </type>
     <type name="SantasSleigh">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14902,7 +14902,7 @@
     </type>
     <type name="Spear">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -14924,7 +14924,7 @@
     </type>
     <type name="Splint_Applied">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15003,7 +15003,7 @@
     </type>
     <type name="Spotlight">
         <nominal>60</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
@@ -15089,7 +15089,7 @@
     </type>
     <type name="StunBaton">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -16722,7 +16722,7 @@
     </type>
     <type name="WolfMask">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17176,7 +17176,7 @@
     </type>
     <type name="Wreck_Mi8_Crashed">
         <nominal>0</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>3</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17209,10 +17209,10 @@
         <usage name="Village"/>
     </type>
     <type name="XmasLights">
-        <nominal>60</nominal>
-        <lifetime>3600</lifetime>
+        <nominal>40</nominal>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
