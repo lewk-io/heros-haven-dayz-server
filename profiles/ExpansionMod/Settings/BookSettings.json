@@ -33,7 +33,7 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "1.5 | No meta gaming.<br/>                    This means no giving or using outside information:<br/>                    1.5a | No disclosing other players positions.<br/>                    1.5b | No stream sniping."
+                    "RuleText": "1.5 | No meta gaming.<br/> This means no giving or using outside information:<br/> 1.5a | No disclosing other players positions.<br/> 1.5b | No stream sniping."
                 },
                 {
                     "RuleParagraph": "",
@@ -41,19 +41,19 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "1.7 | Max online group size of 6.<br/>                    You can create alliances with other groups. However, you must follow these rules:<br/>                    1.7a | No raiding, defending or roaming in a group larger than 6.<br/>                    1.7b | No sharing bases, base codes or allowing other groups inside your base.<br/>                    1.7c | Allied bases must not be closer than 3km from each other.<br/>                    1.7d | Avoid meeting at bases. You should always try to meet at a mutual area where possible."
+                    "RuleText": "1.7 | Max online group size of 8.<br/> You can create alliances with other groups. However, you must follow these rules:<br/> 1.7a | No raiding, defending or roaming in a group larger than 8.<br/> 1.7b | No sharing bases, base codes or allowing other groups inside your base.<br/> 1.7c | Allied bases must not be closer than 3km from each other.<br/> 1.7d | Avoid meeting at bases. You should always try to meet at a mutual area where possible."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "1.8 | Steam game or VAC bans.<br/>                    If you have a Steam game or VAC ban, you must follow these rules:<br/>                    1.8a | If you have 1 Steam game or VAC ban it must be older than 182 days.<br/>                    1.8b | If you have 2 or more Steam game or VAC bans they must be over 1 year old.<br/>                    Any player with a Steam game or VAC ban will be treated on a case-by-case basis."
+                    "RuleText": "1.8 | Steam game or VAC bans.<br/> If you have a Steam game or VAC ban, you must follow these rules:<br/> 1.8a | If you have 1 Steam game or VAC ban it must be older than 182 days.<br/> 1.8b | If you have 2 or more Steam game or VAC bans they must be over 1 year old.<br/> Any player with a Steam game or VAC ban will be treated on a case-by-case basis."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "1.9 | Steam account age.<br/>                    Your Steam account must be a certain age - this age will change depending on the current rate of attempted hackers at the time."
+                    "RuleText": "1.9 | Steam account age.<br/> Your Steam account must be a certain age - this age will change depending on the current rate of attempted hackers at the time."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "1.10 |  1 account per player.<br/>                    No using multiple accounts. This is considered an exploit."
+                    "RuleText": "1.10 |  1 account per player.<br/> No using multiple accounts. This is considered an exploit."
                 }
             ]
         },
@@ -66,11 +66,11 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.2 | No placing a flag without building a base.<br/>                    If you place a flag, you must then build a base there. Any flags found without a base will be removed."
+                    "RuleText": "2.2 | No placing a flag without building a base.<br/> If you place a flag, you must then build a base there. Any flags found without a base will be removed."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.3 | No removing your flag from your base.<br/>                Any bases without a flag will be removed. Bases will also decay quickly without a flag."
+                    "RuleText": "2.3 | No removing your flag from your base.<br/>           Any bases without a flag will be removed. Bases will also decay quickly without a flag."
                 },
                 {
                     "RuleParagraph": "",
@@ -78,19 +78,19 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.5 | No building:<br/>                    2.5a | Within 850m from spawn locations.<br/>                    2.5b | Within 500m of small military (3 tents or less).<br/>                    2.5c | Within 1km of large military (4 tents or more).<br/>                    2.5d | Inside or around military buildings (police stations, prisons etc).<br/>                    2.5e | On roads.<br/>                    2.5f | On bridges.<br/>                    2.5g | In tunnels."
+                    "RuleText": "2.5 | No building:<br/> 2.5a | Within 850m from spawn locations.<br/> 2.5b | Within 500m of small military (3 tents or less).<br/> 2.5c | Within 1km of large military (4 tents or more).<br/> 2.5d | Inside or around military buildings (police stations, prisons etc).<br/> 2.5e | On roads.<br/> 2.5f | On bridges.<br/> 2.5g | In tunnels."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.6 | No deploying or placing containers inside of tents or other larger containers."
+                    "RuleText": "2.6 | No using indestructible objects to block base access.<br/> This includes using containers to line walls so that they are not raidable."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.7 | Your base and loot must be accessible by normal means.<br/>                    Ie: your base/loot must be reachable without propstacking, climbing, player boosting or dismantling objects."
+                    "RuleText": "2.7 | Your base and loot must be accessible by normal means.<br/> Ie: your base/loot must be reachable without propstacking, climbing, player boosting or dismantling objects."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.8 | Containers must be inside of a base.<br/>                    Any containers found not inside of a base will be removed. The only exception to this is burried stashes."
+                    "RuleText": "2.8 | Containers must be inside of a base.<br/> Any containers found not inside of a base will be removed. The only exception to this is burried stashes."
                 },
                 {
                     "RuleParagraph": "",
@@ -98,7 +98,7 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "2.10 | No over hanging floors/ceilings and no floating bases.<br/>                    All outer building parts of your base must touch the ground. You cannot have an floating parts of your structure. Your base must not defy the laws of physics."
+                    "RuleText": "2.10 | No over hanging floors/ceilings and no floating bases.<br/> All outer building parts of your base must touch the ground. You cannot have an floating parts of your structure. Your base must not defy the laws of physics."
                 },
                 {
                     "RuleParagraph": "",
@@ -111,7 +111,7 @@
             "Rules": [
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.1 | No stealing.<br/>                    Do not take items off the floor, from inside of unlocked vehicles or unlocked vehicles their selves."
+                    "RuleText": "3.1 | No stealing.<br/> Do not take items off the floor, from inside of unlocked vehicles or unlocked vehicles their selves."
                 },
                 {
                     "RuleParagraph": "",
@@ -119,11 +119,11 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.3 | No trader camping.<br/>                    Trader camping is: sitting on the edge of the safe zone waiting for players to leave so as to kill them OR waiting at Black Market with no reason to be there but kill other players.<br/>                    Trader camping is not: initiating PVP outside of the safe zone."
+                    "RuleText": "3.3 | No trader camping.<br/> Trader camping is: sitting on the edge of the safe zone waiting for players to leave so as to kill them OR waiting at Black Market with no reason to be there but kill other players.<br/> Trader camping is not: initiating PVP outside of the safe zone."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.4 | No accusing people of trader camping.<br/>                    You can go to #support and report it there."
+                    "RuleText": "3.4 | No accusing people of trader camping.<br/> You can go to #support and report it there."
                 },
                 {
                     "RuleParagraph": "",
@@ -143,7 +143,7 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.9 | No loitering or going AFK in the traders.<br/>                \"loitering\" is remaining in the trader with no need to be there. If you're waiting for someone or something then you must go elsewhere."
+                    "RuleText": "3.9 | No loitering or going AFK in the traders.<br/>           \"loitering\" is remaining in the trader with no need to be there. If you're waiting for someone or something then you must go elsewhere."
                 },
                 {
                     "RuleParagraph": "",
@@ -151,11 +151,11 @@
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.11 | No parking vehicles at the trader entrance or next to the traders.<br/>                    The safe zones are quite large, you should use other spaces to keep your vehicle so that other players are less likely to approach your vehicle when locking/unlocking it."
+                    "RuleText": "3.11 | No parking vehicles at the trader entrance or next to the traders.<br/> The safe zones are quite large, you should use other spaces to keep your vehicle so that other players are less likely to approach your vehicle when locking/unlocking it."
                 },
                 {
                     "RuleParagraph": "",
-                    "RuleText": "3.12 | Do not block access to traders.<br/>                    This includes blocking doorways with vehicles and locking doors."
+                    "RuleText": "3.12 | Do not block access to traders.<br/> This includes blocking doorways with vehicles and locking doors."
                 }
             ]
         }
