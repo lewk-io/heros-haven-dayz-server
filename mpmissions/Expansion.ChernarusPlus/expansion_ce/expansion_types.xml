@@ -3519,7 +3519,7 @@
     </type>
 	<type name="ExpansionCamoTentKit">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3532,12 +3532,12 @@
         <usage name="Hunting"/>
     </type>
 	<type name="ExpansionSafeBase">
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 	<type name="ExpansionSafeLarge">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3551,7 +3551,7 @@
     </type>
 	<type name="ExpansionSafeMini">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3565,7 +3565,7 @@
     </type>
 	<type name="ExpansionSafeMedium">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3579,7 +3579,7 @@
     </type>
 	<type name="ExpansionGunrack">
         <nominal>20</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -3592,7 +3592,7 @@
     </type>
 	<type name="ExpansionHelipadKit">
         <nominal>10</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3604,7 +3604,7 @@
     </type>
     <type name="ExpansionBarbedWireKit">
         <nominal>10</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -3616,7 +3616,7 @@
     </type>
     <type name="ExpansionHescoKit">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
+        <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>

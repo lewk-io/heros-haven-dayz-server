@@ -3487,8 +3487,8 @@
     </type>
     <type name="CarTent">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9071,8 +9071,8 @@
     </type>
     <type name="LargeTent">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10782,8 +10782,8 @@
     </type>
     <type name="MediumTent">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10795,8 +10795,8 @@
     </type>
     <type name="MediumTent_Green">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -10808,8 +10808,8 @@
     </type>
     <type name="MediumTent_Orange">
         <nominal>10</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11953,8 +11953,8 @@
     </type>
     <type name="PartyTent">
         <nominal>20</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11965,8 +11965,8 @@
     </type>
     <type name="PartyTent_Blue">
         <nominal>20</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11977,8 +11977,8 @@
     </type>
     <type name="PartyTent_Brown">
         <nominal>20</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11989,8 +11989,8 @@
     </type>
     <type name="PartyTent_Lunapark">
         <nominal>20</nominal>
-        <lifetime>259200</lifetime>
-        <restock>43200</restock>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
