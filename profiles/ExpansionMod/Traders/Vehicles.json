@@ -14,5 +14,8 @@
     "Categories": [
         "Vanilla_Vehicles",
         "Vanilla_Vehicles_Parts"
-    ]
+    ],
+    "Items": {
+        "wrench": 1
+    }
 }
