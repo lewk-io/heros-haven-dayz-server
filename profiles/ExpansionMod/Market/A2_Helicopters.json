@@ -2,7 +2,7 @@
 	"m_Version": 8,
 	"DisplayName": "Arma 2 Helicopters",
 	"Icon": "Helicopter",
-	"Color": "41BD6EFF",
+	"Color": "FBFCFEFF",
 	"InitStockPercent": 100.0,
 	"Items": [
 		{

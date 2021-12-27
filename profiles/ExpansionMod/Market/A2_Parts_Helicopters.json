@@ -2,7 +2,7 @@
 	"m_Version": 8,
 	"DisplayName": "Arma 2 Helicopters Parts",
 	"Icon": "Helicopter",
-	"Color": "FF0055FF",
+	"Color": "FBFCFEFF",
 	"InitStockPercent": 100.0,
 	"Items": [{
 			"ClassName": "ext_ah1z_door_1_1",

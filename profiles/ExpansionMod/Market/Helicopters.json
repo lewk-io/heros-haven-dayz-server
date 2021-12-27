@@ -1,6 +1,6 @@
 {
     "m_Version": 8,
-    "DisplayName": "Helicopters",
+    "DisplayName": "Expansion Helicopters",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 100.0,
@@ -21,6 +21,42 @@
                 "expansion_mh6_door_1_2",
                 "expansion_mh6_door_2_1",
                 "expansion_mh6_door_2_2"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionuh1h",
+            "MaxPriceThreshold": 38000,
+            "MinPriceThreshold": 38000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "expansionuh1hdoor_1_1",
+                "expansionuh1hdoor_1_2"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionmerlin",
+            "MaxPriceThreshold": 48000,
+            "MinPriceThreshold": 48000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "expansionmerlinfrontwheel",
+                "expansionmerlinfrontwheel",
+                "expansionmerlinbackwheel",
+                "expansionmerlinbackwheel"
             ],
             "Variants": []
         }
