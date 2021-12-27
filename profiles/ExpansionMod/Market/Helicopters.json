@@ -7,8 +7,8 @@
     "Items": [
          {
             "ClassName": "expansionmh6",
-            "MaxPriceThreshold": 28000,
-            "MinPriceThreshold": 28000,
+            "MaxPriceThreshold": 42000,
+            "MinPriceThreshold": 42000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -26,8 +26,8 @@
         },
         {
             "ClassName": "expansionuh1h",
-            "MaxPriceThreshold": 38000,
-            "MinPriceThreshold": 38000,
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -38,25 +38,6 @@
                 "headlighth7",
                 "expansionuh1hdoor_1_1",
                 "expansionuh1hdoor_1_2"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionmerlin",
-            "MaxPriceThreshold": 48000,
-            "MinPriceThreshold": 48000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [
-                "expansionhelicopterbattery",
-                "expansionigniterplug",
-                "expansionhydraulichoses",
-                "headlighth7",
-                "expansionmerlinfrontwheel",
-                "expansionmerlinfrontwheel",
-                "expansionmerlinbackwheel",
-                "expansionmerlinbackwheel"
             ],
             "Variants": []
         }
