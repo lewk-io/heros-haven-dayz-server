@@ -1,6 +1,6 @@
 {
     "m_Version": 8,
-    "DisplayName": "Helicopters Parts",
+    "DisplayName": "Expansion Helicopters Parts",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "InitStockPercent": 100.0,
@@ -28,7 +28,7 @@
         {
             "ClassName": "expansion_mh6_door_1_1",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -38,7 +38,7 @@
         {
             "ClassName": "expansion_mh6_door_1_2",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -48,7 +48,7 @@
         {
             "ClassName": "expansion_mh6_door_2_1",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -58,7 +58,7 @@
         {
             "ClassName": "expansion_mh6_door_2_2",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -68,7 +68,7 @@
         {
             "ClassName": "expansionhelicopterbattery",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -78,7 +78,7 @@
         {
             "ClassName": "expansionigniterplug",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -88,7 +88,7 @@
         {
             "ClassName": "expansionhydraulichoses",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -98,9 +98,48 @@
         {
             "ClassName": "headlighth7",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionmerlinbackwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionuh1hdoor_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionuh1hdoor_1_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []

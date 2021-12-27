@@ -13,12 +13,25 @@
     ],
     "Categories": [
         "Helicopters",
-        "Helicopters_Parts"
+        "Helicopters_Parts",
+        "A2_Helicopters",
+        "A2_Parts_Helicopters"
     ],
     "Items": {
         "expansion_mh6_door_1_1": 1,
+        "expansionuh1h": 1,
+        "expansiongyrocopter": 1,
+        "expansionuh1hdoor_1_1": 1,
+        "expansionhydraulichoses": 1,
+        "expansionuh1hdoor_1_2": 1,
+        "canistergasoline": 3,
+        "expansionigniterplug": 1,
+        "expansionmh6": 1,
         "expansion_mh6_door_1_2": 1,
+        "headlighth7": 3,
+        "headlighth7_box": 3,
         "expansion_mh6_door_2_1": 1,
-        "expansion_mh6_door_2_2": 1
+        "expansion_mh6_door_2_2": 1,
+        "expansionhelicopterbattery": 1
     }
 }
