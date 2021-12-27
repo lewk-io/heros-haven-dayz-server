@@ -46,16 +46,6 @@
             "Variants": []
         },
         {
-            "ClassName": "mvs_shroud_digisnow",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "mvs_helmet_01_snow",
             "MaxPriceThreshold": 1200,
             "MinPriceThreshold": 1200,

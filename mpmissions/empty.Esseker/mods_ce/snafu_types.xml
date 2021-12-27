@@ -253,10 +253,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="GCGN_VEPR">
-		<nominal>80</nominal>
+		<nominal>50</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
-		<min>30</min>
+		<min>20</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4248,7 +4248,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUAR15_SPR_Black_GUN">
-		<nominal>20</nominal>
+		<nominal>15</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>5</min>
@@ -4262,7 +4262,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUAR15_SPR_Tan_GUN">
-		<nominal>20</nominal>
+		<nominal>15</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>5</min>
@@ -4686,7 +4686,7 @@
     </type>
 	<!-- 09/06/2021-->
 	<type name="Snafu_ScarH_Black_GUN">
-		<nominal>6</nominal>
+		<nominal>5</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>2</min>
@@ -4700,7 +4700,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="Snafu_ScarH_DKMC_GUN">
-		<nominal>6</nominal>
+		<nominal>5</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>2</min>
@@ -4714,7 +4714,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="Snafu_ScarH_OD_GUN">
-		<nominal>6</nominal>
+		<nominal>5</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>2</min>
@@ -4728,7 +4728,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="Snafu_ScarH_Snow_GUN">
-		<nominal>6</nominal>
+		<nominal>5</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>2</min>
@@ -4742,7 +4742,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="Snafu_ScarH_Tan_GUN">
-		<nominal>6</nominal>
+		<nominal>5</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>2</min>
