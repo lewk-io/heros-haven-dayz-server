@@ -4,69 +4,7 @@
 	"Icon": "Helicopter",
 	"Color": "41BD6EFF",
 	"InitStockPercent": 100.0,
-	"Items": [{
-			"ClassName": "ext_ah1z",
-			"MaxPriceThreshold": 2500000,
-			"MinPriceThreshold": 2000000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"wrench",
-				"camonet",
-				"canistergasoline",
-				"ext_ah1z_door_1_1",
-				"ext_ah1z_door_2_1",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ah64d",
-			"MaxPriceThreshold": 2500000,
-			"MinPriceThreshold": 2000000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_aw159",
-			"MaxPriceThreshold": 3000000,
-			"MinPriceThreshold": 2500000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"ext_aw159_frontwheel",
-				"ext_aw159_frontwheel",
-				"ext_aw159_backwheel",
-				"ext_aw159_backwheel",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
+	"Items": [
 		{
 			"ClassName": "ext_ch_47f",
 			"MaxPriceThreshold": 3750000,
@@ -83,31 +21,6 @@
 				"wrench",
 				"canistergasoline",
 				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka52",
-			"MaxPriceThreshold": 3200000,
-			"MinPriceThreshold": 3000000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"ext_ka52_door_1_1",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio",
-				"ext_ka52_door_2_1",
-				"ext_ka52backwheel",
-				"ext_ka52backwheel",
-				"ext_ka52frontwheel",
-				"ext_ka52frontwheel"
 			],
 			"Variants": []
 		},
