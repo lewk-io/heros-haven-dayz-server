@@ -28,7 +28,7 @@
         {
             "ClassName": "expansion_mh6_door_1_1",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -38,7 +38,7 @@
         {
             "ClassName": "expansion_mh6_door_1_2",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -48,7 +48,7 @@
         {
             "ClassName": "expansion_mh6_door_2_1",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -58,7 +58,7 @@
         {
             "ClassName": "expansion_mh6_door_2_2",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -68,7 +68,7 @@
         {
             "ClassName": "expansionhelicopterbattery",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -78,7 +78,7 @@
         {
             "ClassName": "expansionigniterplug",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -88,7 +88,7 @@
         {
             "ClassName": "expansionhydraulichoses",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
@@ -98,7 +98,7 @@
         {
             "ClassName": "headlighth7",
             "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MinPriceThreshold": 1000,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,

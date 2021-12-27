@@ -13,7 +13,9 @@
     ],
     "Categories": [
         "Helicopters",
-        "Helicopters_Parts"
+        "Helicopters_Parts",
+        "A2_Helicopters",
+        "A2_Parts_Helicopters"
     ],
     "Items": {
         "expansion_mh6_door_1_1": 1,
