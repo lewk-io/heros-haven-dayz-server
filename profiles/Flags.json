@@ -1,0 +1,16 @@
+{
+    "Flags": [
+        {
+            "FlagName": "Hero's Haven scenic logo",
+            "AllowedBIIDs": [
+                "dw-OmAQq9ROhl5Iu836sgxGcJlo7DGOoUnRIb0b0-nI="
+            ]
+        },
+        {
+            "FlagName": "Hero's Haven flat logo",
+            "AllowedBIIDs": [
+                "dw-OmAQq9ROhl5Iu836sgxGcJlo7DGOoUnRIb0b0-nI"
+            ]
+        }
+    ]
+}
