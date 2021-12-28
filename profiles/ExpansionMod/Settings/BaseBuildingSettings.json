@@ -17,7 +17,13 @@
         "ExpansionIEDPlacing",
         "TripwireTrap"
     ],
-    "DeployableInsideAEnemyTerritory": [],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "ExpansionIED",
+        "ExpansionIEDPlacing"
+    ],
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 1,
