@@ -1,0 +1,24 @@
+{
+    "VehicleName": "ext_mi24",
+    "DisplayName": "Extension-MI24",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_mi24_door_1_1",
+        "ext_mi24_door_1_2",
+        "ext_mi24_door_2_1",
+        "ext_mi24_door_2_2",
+        "ext_mi24_door_cargo_1",
+        "ext_mi24_door_cargo_2",
+        "ext_mi24_wheel_1_1",
+        "ext_mi24_wheel_1_2",
+        "ext_mi24_wheel_2_1",
+        "ext_mi24_wheel_2_2",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "VehicleName": "ext_uh60m",
+    "DisplayName": "Extension-UH60M",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_uh60m_door_1_1",
+        "ext_uh60m_door_1_2",
+        "ext_uh60m_door_2_1",
+        "ext_uh60m_door_2_2",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

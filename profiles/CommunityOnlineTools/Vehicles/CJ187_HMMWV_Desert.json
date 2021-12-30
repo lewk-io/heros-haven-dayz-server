@@ -1,0 +1,18 @@
+{
+    "VehicleName": "Hmwvee_desert",
+    "DisplayName": "CJ178 - HMMWV Olive",
+    "Parts": [
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "Hmwvee_Desert_hood",
+        "HmwveeDoors_Desert_Driver",
+        "HmwveeDoors_Desert_CoDriver",
+        "HmwveeDoors_Desert_Cargo1",
+        "HmwveeDoors_Desert_Cargo2",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

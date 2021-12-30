@@ -1,0 +1,15 @@
+{
+    "VehicleName": "sobgaz",
+    "DisplayName": "CJ178 - GAZ 66",
+    "Parts": [
+        "gazWheel",
+        "gazWheel",
+        "gazWheel",
+        "gazWheel",
+        "gazDoors_Driver",
+        "gazDoors_CoDriver",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

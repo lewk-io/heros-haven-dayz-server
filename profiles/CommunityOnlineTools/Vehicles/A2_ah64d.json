@@ -1,0 +1,14 @@
+{
+    "VehicleName": "ext_ah64d",
+    "DisplayName": "Extension-AH64D",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

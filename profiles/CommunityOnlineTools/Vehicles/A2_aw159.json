@@ -1,0 +1,18 @@
+{
+    "VehicleName": "ext_aw159",
+    "DisplayName": "Extension-AW159",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_aw159_frontwheel",
+        "ext_aw159_frontwheel",
+        "ext_aw159_backwheel",
+        "ext_aw159_backwheel",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

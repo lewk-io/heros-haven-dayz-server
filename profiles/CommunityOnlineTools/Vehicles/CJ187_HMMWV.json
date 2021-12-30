@@ -1,0 +1,18 @@
+{
+    "VehicleName": "Hmwvee",
+    "DisplayName": "CJ178 - HMMWV",
+    "Parts": [
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "HmwveeWheel",
+        "Hmwvee_hood",
+        "HmwveeDoors_Driver",
+        "HmwveeDoors_CoDriver",
+        "HmwveeDoors_Cargo1",
+        "HmwveeDoors_Cargo2",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

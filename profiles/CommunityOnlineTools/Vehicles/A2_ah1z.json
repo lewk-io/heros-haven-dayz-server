@@ -1,0 +1,16 @@
+{
+    "VehicleName": "ext_ah1z",
+    "DisplayName": "Extension-AH1Z",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "wrench",
+        "camonet",
+        "canistergasoline",
+        "ext_ah1z_door_1_1",
+        "ext_ah1z_door_2_1",
+        "ext_tac_radio"
+    ]
+}

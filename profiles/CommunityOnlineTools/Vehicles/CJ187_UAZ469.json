@@ -1,0 +1,18 @@
+{
+    "VehicleName": "uazSoba",
+    "DisplayName": "CJ178 - UAZ 469",
+    "Parts": [
+        "uazWheel",
+        "uazWheel",
+        "uazWheel",
+        "uazWheel",
+        "Uaz_Hood",
+        "Uaz_Driver",
+        "Uaz_CoDriver",
+        "Uaz_Cargo1",
+        "Uaz_Cargo2",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

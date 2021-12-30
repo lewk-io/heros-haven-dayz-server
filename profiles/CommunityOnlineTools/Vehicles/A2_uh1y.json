@@ -1,0 +1,16 @@
+{
+    "VehicleName": "ext_uh1y",
+    "DisplayName": "Extension-UH1Y",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_uh1y_door_1_1",
+        "ext_uh1y_door_2_1",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

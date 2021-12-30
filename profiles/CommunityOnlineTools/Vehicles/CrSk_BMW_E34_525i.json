@@ -1,0 +1,19 @@
+{
+    "VehicleName": "CrSk_BMW_525i_E34",
+    "DisplayName": "CrSk - BMW E34 525i",
+    "Parts": [
+        "BMWE34_koleso_style37",
+        "BMWE34_koleso_style37",
+        "BMWE34_koleso_style37",
+        "BMWE34_koleso_style37",
+        "BMWE34_dver_1_1",
+        "BMWE34_dver_2_1",
+        "BMWE34_dver_1_2",
+        "BMWE34_dver_2_2",
+        "BMWE34_kapot",
+        "BMWE34_bagazhnik",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

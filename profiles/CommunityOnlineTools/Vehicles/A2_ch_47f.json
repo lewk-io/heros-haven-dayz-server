@@ -1,0 +1,14 @@
+{
+    "VehicleName": "ext_ch_47f",
+    "DisplayName": "Extension-CH_47F",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

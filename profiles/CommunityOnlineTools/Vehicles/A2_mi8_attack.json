@@ -1,0 +1,19 @@
+{
+    "VehicleName": "ext_mi8_attack",
+    "DisplayName": "Extension-MI8-Attack",
+    "Parts": [
+        "expansionigniterplug",
+        "expansionhelicopterbattery",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "canistergasoline",
+        "wrench",
+        "camonet",
+        "ext_mi8frontwheel",
+        "ext_mi8frontwheel",
+        "ext_mi8backwheel",
+        "ext_mi8backwheel",
+        "ext_mi8door",
+        "ext_tac_radio"
+    ]
+}

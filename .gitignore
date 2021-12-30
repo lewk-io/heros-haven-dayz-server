@@ -54,7 +54,10 @@ profiles/CarCover/*.log
 
 profiles/CodeLock/**/*.log
 
-profiles/CommunityOnlineTools/**/*
+profiles/CommunityOnlineTools/Items/**/*
+profiles/CommunityOnlineTools/Logs/**/*
+profiles/CommunityOnlineTools/Teleports.json
+profiles/CommunityOnlineTools/Webhooks.json
 
 profiles/DataCache/**/*
 

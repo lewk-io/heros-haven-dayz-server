@@ -1,0 +1,19 @@
+{
+    "VehicleName": "ext_mi8",
+    "DisplayName": "Extension-MI8",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_mi8door",
+        "ext_mi8frontwheel",
+        "ext_mi8frontwheel",
+        "ext_mi8backwheel",
+        "ext_mi8backwheel",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}

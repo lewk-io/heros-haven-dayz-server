@@ -1,0 +1,15 @@
+{
+    "VehicleName": "sobgaz_Plat",
+    "DisplayName": "CJ178 - GAZ 66 Covered",
+    "Parts": [
+        "gazWheel",
+        "gazWheel",
+        "gazWheel",
+        "gazWheel",
+        "gazDoors_Driver",
+        "gazDoors_CoDriver",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug"
+    ]
+}

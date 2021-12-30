@@ -1,0 +1,21 @@
+{
+    "VehicleName": "ext_merlinhc3",
+    "DisplayName": "Extension-Merlin-HC3",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_merlinhc3_backwheel",
+        "ext_merlinhc3_cargo_door",
+        "ext_merlinhc3_door_1_1",
+        "ext_merlinhc3_door_2_1",
+        "ext_merlinhc3_frontwheel",
+        "ext_merlinhc3_frontwheel",
+        "ext_merlinhc3_backwheel",
+        "ext_tac_radio"
+    ]
+}

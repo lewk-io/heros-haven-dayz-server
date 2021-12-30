@@ -1,0 +1,19 @@
+{
+    "VehicleName": "ext_ka60",
+    "DisplayName": "Extension-KA60",
+    "Parts": [
+        "expansionhelicopterbattery",
+        "expansionigniterplug",
+        "expansionhydraulichoses",
+        "headlighth7",
+        "ext_ka60_door",
+        "ext_ka60_frontwheel",
+        "ext_ka60_frontwheel",
+        "ext_ka60_backwheel",
+        "ext_ka60_backwheel",
+        "camonet",
+        "wrench",
+        "canistergasoline",
+        "ext_tac_radio"
+    ]
+}
