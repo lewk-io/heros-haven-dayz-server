@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Dingo",
+    "DisplayName": "Dingo",
+    "Parts": [
+        "DingoWheel",
+        "DingoWheel",
+        "DingoWheel",
+        "DingoWheel",
+        "DingoDoors_Driver",
+        "DingoDoors_CoDriver",
+        "DingoDoors_Cargo1",
+        "DingoDoors_Cargo2",
+        "DingoHood",
+        "DingoTrunk",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
