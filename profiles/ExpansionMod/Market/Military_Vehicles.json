@@ -1,0 +1,62 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Military Vehicles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Hmwvee",
+            "MaxPriceThreshold": 107580,
+            "MinPriceThreshold": 107580,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "HmwveeWheel",
+                "HmwveeWheel",
+                "HmwveeWheel",
+                "HmwveeWheel",
+                "HmwveeWheel",
+                "Hmwvee_hood",
+                "HmwveeDoors_Driver",
+                "HmwveeDoors_CoDriver",
+                "HmwveeDoors_Cargo1",
+                "HmwveeDoors_Cargo2",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Dingo",
+            "MaxPriceThreshold": 136580,
+            "MinPriceThreshold": 136580,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "DingoWheel",
+                "DingoWheel",
+                "DingoWheel",
+                "DingoWheel",
+                "DingoWheel",
+                "DingoDoors_Driver",
+                "DingoDoors_CoDriver",
+                "DingoDoors_Cargo1",
+                "DingoDoors_Cargo2",
+                "DingoHood",
+                "DingoTrunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
+        }
+    ]
+}

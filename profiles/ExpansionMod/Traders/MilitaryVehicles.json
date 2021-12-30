@@ -1,0 +1,19 @@
+{
+    "m_Version": 7,
+    "TraderName": "Military Vehicles",
+    "DisplayName": "Military Vehicle Trader",
+    "TraderIcon": "Car",
+    "Currencies": [
+		"MoneyRuble1",
+		"MoneyRuble5",
+		"MoneyRuble10",
+		"MoneyRuble25",
+		"MoneyRuble50",
+		"MoneyRuble100"
+    ],
+    "Categories": [
+        "Military_Vehicles",
+        "Military_Vehicle_Parts"
+    ],
+    "Items": {}
+}
