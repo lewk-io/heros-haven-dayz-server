@@ -226,6 +226,27 @@
             ]
         },
         {
+            "ClassName": "sobgaz",
+            "MaxPriceThreshold": 44340,
+            "MinPriceThreshold": 44340,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "gazWheel",
+                "gazWheel",
+                "gazWheel",
+                "gazWheel",
+                "gazDoors_Driver",
+                "gazDoors_CoDriver",
+                "TruckBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
             "ClassName": "CrSk_Land_Rover_Defender_110",
             "MaxPriceThreshold": 41640,
             "MinPriceThreshold": 41640,
