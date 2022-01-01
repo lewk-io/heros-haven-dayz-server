@@ -8,7 +8,7 @@
         "gazWheel",
         "gazDoors_Driver",
         "gazDoors_CoDriver",
-        "CarBattery",
+        "TruckBattery",
         "CarRadiator",
         "SparkPlug",
         "HeadlightH7",
