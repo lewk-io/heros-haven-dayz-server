@@ -7,10 +7,10 @@
         "Expansion_LAW_Explosion"
     ],
     "EnableExplosiveWhitelist": 1,
-    "ExplosionDamageMultiplier": 0.0,
+    "ExplosionDamageMultiplier": 30.0,
     "ProjectileDamageMultiplier": 0.0,
     "CanRaidSafes": 1,
-    "SafeExplosionDamageMultiplier": 0.0,
+    "SafeExplosionDamageMultiplier": 30.0,
     "SafeProjectileDamageMultiplier": 0.0,
     "SafeRaidTools": [],
     "SafeRaidToolTimeSeconds": 0,
