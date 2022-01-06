@@ -59,6 +59,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="vanilla_types_changes.xml" type="types" />
 
 		<!-- Seasonal types -->
-		<file name="christmas.xml" type="types" />
+		<!-- <file name="christmas.xml" type="types" /> -->
 	</ce>
 </economycore>

@@ -3664,6 +3664,7 @@
 		<category name="weapons" />
 		<usage name="Military" />
         <usage name="ContaminatedArea"/>
+		<value name="Tier4" />
 	</type>
 	<type name="SNAFUHoneyBadger_Black">
 		<nominal>1</nominal>
