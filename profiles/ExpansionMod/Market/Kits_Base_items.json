@@ -304,56 +304,6 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "msp_moskvafridge_blue_kit",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_moskvafridge_cream_kit",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_moskvafridge_red_kit",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_sovietokafridge_kit",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_snowballfridge_kit",
-            "MaxPriceThreshold": 4500,
-            "MinPriceThreshold": 4500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }
