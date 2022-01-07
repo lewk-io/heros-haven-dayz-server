@@ -46,6 +46,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<!-- SERVER MODS TYPES -->
 	<ce folder="mods_ce">
 		<file name="arma2helicopters_types.xml" type="types" />
+		<file name="carcover_a2.xml" type="types" />
 		<file name="carcover_types.xml" type="types" />
 		<file name="cloudswintergear.xml" type="types" />
 		<file name="creatures_types.xml" type="types" />
