@@ -1,0 +1,129 @@
+{
+    "m_Version": 8,
+    "DisplayName": "mirrormonster's Gear",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_HuntingJacket",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_HuntingPants",
+            "MaxPriceThreshold": 90,
+            "MinPriceThreshold": 90,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_WarriorHelmet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_RuckSack",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_Patch",
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_Canteen",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_MagazinePouch",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_CombatVest",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_RaidPouch",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_AdminPouch",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_MirrorMonster_Balaclava",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ],
+    "AllowedBIIDs": [
+        "wBVkn8izjeT4eoIJK3vdkmQgEBcNQAasLLmsrnCW_Yo=",
+        "GCAu6gr20eviH-Exa0pUJfBtv8Y8EfPIKGWzj4rpu78=",
+        "p5bSQOyIcdtevX2VOHmLmDgQgc2cgze34LmMaoBCgwc=",
+        "oD-v-9kw99OR13iI9OP7gGQklk5mDHseVFWLjjSeByQ=",
+        "swsCWtd23PSOz3LSONm_-PhZpdskH6biA6rlmTPMz_g=",
+        "B1YIu04AMf3_-KahKwdkor0EaSQOfc9qSCumVEppgIA=",
+        "GdnwaQI1UUdPjC_tcdEzVZGNQ7KFTJS6A4ZVbJMRraw=",
+        "dw-OmAQq9ROhl5Iu836sgxGcJlo7DGOoUnRIb0b0-nI="
+    ]
+}

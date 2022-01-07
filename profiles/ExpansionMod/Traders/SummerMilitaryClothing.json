@@ -37,6 +37,9 @@
         "Military_MVS_Multicam_Tropic",
         "Military_MVS_OD",
         "Military_MVS_Snow",
-        "Military_MVS_Tan"
+        "Military_MVS_Tan",
+		"HHDonatorClothing_MirrorMonster",
+		"HHDonatorClothing_Sedgewik",
+		"HHDonatorClothing_TheSterling28"
     ]
 }

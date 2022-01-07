@@ -1,0 +1,63 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Sedgewik's Gear",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "HHDonatorClothing_Sedgewik_BDUJacket",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_Sedgewik_BDUPants",
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_Sedgewik_WarriorHelmet",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_Sedgewik_RuckSack",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HHDonatorClothing_Sedgewik_CombatVest",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ],
+    "AllowedBIIDs": [
+        "KdsAfdXKLj0arPYImxSEBg4LfHYRkKObabE1FpJmKbY=",
+        "dw-OmAQq9ROhl5Iu836sgxGcJlo7DGOoUnRIb0b0-nI="
+    ]
+}
