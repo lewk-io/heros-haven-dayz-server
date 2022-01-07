@@ -1,0 +1,297 @@
+{
+    "PrintLogs": 1,
+    "DiscordWebhookReplacedItems": "",
+    "DiscordWebhookDeletedItems": "",
+    "Items": [
+        {
+            "Item": "HH_Armband",
+            "IgnoredSteamIDs": [
+                "12335234564"
+            ],
+            "ReplacementItem": "Armband_Pink",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_HuntingJacket",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "HuntingJacket_Spring",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_HuntingPants",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "HunterPants_Spring",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_WarriorHelmet",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_WarriorHelmet_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_RuckSack",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Rucksack_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_Canteen",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Canteen_Multicam_Tropic",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_MagazinePouch",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Magazine_Pouch_Multicam_Tropic",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_CombatVest",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Combat_Vest_Multicam_Tropic",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_RaidPouch",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Taco_Pouch_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_AdminPouch",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Admin_Pouch_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_MirrorMonster_Balaclava",
+            "IgnoredSteamIDs": [
+                "76561198027436796",
+                "76561199211937903",
+                "76561197971287797",
+                "76561199204507660",
+                "76561199110242356",
+                "76561199016029326",
+                "76561198058094347",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Balaclava_OD",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_BDUJacket",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "BDUJacket",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_BDUPants",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "BDUPants",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_WarriorHelmet",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_WarriorHelmet_Multicam",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_ChestRig",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_ChestRig_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_RuckSack",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Rucksack_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_Sedgewik_CombatVest",
+            "IgnoredSteamIDs": [
+                "76561198012650821",
+                "76561198030882874",
+                "76561198054269623",
+                "76561198066728403",
+                "76561198067257344",
+                "76561198000598909"
+            ],
+            "ReplacementItem": "MVS_Combat_Vest_Multicam_Tropic",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_GorkaJacket",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "GorkaEJacket_Summer",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_GorkaPants",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "GorkaPants_Summer",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_ChestRig",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "MVS_ChestRig_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_CombatPack",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "MVS_Pack_OD",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_RuckSack",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "MVS_Rucksack_ERDL",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_WarriorHelmet",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510"
+            ],
+            "ReplacementItem": "MVS_WarriorHelmet_Multicam",
+            "ShouldCheckInHands": 0
+        }
+    ]
+}
