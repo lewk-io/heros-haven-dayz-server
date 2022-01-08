@@ -62,6 +62,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="land_rover.xml" type="types" />
 		<file name="dingo_truck.xml" type="types" />
 		<file name="bmw_525i.xml" type="types" />
+		<file name="cj187_cars.xml" type="types" />
 
 		<!-- Seasonal types -->
 		<!-- <file name="christmas.xml" type="types" /> -->
