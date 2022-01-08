@@ -63,6 +63,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="dingo_truck.xml" type="types" />
 		<file name="bmw_525i.xml" type="types" />
 		<file name="cj187_cars.xml" type="types" />
+		<file name="HHDonatorClothing_MirrorMonster.xml" type="types" />
+		<file name="HHDonatorClothing_Sedgewik.xml" type="types" />
+		<file name="HHDonatorClothing_TheSterling28.xml" type="types" />
 
 		<!-- Seasonal types -->
 		<!-- <file name="christmas.xml" type="types" /> -->
