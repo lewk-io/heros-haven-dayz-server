@@ -59,6 +59,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="snafu_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="snafu_types.xml" type="types" />
 		<file name="vanilla_types_changes.xml" type="types" />
+		<file name="land_rover.xml" type="types" />
 
 		<!-- Seasonal types -->
 		<!-- <file name="christmas.xml" type="types" /> -->
