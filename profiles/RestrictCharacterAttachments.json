@@ -1,16 +1,8 @@
 {
     "PrintLogs": 1,
-    "DiscordWebhookReplacedItems": "",
-    "DiscordWebhookDeletedItems": "",
+    "DiscordWebhookReplacedItems": "https://discord.com/api/webhooks/930103100017082388/YPreCqilvGy9niSZWxmHyyWDVjbvxUDBxi2h5SI31dX8dvC7x3xF_W-uw3d2qYCy7fO7",
+    "DiscordWebhookDeletedItems": "https://discord.com/api/webhooks/930103100017082388/YPreCqilvGy9niSZWxmHyyWDVjbvxUDBxi2h5SI31dX8dvC7x3xF_W-uw3d2qYCy7fO7",
     "Items": [
-        {
-            "Item": "HH_Armband",
-            "IgnoredSteamIDs": [
-                "12335234564"
-            ],
-            "ReplacementItem": "Armband_Pink",
-            "ShouldCheckInHands": 0
-        },
         {
             "Item": "HHDonatorClothing_MirrorMonster_HuntingJacket",
             "IgnoredSteamIDs": [
