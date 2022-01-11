@@ -10,6 +10,7 @@
 		<cost>100</cost>
 		<flags count_in_map="0" count_in_hoarder="0" count_in_cargo="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
+		<value name="Tier4" />
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFU_RPK16_Black">
@@ -585,7 +586,6 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="M4_6933_Gun">
 		<nominal>0</nominal>
@@ -703,7 +703,6 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="GCGN_M82_Mag">
 		<nominal>1</nominal>
@@ -2371,10 +2370,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="GCGN_M200">
-		<nominal>3</nominal>
+		<nominal>1</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
-		<min>1</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2385,7 +2384,7 @@
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFU_M200Green">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -2401,7 +2400,7 @@
 		<nominal>3</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
-		<min>2</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3545,6 +3544,7 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
+		<value name="Tier3" />
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUMagnum500">
@@ -3576,10 +3576,11 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
+		<value name="Tier4" />
         <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUTAR21_Black">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3588,10 +3589,9 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUTAR21_Tan">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3600,10 +3600,9 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUTAR21_Green">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3612,7 +3611,6 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUASh12">
 		<nominal>0</nominal>
@@ -3653,7 +3651,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUGM6Lynx">
-		<nominal>2</nominal>
+		<nominal>1</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3667,7 +3665,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUHoneyBadger_Black">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3676,7 +3674,6 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUKH9">
 		<nominal>0</nominal>
@@ -3698,7 +3695,7 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFUM1A_Black">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3707,10 +3704,9 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUM1A_Green">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3719,10 +3715,9 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUM1A_Tan">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>0</min>
@@ -3731,7 +3726,6 @@
 		<cost>100</cost>
 		<flags count_in_hoarder="0" count_in_player="0" count_in_map="0" count_in_cargo="0" crafted="0" deloot="0" />
 		<category name="weapons" />
-        <usage name="ContaminatedArea"/>
 	</type>
 	<type name="SNAFUM96">
 		<nominal>0</nominal>
@@ -4230,10 +4224,10 @@
 		<value name="Tier4" />
 	</type>
 	<type name="SNAFU_M1918A2">
-		<nominal>30</nominal>
+		<nominal>24</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
-		<min>12</min>
+		<min>8</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4246,10 +4240,10 @@
 		<value name="Tier3" />
 	</type>
 	<type name="SNAFU_M1918A2_Mag">
-		<nominal>24</nominal>
+		<nominal>20</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
-		<min>10</min>
+		<min>8</min>
 		<quantmin>100</quantmin>
 		<quantmax>100</quantmax>
 		<cost>100</cost>
