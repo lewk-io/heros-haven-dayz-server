@@ -15,7 +15,8 @@
         "BearTrap",
         "ExpansionIED",
         "ExpansionIEDPlacing",
-        "TripwireTrap"
+        "TripwireTrap",
+        "HydraulicJack"
     ],
     "DeployableInsideAEnemyTerritory": [
         "ExpansionSatchel",

@@ -15,5 +15,8 @@
         "Military_Vehicles",
         "Military_Vehicle_Parts"
     ],
-    "Items": {}
+    "Items": {
+        "wrench": 1,
+        "HydraulicJack": 1
+   }
 }

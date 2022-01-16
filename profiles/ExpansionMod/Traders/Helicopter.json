@@ -32,6 +32,9 @@
         "headlighth7_box": 3,
         "expansion_mh6_door_2_1": 1,
         "expansion_mh6_door_2_2": 1,
-        "expansionhelicopterbattery": 1
+        "expansionhelicopterbattery": 1,
+        "wrench": 1,
+        "HydraulicJack": 1
+   
     }
 }

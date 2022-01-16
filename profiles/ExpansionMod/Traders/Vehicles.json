@@ -16,6 +16,7 @@
         "Vanilla_Vehicles_Parts"
     ],
     "Items": {
-        "wrench": 1
+        "wrench": 1,
+        "HydraulicJack": 1
     }
 }

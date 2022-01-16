@@ -624,6 +624,16 @@
             "MinStockThreshold": 1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "HydraulicJack",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }
