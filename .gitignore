@@ -42,7 +42,6 @@ profiles/*.log
 profiles/*.RPT
 profiles/gamelabs.cfg
 profiles/NoBuildZones.json
-profiles/SteamProfileSwitcher.json
 
 profiles/@Logging/**/*
 
