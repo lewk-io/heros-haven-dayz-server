@@ -41,7 +41,240 @@
     "AutomaticFlagOnCreation": 1,
     "GetTerritoryFlagKitAfterBuild": 0,
     "BuildZoneRequiredCustomMessage": "",
-    "Zones": [],
+    "Zones": [
+        {
+            "Name": "Black Market Trader",
+            "Center": [
+                1382.64,
+                310.0,
+                9285.23
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Survivors Safe Trader",
+            "Center": [
+                7202.64,
+                252.00,
+                6975.06
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Helicopter Trader",
+            "Center": [
+                8216.57,
+                470,
+                9040.1
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Boat Safe Trader",
+            "Center": [
+                14049.1,
+                0.4,
+                11162.4
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "Too close to the coast. You must be 850m away from the coast line"
+        },
+        {
+            "Name": "Severograd Stronghold",
+            "Center": [
+                8631.58,
+                112,
+                13384
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Green Mountain",
+            "Center": [
+                3701.33,
+                402,
+                5980.68
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "VMC",
+            "Center": [
+                4527.81,
+                316,
+                8295.82
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Staroye Military",
+            "Center": [
+                10441.7,
+                283,
+                5960.54
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Sosnovy Military",
+            "Center": [
+                2697.6,
+                363,
+                6748.96
+            ],
+            "Radius": 500,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Tri Kresta",
+            "Center": [
+                334.944,
+                295,
+                9376.15
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Myshkino Military Base",
+            "Center": [
+                1162.21,
+                185,
+                7232.59
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Stary Sober Military",
+            "Center": [
+                6333.75,
+                300,
+                7799.86
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Tikhiyzaliv Military",
+            "Center": [
+                741.141,
+                6,
+                1908.8
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Bashnya Military North",
+            "Center": [
+                3946,
+                370,
+                12072
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Bashnya Military West",
+            "Center": [
+                3504,
+                370,
+                11611
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Bashnya Military East",
+            "Center": [
+                4418,
+                370,
+                11670
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Balota Airfield",
+            "Center": [
+                5069,
+                9,
+                2469
+            ],
+            "Radius": 1200,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Coast",
+            "Center": [
+                8251.96,
+                0,
+                2659.7
+            ],
+            "Radius": 850,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Biathalon Tunnels",
+            "Center": [
+                801.15,
+                383,
+                11044.4
+            ],
+            "Radius": 30,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Chernogorsk Military",
+            "Center": [
+                7244.3,
+                27,
+                3033.9
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
+        },
+        {
+            "Name": "Tisy",
+            "Center": [
+                1666.8,
+                451.7,
+                14084
+            ],
+            "Radius": 1400,
+            "Items": [],
+            "IsWhitelist": 1
+        }
+    ],
     "ZonesAreNoBuildZones": 1,
     "CodelockAttachMode": 0,
     "DismantleFlagMode": -1,
