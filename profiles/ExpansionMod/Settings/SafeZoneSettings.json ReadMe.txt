@@ -1,0 +1,2 @@
+Info: '$profile:ExpansionMod\Settings\SafeZoneSettings.json' has moved to '$mission:expansion\settings\SafeZoneSettings.json'.
+Feel free to delete this ReadMe file at your convenience.

@@ -1,0 +1,2 @@
+Info: '$profile:ExpansionMod\Settings\MapSettings.json' has moved to '$mission:expansion\settings\MapSettings.json'.
+Feel free to delete this ReadMe file at your convenience.

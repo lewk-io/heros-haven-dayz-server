@@ -1,101 +1,7 @@
 {
-    "m_Version": 7,
+    "m_Version": 8,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
-    "MarketAmmoBoxes": [
-        {
-            "Ammo": "Ammo_556x45",
-            "AmmoBox": "AmmoBox_556x45_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_556x45Tracer",
-            "AmmoBox": "AmmoBox_556x45Tracer_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_545x39",
-            "AmmoBox": "AmmoBox_545x39_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_545x39Tracer",
-            "AmmoBox": "AmmoBox_545x39Tracer_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_762x39",
-            "AmmoBox": "AmmoBox_762x39_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_762x39Tracer",
-            "AmmoBox": "AmmoBox_762x39Tracer_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_308Win",
-            "AmmoBox": "AmmoBox_308Win_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_308WinTracer",
-            "AmmoBox": "AmmoBox_308WinTracer_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_762x54",
-            "AmmoBox": "AmmoBox_762x54_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_762x54Tracer",
-            "AmmoBox": "AmmoBox_762x54Tracer_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_22",
-            "AmmoBox": "AmmoBox_22_50Rnd"
-        },
-        {
-            "Ammo": "Ammo_380",
-            "AmmoBox": "AmmoBox_380_35rnd"
-        },
-        {
-            "Ammo": "Ammo_9x19",
-            "AmmoBox": "AmmoBox_9x19_25rnd"
-        },
-        {
-            "Ammo": "Ammo_45ACP",
-            "AmmoBox": "AmmoBox_45ACP_25rnd"
-        },
-        {
-            "Ammo": "Ammo_357",
-            "AmmoBox": "AmmoBox_357_20Rnd"
-        },
-        {
-            "Ammo": "Ammo_12gaPellets",
-            "AmmoBox": "AmmoBox_00buck_10rnd"
-        },
-        {
-            "Ammo": "Ammo_12gaSlug",
-            "AmmoBox": "AmmoBox_12gaSlug_10Rnd"
-        },
-        {
-            "Ammo": "Ammo_12gaRubberSlug",
-            "AmmoBox": "AmmoBox_12gaRubberSlug_10Rnd"
-        },
-        {
-            "Ammo": "Ammo_9x39AP",
-            "AmmoBox": "AmmoBox_9x39AP_20rnd"
-        },
-        {
-            "Ammo": "Ammo_9x39",
-            "AmmoBox": "AmmoBox_9x39_20rnd"
-        },
-        {
-            "Ammo": "Expansion_Ammo_8mm",
-            "AmmoBox": "Expansion_AmmoBox_8mm_15rnd"
-        },
-        {
-            "Ammo": "Ammo_Expansion_46x30",
-            "AmmoBox": "AmmoBox_Expansion_46x30_25rnd"
-        },
-        {
-            "Ammo": "Ammo_Expansion_338",
-            "AmmoBox": "AmmoBox_Expansion_338_15rnd"
-        }
-    ],
     "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
     "ATMSystemEnabled": 0,
     "MaxDepositMoney": 0,
@@ -103,7 +9,6 @@
     "ATMPlayerTransferEnabled": 0,
     "ATMPartyLockerEnabled": 0,
     "MaxPartyDepositMoney": 0,
-    "MarketVIPs": [],
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 30.0,
     "NetworkBatchSize": 50,
@@ -115,72 +20,72 @@
     "LandSpawnPositions": [
         {
             "Position": [
-                7227.629883,
-                253.7,
-                6962.200195
+                7227.6298828125,
+                253.6999969482422,
+                6962.2001953125
             ],
             "Orientation": [
-                -110.00000,
+                -110.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                7230.14,
-                252.33,
-                6947.22
+                7230.14013671875,
+                252.3300018310547,
+                6947.22021484375
             ],
             "Orientation": [
-                190.00000,
+                190.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                7201.86,
-                252.03,
-                6918.22
+                7201.85986328125,
+                252.02999877929688,
+                6918.22021484375
             ],
             "Orientation": [
-                95,
+                95.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                7197.11,
-                252.03,
-                6913.84
+                7197.10986328125,
+                252.02999877929688,
+                6913.83984375
             ],
             "Orientation": [
-                98,
+                98.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                8183.92,
-                474.14,
-                9092.45
+                8183.919921875,
+                474.1400146484375,
+                9092.4501953125
             ],
             "Orientation": [
-                250.00000,
+                250.0,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                8186.04,
-                474.14,
-                9085.34
+                8186.0400390625,
+                474.1400146484375,
+                9085.33984375
             ],
             "Orientation": [
-                245.00000,
+                245.0,
                 0.0,
                 0.0
             ]
@@ -189,12 +94,12 @@
     "AirSpawnPositions": [
         {
             "Position": [
-                8228.236328,
-                472.514490,
-                9030.395508
+                8228.236328125,
+                472.5144958496094,
+                9030.3955078125
             ],
             "Orientation": [
-                11.263603,
+                11.263603210449219,
                 0.0,
                 0.0
             ]

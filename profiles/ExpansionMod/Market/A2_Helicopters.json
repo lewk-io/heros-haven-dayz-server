@@ -1,98 +1,103 @@
 {
-	"m_Version": 8,
-	"DisplayName": "Arma 2 Helicopters",
-	"Icon": "Helicopter",
-	"Color": "FBFCFEFF",
-	"InitStockPercent": 100.0,
-	"Items": [
-		{
-			"ClassName": "ext_uh1y",
-			"MaxPriceThreshold": 91650,
-			"MinPriceThreshold": 91650,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"ext_uh1y_door_1_1",
-				"ext_uh1y_door_2_1",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh60m",
-			"MaxPriceThreshold": 109650,
-			"MinPriceThreshold": 109650,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"ext_uh60m_door_1_1",
-				"ext_uh60m_door_1_2",
-				"ext_uh60m_door_2_1",
-				"ext_uh60m_door_2_2",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3",
-			"MaxPriceThreshold": 136650,
-			"MinPriceThreshold": 136650,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_merlinhc3_backwheel",
-				"ext_merlinhc3_cargo_door",
-				"ext_merlinhc3_door_1_1",
-				"ext_merlinhc3_door_2_1",
-				"ext_merlinhc3_frontwheel",
-				"ext_merlinhc3_frontwheel",
-				"ext_merlinhc3_backwheel",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ch_47f",
-			"MaxPriceThreshold": 193650,
-			"MinPriceThreshold": 193650,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [
-				"expansionhelicopterbattery",
-				"expansionigniterplug",
-				"expansionhydraulichoses",
-				"headlighth7",
-				"camonet",
-				"wrench",
-				"canistergasoline",
-				"ext_tac_radio"
-			],
-			"Variants": []
-		}
-	]
+    "m_Version": 9,
+    "DisplayName": "Arma 2 Helicopters",
+    "Icon": "Helicopter",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "ext_uh1y",
+            "MaxPriceThreshold": 91650,
+            "MinPriceThreshold": 91650,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_uh1y_door_1_1",
+                "ext_uh1y_door_2_1",
+                "camonet",
+                "wrench",
+                "canistergasoline",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m",
+            "MaxPriceThreshold": 109650,
+            "MinPriceThreshold": 109650,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "ext_uh60m_door_1_1",
+                "ext_uh60m_door_1_2",
+                "ext_uh60m_door_2_1",
+                "ext_uh60m_door_2_2",
+                "camonet",
+                "wrench",
+                "canistergasoline",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3",
+            "MaxPriceThreshold": 136650,
+            "MinPriceThreshold": 136650,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "camonet",
+                "wrench",
+                "canistergasoline",
+                "ext_merlinhc3_backwheel",
+                "ext_merlinhc3_cargo_door",
+                "ext_merlinhc3_door_1_1",
+                "ext_merlinhc3_door_2_1",
+                "ext_merlinhc3_frontwheel",
+                "ext_merlinhc3_frontwheel",
+                "ext_merlinhc3_backwheel",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ch_47f",
+            "MaxPriceThreshold": 193650,
+            "MinPriceThreshold": 193650,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "expansionhelicopterbattery",
+                "expansionigniterplug",
+                "expansionhydraulichoses",
+                "headlighth7",
+                "camonet",
+                "wrench",
+                "canistergasoline",
+                "ext_tac_radio"
+            ],
+            "Variants": []
+        }
+    ],
+    "AllowedBIIDs": []
 }

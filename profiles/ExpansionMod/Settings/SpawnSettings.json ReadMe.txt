@@ -1,0 +1,2 @@
+Info: '$profile:ExpansionMod\Settings\SpawnSettings.json' has moved to '$mission:expansion\settings\SpawnSettings.json'.
+Feel free to delete this ReadMe file at your convenience.

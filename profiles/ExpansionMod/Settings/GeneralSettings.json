@@ -1,5 +1,5 @@
 {
-    "m_Version": 3,
+    "m_Version": 4,
     "PlayerLocationNotifier": 1,
     "EnableGlobalChat": 1,
     "EnablePartyChat": 1,
@@ -80,11 +80,13 @@
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
     "UseNewsFeedInGameMenu": 1,
-    "SystemChatColor": -4569670,
-    "AdminChatColor": -4179669,
-    "GlobalChatColor": -15705479,
-    "DirectChatColor": -1,
-    "TransportChatColor": -12791,
-    "PartyChatColor": -16057734,
-    "TransmitterChatColor": -393399
+    "ChatColors": {
+        "SystemChatColor": "BA45BAFF",
+        "AdminChatColor": "C0392BFF",
+        "GlobalChatColor": "105A79FF",
+        "DirectChatColor": "FFFFFFFF",
+        "TransportChatColor": "FFCE09FF",
+        "PartyChatColor": "0AFA7AFF",
+        "TransmitterChatColor": "F9FF49FF"
+    }
 }

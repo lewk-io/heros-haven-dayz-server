@@ -1,268 +1,296 @@
 {
-	"m_Version": 8,
-	"DisplayName": "Arma 2 Helicopters Parts",
-	"Icon": "Helicopter",
-	"Color": "FBFCFEFF",
-	"InitStockPercent": 100.0,
-	"Items": [{
-			"ClassName": "ext_ah1z_door_1_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ah1z_door_2_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_aw159_backwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_aw159_frontwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka52backwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka52_door_1_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka52_door_2_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka52frontwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka60_backwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka60_door",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_ka60_frontwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3_backwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3_cargo_door",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3_door_1_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3_door_2_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_merlinhc3_frontwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_mi8backwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_mi8door",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_mi8frontwheel",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh1y_door_1_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh1y_door_2_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh60m_door_1_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh60m_door_1_2",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh60m_door_2_1",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_uh60m_door_2_2",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		},
-		{
-			"ClassName": "ext_tac_radio",
-			"MaxPriceThreshold": 1000,
-			"MinPriceThreshold": 1000,
-			"SellPricePercent": -1,
-			"MaxStockThreshold": 1,
-			"MinStockThreshold": 1,
-			"SpawnAttachments": [],
-			"Variants": []
-		}
-	]
+    "m_Version": 9,
+    "DisplayName": "Arma 2 Helicopters Parts",
+    "Icon": "Helicopter",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "ext_ah1z_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ah1z_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_aw159_backwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_aw159_frontwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka52backwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka52_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka52_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka52frontwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka60_backwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka60_door",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_ka60_frontwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3_backwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3_cargo_door",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_merlinhc3_frontwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi8backwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi8door",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_mi8frontwheel",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh1y_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh1y_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m_door_1_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m_door_1_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m_door_2_1",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_uh60m_door_2_2",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ext_tac_radio",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ],
+    "AllowedBIIDs": []
 }

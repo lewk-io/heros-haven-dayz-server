@@ -1,5 +1,5 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "Grenades",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
@@ -12,6 +12,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -19,99 +20,109 @@
             "ClassName": "M67Grenade",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "M18SmokeGrenade_Red",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "M18SmokeGrenade_Yellow",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "M18SmokeGrenade_Purple",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "M18SmokeGrenade_White",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "RDG2SmokeGrenade_Black",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "RDG2SmokeGrenade_White",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "FlashGrenade",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "Ammo_Expansion_M203_Smoke_White",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "Ammo_Expansion_M203_Sticky_Smoke_White",
             "MaxPriceThreshold": 100,
             "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
-            "PurchaseType": 0,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -122,6 +133,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -132,6 +144,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -142,6 +155,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -152,6 +166,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -162,6 +177,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -172,6 +188,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -182,8 +199,10 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         }
-    ]
+    ],
+    "AllowedBIIDs": []
 }

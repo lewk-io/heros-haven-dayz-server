@@ -1,5 +1,5 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "Assault Rifles, Mags & Ammo",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
@@ -12,6 +12,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -22,6 +23,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_380"
             ],
@@ -34,6 +36,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -44,6 +47,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_762x39"
             ],
@@ -56,6 +60,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -66,6 +71,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "snafu_ammo_300acc"
             ],
@@ -78,6 +84,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -88,6 +95,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -98,6 +106,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -108,6 +117,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -118,6 +128,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -128,6 +139,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -138,6 +150,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -148,6 +161,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "snafu_ammo_300acc"
             ],
@@ -160,6 +174,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "snafu_ammo_300acc"
             ],
@@ -172,6 +187,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -182,6 +198,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -192,6 +209,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -202,6 +220,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
             ],
@@ -214,6 +233,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -224,6 +244,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
             ],
@@ -236,6 +257,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -246,6 +268,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -256,6 +279,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -266,6 +290,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -276,6 +301,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -286,6 +312,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
             ],
@@ -298,6 +325,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -308,6 +336,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
             ],
@@ -320,6 +349,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -330,6 +360,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
             ],
@@ -342,6 +373,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -352,6 +384,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
         },
@@ -362,10 +395,12 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "snafu_ammo_127x55mm"
             ],
             "Variants": []
         }
-    ]
+    ],
+    "AllowedBIIDs": []
 }

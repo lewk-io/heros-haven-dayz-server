@@ -1,5 +1,5 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "DisplayName": "Vehicles",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
@@ -12,6 +12,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "carbattery",
                 "carradiator",
@@ -36,6 +37,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "carbattery",
                 "carradiator",
@@ -62,6 +64,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "carbattery",
                 "carradiator",
@@ -88,6 +91,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ExpansionUAZWheel",
                 "ExpansionUAZWheel",
@@ -103,7 +107,8 @@
                 "CarBattery",
                 "CarRadiator",
                 "SparkPlug"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "ExpansionUAZRoofless",
@@ -112,6 +117,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ExpansionUAZWheel",
                 "ExpansionUAZWheel",
@@ -127,7 +133,8 @@
                 "CarBattery",
                 "CarRadiator",
                 "SparkPlug"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "ExpansionUAZCargo",
@@ -136,6 +143,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ExpansionUAZWheel",
                 "ExpansionUAZWheel",
@@ -151,7 +159,8 @@
                 "CarBattery",
                 "CarRadiator",
                 "SparkPlug"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "ExpansionUAZCargoRoofless",
@@ -160,6 +169,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ExpansionUAZWheel",
                 "ExpansionUAZWheel",
@@ -175,7 +185,8 @@
                 "CarBattery",
                 "CarRadiator",
                 "SparkPlug"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "CrSk_BMW_525i_E34",
@@ -184,6 +195,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "BMWE34_koleso_style37",
                 "BMWE34_koleso_style37",
@@ -201,7 +213,8 @@
                 "SparkPlug",
                 "HeadlightH7",
                 "HeadlightH7"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "Truck_01_Covered",
@@ -210,6 +223,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "Truck_01_Hood",
                 "Truck_01_Door_1_1",
@@ -223,7 +237,8 @@
                 "Truck_01_Wheel",
                 "Truck_01_Wheel",
                 "TruckBattery"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "sobgaz",
@@ -232,6 +247,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "gazWheel",
                 "gazWheel",
@@ -244,7 +260,8 @@
                 "SparkPlug",
                 "HeadlightH7",
                 "HeadlightH7"
-            ]
+            ],
+            "Variants": []
         },
         {
             "ClassName": "CrSk_Land_Rover_Defender_110",
@@ -253,6 +270,7 @@
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
+            "QuantityPercent": -1,
             "SpawnAttachments": [
                 "Defender110_koleso",
                 "Defender110_koleso",
@@ -270,7 +288,9 @@
                 "SparkPlug",
                 "HeadlightH7",
                 "HeadlightH7"
-            ]
+            ],
+            "Variants": []
         }
-    ]
+    ],
+    "AllowedBIIDs": []
 }

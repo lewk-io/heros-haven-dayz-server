@@ -1,0 +1,2 @@
+Info: '$profile:ExpansionMod\Settings\BaseBuildingSettings.json' has moved to '$mission:expansion\settings\BaseBuildingSettings.json'.
+Feel free to delete this ReadMe file at your convenience.
