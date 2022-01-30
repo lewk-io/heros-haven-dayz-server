@@ -231,7 +231,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "GorkaEJacket_Summer",
+            "ReplacementItem": "MVS_CombatShirt_Black",
             "ShouldCheckInHands": 0
         },
         {
@@ -240,7 +240,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "GorkaPants_Summer",
+            "ReplacementItem": "MVS_CombatPants_Black",
             "ShouldCheckInHands": 0
         },
         {
@@ -249,7 +249,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "MVS_ChestRig_ERDL",
+            "ReplacementItem": "MVS_ChestRig_Black",
             "ShouldCheckInHands": 0
         },
         {
@@ -258,7 +258,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "MVS_Pack_OD",
+            "ReplacementItem": "MVS_Pack_Black",
             "ShouldCheckInHands": 0
         },
         {
@@ -267,7 +267,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "MVS_Rucksack_ERDL",
+            "ReplacementItem": "MVS_Rucksack_Black",
             "ShouldCheckInHands": 0
         },
         {
@@ -276,7 +276,7 @@
                 "76561199164682218",
                 "76561199004580510"
             ],
-            "ReplacementItem": "MVS_WarriorHelmet_Multicam",
+            "ReplacementItem": "MVS_WarriorHelmet_Black",
             "ShouldCheckInHands": 0
         }
     ]
