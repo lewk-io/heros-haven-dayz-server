@@ -273,6 +273,17 @@
             "Radius": 1400,
             "Items": [],
             "IsWhitelist": 1
+        },
+        {
+            "Name": "Prison Island",
+            "Center": [
+                2662.17,
+                12.3,
+                1239.7
+            ],
+            "Radius": 1000,
+            "Items": [],
+            "IsWhitelist": 1
         }
     ],
     "ZonesAreNoBuildZones": 1,
