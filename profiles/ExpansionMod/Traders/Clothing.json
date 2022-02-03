@@ -31,5 +31,9 @@
 		"Holster_Pouches",
 		"Belts",
 		"Bags"
-    ]
+    ],
+    "Items": {
+		"improvisedbag": 2
+    }
+}
 }
