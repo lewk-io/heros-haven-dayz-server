@@ -160,7 +160,117 @@
             "Variants": []
         },
         {
+            "ClassName": "msp_sololocker_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_black_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_white_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_green_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_redrusty_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_red_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_yellow_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_sololocker_yellowrusty_kit",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "msp_locker_kit",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_oldlocker_kit",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "msp_oldlocker_green_kit",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,
             "SellPricePercent": -1,
