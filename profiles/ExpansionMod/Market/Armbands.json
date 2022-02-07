@@ -25,73 +25,14 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_orange",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_red",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_blue",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_white",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_black",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "armband_green",
-            "MaxPriceThreshold": 15,
-            "MinPriceThreshold": 15,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"armband_orange",
+				"armband_red",
+				"armband_blue",
+				"armband_white",
+				"armband_black",
+				"armband_green"
+			]
         }
     ],
     "AllowedBIIDs": []
