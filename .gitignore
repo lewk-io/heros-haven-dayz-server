@@ -20,7 +20,7 @@ ban.txt
 dayz.gproj
 dayzsetting.xml
 DayZServer_x64.exe
-omega.cfg
+omega*.cfg
 priority.txt
 serverDZ.cfg
 serverDZ.cfg.active
@@ -78,5 +78,7 @@ profiles/PermissionsFramework/Permissions/*
 profiles/SABLE/**/*
 
 profiles/Trader/Logs/**/*
+
+profiles/UApi/**/*
 
 profiles/Users/**/*
