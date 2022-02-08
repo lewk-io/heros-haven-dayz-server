@@ -240,28 +240,6 @@
             ]
         },
         {
-            "ClassName": "mediumtent_green",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "mediumtent_orange",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "cartent",
             "MaxPriceThreshold": 5000,
             "MinPriceThreshold": 5000,

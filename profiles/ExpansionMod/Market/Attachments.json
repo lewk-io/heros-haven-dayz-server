@@ -223,7 +223,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"m4_rishndgrd_Green"
+			]
         },
         {
             "ClassName": "snafu_fgkac_grip",

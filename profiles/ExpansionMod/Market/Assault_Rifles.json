@@ -146,7 +146,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"m4a1_Green"
+			]
         },
         {
             "ClassName": "snafu_cali_gun",

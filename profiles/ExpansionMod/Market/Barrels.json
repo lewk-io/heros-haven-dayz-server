@@ -14,62 +14,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_barrel_donation_ammo",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_barrel_donation_guns",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_barrel_donation_food",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_barrel_donation_medical",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_barrel_donation_bloodonegative",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"msp_barrel_donation_ammo",
+				"msp_barrel_donation_guns",
+				"msp_barrel_donation_food",
+				"msp_barrel_donation_medical",
+				"msp_barrel_donation_bloodonegative"
+			]
         },
         {
             "ClassName": "msp_waterbarrel_plastic",
@@ -80,73 +31,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_plastic_yellow",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_plastic_green",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_plastic_red",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_plastic_black",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_plastic_white",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_valve_faucet",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"msp_waterbarrel_plastic_yellow",
+				"msp_waterbarrel_plastic_green",
+				"msp_waterbarrel_plastic_red",
+				"msp_waterbarrel_plastic_black",
+				"msp_waterbarrel_plastic_white"
+			]
         },
         {
             "ClassName": "msp_waterbarrel",
@@ -157,40 +48,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_darkwood",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_stand",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_stand_darkwood",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"msp_waterbarrel_darkwood",
+				"msp_waterbarrel_stand",
+				"msp_waterbarrel_stand_darkwood"
+			]
         },
         {
             "ClassName": "msp_waterbarrel_valve",
@@ -201,18 +63,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "msp_waterbarrel_valve_darkwood",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"msp_waterbarrel_valve_darkwood",
+				"msp_waterbarrel_valve_faucet"
+			]
         }
     ],
     "AllowedBIIDs": []

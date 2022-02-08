@@ -86,18 +86,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafuar15_spr_tan_gun",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 4000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafuar15_spr_tan_gun"
+			]
         },
         {
             "ClassName": "snafuar15_spr_30rnd_mag",
@@ -110,46 +101,11 @@
             "SpawnAttachments": [
                 "snafu_ammo_300acc"
             ],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafuar15_spr_40rnd_mag",
-            "MaxPriceThreshold": 220,
-            "MinPriceThreshold": 220,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "snafu_ammo_300acc"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafuar15_spr_60rnd_mag",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 400,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "snafu_ammo_300acc"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafuar15_spr_100rnd_mag",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "snafu_ammo_300acc"
-            ],
-            "Variants": []
+            "Variants": [
+				"snafuar15_spr_40rnd_mag",
+				"snafuar15_spr_60rnd_mag",
+				"snafuar15_spr_100rnd_mag"
+			]
         },
         {
             "ClassName": "SNAFU_Ammo_300ACC",
@@ -217,7 +173,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafu_rpk16_green",
+				"snafu_rpk16_tan"
+			]
         },
         {
             "ClassName": "snafu_rpk16_black_mag",
@@ -230,55 +189,10 @@
             "SpawnAttachments": [
                 "ammo_545x39"
             ],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_rpk16_green",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 8000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_rpk16_green_mag",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ammo_545x39"
-            ],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_rpk16_tan",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 8000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_rpk16_tan_mag",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ammo_545x39"
-            ],
-            "Variants": []
+            "Variants": [
+				"snafu_rpk16_green_mag",
+				"snafu_rpk16_tan_mag"
+			]
         },
         {
             "ClassName": "snafurpd",
@@ -359,18 +273,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "AmmoBox_545x39_20Rnd",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": 0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"AmmoBox_545x39_20Rnd"
+			]
         },
         {
             "ClassName": "snafu_pkp_250rnd_mag",
@@ -442,18 +347,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "AmmoBox_556x45_20Rnd",
-            "MaxPriceThreshold": 150,
-            "MinPriceThreshold": 150,
-            "SellPricePercent": 0,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"AmmoBox_556x45_20Rnd"
+			]
         }
     ],
     "AllowedBIIDs": []

@@ -47,18 +47,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "pressvest_blue",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 90,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"pressvest_blue"
+			]
         },
         {
             "ClassName": "ukassvest_black",
@@ -69,40 +60,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ukassvest_khaki",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 90,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ukassvest_olive",
-            "MaxPriceThreshold": 90,
-            "MinPriceThreshold": 90,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ukassvest_camo",
-            "MaxPriceThreshold": 100,
-            "MinPriceThreshold": 100,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"ukassvest_khaki",
+				"ukassvest_olive",
+				"ukassvest_camo"
+			]
         },
         {
             "ClassName": "smershvest",
@@ -124,18 +86,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "highcapacityvest_olive",
-            "MaxPriceThreshold": 230,
-            "MinPriceThreshold": 230,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"highcapacityvest_olive"
+			]
         },
         {
             "ClassName": "platecarriervest",

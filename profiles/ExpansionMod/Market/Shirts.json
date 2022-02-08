@@ -14,95 +14,16 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_redblackstripes",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_red",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_blue",
-            "MaxPriceThreshold": 8,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_white",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_grey",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_beige",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_black",
-            "MaxPriceThreshold": 12,
-            "MinPriceThreshold": 12,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tshirt_green",
-            "MaxPriceThreshold": 12,
-            "MinPriceThreshold": 12,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"tshirt_redblackstripes",
+				"tshirt_red",
+				"tshirt_blue",
+				"tshirt_white",
+				"tshirt_grey",
+				"tshirt_beige",
+				"tshirt_black",
+				"tshirt_green"
+			]
         },
         {
             "ClassName": "telnyashkashirt",
@@ -124,62 +45,13 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_bluecheckbright",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_bluecheck",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_whitecheck",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_planeblack",
-            "MaxPriceThreshold": 17,
-            "MinPriceThreshold": 17,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "shirt_greencheck",
-            "MaxPriceThreshold": 18,
-            "MinPriceThreshold": 18,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"shirt_bluecheckbright",
+				"shirt_bluecheck",
+				"shirt_whitecheck",
+				"shirt_planeblack",
+				"shirt_greencheck"
+			]
         },
         {
             "ClassName": "blouse_violet",
@@ -190,40 +62,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "blouse_blue",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "blouse_white",
-            "MaxPriceThreshold": 16,
-            "MinPriceThreshold": 16,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "blouse_green",
-            "MaxPriceThreshold": 18,
-            "MinPriceThreshold": 18,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"blouse_blue",
+				"blouse_white",
+				"blouse_green"
+			]
         },
         {
             "ClassName": "medicalscrubsshirt_blue",
@@ -234,29 +77,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "medicalscrubsshirt_white",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "medicalscrubsshirt_green",
-            "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 20,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"medicalscrubsshirt_white",
+				"medicalscrubsshirt_green"
+			]
         },
         {
             "ClassName": "chernarussportshirt",
@@ -278,40 +102,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_tan",
-            "MaxPriceThreshold": 37,
-            "MinPriceThreshold": 37,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_black",
-            "MaxPriceThreshold": 38,
-            "MinPriceThreshold": 38,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalshirt_olive",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 40,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"tacticalshirt_tan",
+				"tacticalshirt_black",
+				"tacticalshirt_olive"
+			]
         }
     ],
     "AllowedBIIDs": []

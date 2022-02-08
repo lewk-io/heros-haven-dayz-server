@@ -127,17 +127,6 @@
             "Variants": []
         },
         {
-            "ClassName": "",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "expansionuh1hdoor_1_1",
             "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 500,

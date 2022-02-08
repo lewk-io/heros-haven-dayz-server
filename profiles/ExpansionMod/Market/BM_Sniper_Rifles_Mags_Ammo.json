@@ -228,40 +228,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafugevar_black",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 18000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafugevar_green",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 18000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafugevar_tan",
-            "MaxPriceThreshold": 18000,
-            "MinPriceThreshold": 18000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafugevar_black",
+				"snafugevar_green",
+				"snafugevar_tan"
+			]
         },
         {
             "ClassName": "snafugevar_10rdmag",
@@ -285,18 +256,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafugevar_suppressor_green",
-            "MaxPriceThreshold": 7500,
-            "MinPriceThreshold": 7500,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafugevar_suppressor_green"
+			]
         },
         {
             "ClassName": "snafukivaari_black_gun",
@@ -307,29 +269,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafukivaari_tan_gun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafukivaari_grey_gun",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafukivaari_tan_gun",
+				"snafukivaari_grey_gun"
+			]
         },
         {
             "ClassName": "snafukivaari_10rdmag",
@@ -484,29 +427,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_m300tan",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_m300green",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafu_m300tan",
+				"snafu_m300green"
+			]
         },
         {
             "ClassName": "snafu_m300mag",
@@ -541,18 +465,9 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "snafu_m200snow",
-            "MaxPriceThreshold": 50000,
-            "MinPriceThreshold": 50000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"snafu_m200snow"
+			]
         },
         {
             "ClassName": "gcgn_m200_mag",
@@ -597,21 +512,12 @@
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "gcgn_m82_mag",
-            "MaxPriceThreshold": 5000,
-            "MinPriceThreshold": 5000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
             "SpawnAttachments": [
-                "gcgn_ammo_50cal"
-            ],
-            "Variants": []
+				"gcgn_ammo_50cal"
+			],
+            "Variants": [
+				"gcgn_m82_mag"
+			]
         },
         {
             "ClassName": "snafugm6lynx",

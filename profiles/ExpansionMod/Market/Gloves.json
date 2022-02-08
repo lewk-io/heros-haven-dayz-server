@@ -14,62 +14,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "surgicalgloves_blue",
-            "MaxPriceThreshold": 5,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "surgicalgloves_white",
-            "MaxPriceThreshold": 5,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "surgicalgloves_green",
-            "MaxPriceThreshold": 5,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "workinggloves_yellow",
-            "MaxPriceThreshold": 25,
-            "MinPriceThreshold": 25,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "workinggloves_beige",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 30,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"surgicalgloves_blue",
+				"surgicalgloves_white",
+				"surgicalgloves_green"
+			]
         },
         {
             "ClassName": "workinggloves_brown",
@@ -80,18 +29,11 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "workinggloves_black",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 30,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"workinggloves_yellow",
+				"workinggloves_beige",
+				"workinggloves_black"
+			]
         },
         {
             "ClassName": "tacticalgloves_beige",
@@ -102,29 +44,10 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalgloves_black",
-            "MaxPriceThreshold": 35,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "tacticalgloves_green",
-            "MaxPriceThreshold": 35,
-            "MinPriceThreshold": 35,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"tacticalgloves_black",
+				"tacticalgloves_green"
+			]
         },
         {
             "ClassName": "omnogloves_gray",
