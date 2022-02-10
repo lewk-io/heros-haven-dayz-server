@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./tools/lint.mjs
