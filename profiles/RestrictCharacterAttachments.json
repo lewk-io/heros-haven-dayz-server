@@ -229,7 +229,8 @@
             "Item": "HHDonatorClothing_TheSterling28_GorkaJacket",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_CombatShirt_Black",
             "ShouldCheckInHands": 0
@@ -238,7 +239,8 @@
             "Item": "HHDonatorClothing_TheSterling28_GorkaPants",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_CombatPants_Black",
             "ShouldCheckInHands": 0
@@ -247,7 +249,8 @@
             "Item": "HHDonatorClothing_TheSterling28_ChestRig",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_ChestRig_Black",
             "ShouldCheckInHands": 0
@@ -256,7 +259,8 @@
             "Item": "HHDonatorClothing_TheSterling28_CombatPack",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_Pack_Black",
             "ShouldCheckInHands": 0
@@ -265,7 +269,8 @@
             "Item": "HHDonatorClothing_TheSterling28_RuckSack",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_Rucksack_Black",
             "ShouldCheckInHands": 0
@@ -274,7 +279,8 @@
             "Item": "HHDonatorClothing_TheSterling28_WarriorHelmet",
             "IgnoredSteamIDs": [
                 "76561199164682218",
-                "76561199004580510"
+                "76561199004580510",
+                "76561198064210741"
             ],
             "ReplacementItem": "MVS_WarriorHelmet_Black",
             "ShouldCheckInHands": 0
