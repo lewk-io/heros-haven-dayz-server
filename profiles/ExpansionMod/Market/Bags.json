@@ -50,7 +50,7 @@
 				"taloonbag_blue",
 				"taloonbag_green"
 			]
-
+        },
         {
             "ClassName": "smershbag",
             "MaxPriceThreshold": 100,
