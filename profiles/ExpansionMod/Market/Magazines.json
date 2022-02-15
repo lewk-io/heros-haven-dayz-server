@@ -149,6 +149,19 @@
             "Variants": []
         },
         {
+            "ClassName": "Mag_PP19_64Rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo_380"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_fal_20rnd",
             "MaxPriceThreshold": 50,
             "MinPriceThreshold": 50,
