@@ -1,5 +1,5 @@
 {
-    "m_Version": 8,
+    "m_Version": 9,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
@@ -168,5 +168,11 @@
         "ColorToggleCategoriesText": "C726518C",
         "ColorCategoryCorners": "FBFCFEFF",
         "ColorCategoryBackground": "222526FF"
-    }
+    },
+    "Currencies": [
+        "expansiongoldbar",
+        "expansiongoldnugget",
+        "expansionsilverbar",
+        "expansionsilvernugget"
+    ]
 }
