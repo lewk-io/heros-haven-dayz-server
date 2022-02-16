@@ -13317,10 +13317,10 @@
         <value name="Tier1"/>
     </type>
     <type name="SKS">
-        <nominal>30</nominal>
+        <nominal>25</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

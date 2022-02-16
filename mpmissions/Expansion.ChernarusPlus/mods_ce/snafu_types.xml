@@ -263,7 +263,7 @@
 		<value name="Tier3" />
 	</type>
 	<type name="SNAFU_AK12A">
-		<nominal>50</nominal>
+		<nominal>40</nominal>
 		<lifetime>3600</lifetime>
 		<restock>1800</restock>
 		<min>20</min>
