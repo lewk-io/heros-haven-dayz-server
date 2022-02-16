@@ -207,7 +207,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="HmwveeWheel">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>600</restock>
         <min>10</min>
