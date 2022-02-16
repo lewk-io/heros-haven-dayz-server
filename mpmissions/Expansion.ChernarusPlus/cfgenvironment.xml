@@ -76,10 +76,9 @@
 			<item name="playerSpawnRadiusFar" val="75" />
 		</territory>
 
-		<!-- HARE -->
+		<!-- HARE
 		<territory type="Ambient" name="AmbientHare" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hare_territories" />
-			<!-- different agent types - class has to begin with AgentType:w -->
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
@@ -93,6 +92,7 @@
 			<item name="playerSpawnRadiusNear" val="15" />
 			<item name="playerSpawnRadiusFar" val="200" />
 		</territory>
+		-->
 		
 		<!-- INFECTED -->
 		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
