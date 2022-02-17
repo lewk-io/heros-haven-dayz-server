@@ -513,11 +513,20 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-				"gcgn_ammo_50cal"
-			],
-            "Variants": [
-				"gcgn_m82_mag"
-			]
+		"gcgn_m82_mag"
+	    ],
+            "Variants": []
+        },
+        {
+            "ClassName": "gcgn_m82_mag",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "snafugm6lynx",
