@@ -2,6 +2,8 @@
     "PrintLogs": 1,
     "DiscordWebhookReplacedItems": "https://discord.com/api/webhooks/930103100017082388/YPreCqilvGy9niSZWxmHyyWDVjbvxUDBxi2h5SI31dX8dvC7x3xF_W-uw3d2qYCy7fO7",
     "DiscordWebhookDeletedItems": "https://discord.com/api/webhooks/930103100017082388/YPreCqilvGy9niSZWxmHyyWDVjbvxUDBxi2h5SI31dX8dvC7x3xF_W-uw3d2qYCy7fO7",
+    "ShouldCheckInHandsOverride": 0,
+    "ShouldCheckInInventoryOverride": 0,
     "AdminSteamIDs": [
         "76561198000598909",
         "76561198009912356",
@@ -13,6 +15,41 @@
         "76561198061848999"
     ],
     "Items": [
+        {
+            "Item": "Head_Admin",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "Admin_Top",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "Backpack_Admin",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "Pants_Admin",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "Boots_Admin",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "Arms_Admin",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
+        {
+            "Item": "ExpansionAdminHammer",
+            "ShouldCheckInHands": 1,
+            "ShouldCheckInInventory": 1,
+        },
         {
             "Item": "HHDonatorClothing_MirrorMonster_HuntingJacket",
             "IgnoredSteamIDs": [
@@ -307,6 +344,17 @@
                 "76561199157297258"
             ],
             "ReplacementItem": "MVS_WarriorHelmet_Black",
+            "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_MagazinePouch",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510",
+                "76561198064210741",
+                "76561199157297258"
+            ],
+            "ReplacementItem": "MVS_Magazine_Pouch_Black",
             "ShouldCheckInHands": 0
         }
     ]
