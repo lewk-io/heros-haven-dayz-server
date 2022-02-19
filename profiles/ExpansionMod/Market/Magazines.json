@@ -665,19 +665,6 @@
             "Variants": []
         },
         {
-            "ClassName": "gcgn_hk416_mag",
-            "MaxPriceThreshold": 95,
-            "MinPriceThreshold": 95,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "ammo_556x45"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "gcgn_mag_fal_50rnd",
             "MaxPriceThreshold": 95,
             "MinPriceThreshold": 95,
@@ -1084,6 +1071,135 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_308win"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_dmr_556stanag_30rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": [
+				"ttc_dmr_556stanag_30rnd_camo",
+				"ttc_dmr_556stanag_30rnd_digitan",
+				"ttc_dmr_556stanag_30rnd_tan",
+				"ttc_dmr_556stanag_30rnd_upc"
+			]
+        },
+        {
+            "ClassName": "ttc_dmr_556stanag_100rnd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": [
+				"ttc_dmr_556stanag_100rnd_camo",
+				"ttc_dmr_556stanag_100rnd_digitan",
+				"ttc_dmr_556stanag_100rnd_tan",
+				"ttc_dmr_556stanag_100rnd_upc"
+			]
+        },
+        {
+            "ClassName": "ttc_dmr_556pmag_30rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": [
+				"ttc_dmr_556pmag_30rnd_camo",
+				"ttc_dmr_556pmag_30rnd_digitan",
+				"ttc_dmr_556pmag_30rnd_tan",
+				"ttc_dmr_556pmag_30rnd_upc"
+			]
+        },
+        {
+            "ClassName": "ttc_dmr_556pmag_40rnd",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": [
+				"ttc_dmr_556pmag_40rnd_camo",
+				"ttc_dmr_556pmag_40rnd_digitan",
+				"ttc_dmr_556pmag_40rnd_tan",
+				"ttc_dmr_556pmag_40rnd_upc"
+			]
+        },
+        {
+            "ClassName": "ttc_dmr_556pmag_100rnd",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": [
+				"ttc_dmr_556pmag_100rnd_camo",
+				"ttc_dmr_556pmag_100rnd_digitan",
+				"ttc_dmr_556pmag_100rnd_tan",
+				"ttc_dmr_556pmag_100rnd_upc"
+			]
+        },
+        {
+            "ClassName": "ttc_556cmag_30rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_556stanag_30rnd",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ttc_556stanag_60rnd",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo556x45"
             ],
             "Variants": []
         },
