@@ -18,37 +18,37 @@
         {
             "Item": "Head_Admin",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "Admin_Top",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "Backpack_Admin",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "Pants_Admin",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "Boots_Admin",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "Arms_Admin",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "ExpansionAdminHammer",
             "ShouldCheckInHands": 1,
-            "ShouldCheckInInventory": 1,
+            "ShouldCheckInInventory": 1
         },
         {
             "Item": "HHDonatorClothing_MirrorMonster_HuntingJacket",
