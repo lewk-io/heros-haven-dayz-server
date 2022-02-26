@@ -82,3 +82,6 @@ profiles/Trader/Logs/**/*
 profiles/UApi/**/*
 
 profiles/Users/**/*
+
+profiles/VPPAdminTools/Banlist.json
+profiles/VPPAdminTools/Logging/*
