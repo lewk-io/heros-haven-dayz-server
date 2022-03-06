@@ -33,7 +33,7 @@ void main()
 
 	weather.GetOvercast().Set( Math.RandomFloatInclusive(0.02, 0.1), 1, 0);
 	weather.GetRain().Set( 0, 1, 0);
-	weather.GetFog().Set( 0, 1, 0);
+	weather.GetFog().Set( 0, 0.3, 0);
 
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
