@@ -1,8 +1,8 @@
 {
     "Enabled": 1,
-    "Weight": 150.0,
+    "Weight": 154.0,
     "MissionMaxTime": 1200,
-    "MissionName": "Random_NWAF",
+    "MissionName": "Random_Novaya_Petrovka",
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
@@ -11,9 +11,9 @@
     "Speed": 25.0,
     "Container": "Random",
     "DropLocation": {
-        "x": 4807.0,
-        "z": 9812.0,
-        "Name": "NWAF",
+        "x": 2628.22,
+        "z": 13274.16,
+        "Name": "Novaya Ptrovka",
         "Radius": 100.0
     },
     "Loot": [],
@@ -36,5 +36,5 @@
 		"ZmbM_usSoldier_normal_Woodland"
 	],
     "ItemCount": -1,
-    "InfectedCount": 35
+    "InfectedCount": 30
 }
