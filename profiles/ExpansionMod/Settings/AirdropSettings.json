@@ -1619,6 +1619,70 @@
                     "QuantityPercent": -1,
                     "Max": -1,
                     "Variants": []
+                },
+                {
+                    "Name": "msp_militarylocker_kit",
+                    "Attachments": [],
+                    "Chance": 0.10,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_fourdoor_militarylocker_kit",
+                    "Attachments": [],
+                    "Chance": 0.10,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_sololocker_kit",
+                    "Attachments": [],
+                    "Chance": 0.10,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_locker_kit",
+                    "Attachments": [],
+                    "Chance": 0.10,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_storagebox_kit",
+                    "Attachments": [],
+                    "Chance": 0.09,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_greenhouse_kit",
+                    "Attachments": [],
+                    "Chance": 0.09,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_barrel_donation",
+                    "Attachments": [],
+                    "Chance": 0.15,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
+                },
+                {
+                    "Name": "msp_waterbarrel_plastic",
+                    "Attachments": [],
+                    "Chance": 0.15,
+                    "QuantityPercent": -1,
+                    "Max": -1,
+                    "Variants": []
                 }
             ],
             "Infected": [],
