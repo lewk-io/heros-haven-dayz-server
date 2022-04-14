@@ -384,6 +384,21 @@
             ],
             "ReplacementItem": "MVS_Magazine_Pouch_Black",
             "ShouldCheckInHands": 0
+        },
+        {
+            "Item": "HHDonatorClothing_TheSterling28_CombatVest",
+            "IgnoredSteamIDs": [
+                "76561199164682218",
+                "76561199004580510",
+                "76561198064210741",
+                "76561199157297258",
+                "76561198360756023",
+                "76561198303911156",
+                "76561199079510938",
+                "76561199122321288"
+            ],
+            "ReplacementItem": "MVS_Combat_Vest_Black",
+            "ShouldCheckInHands": 0
         }
     ]
 }
