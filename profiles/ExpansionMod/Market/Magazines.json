@@ -84,6 +84,19 @@
             "Variants": []
         },
         {
+            "ClassName": "mag_p1_8rnd",
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo_9x19"
+            ],
+            "Variants": []
+        },
+        {
             "ClassName": "mag_cz527_5rnd",
             "MaxPriceThreshold": 6,
             "MinPriceThreshold": 6,
@@ -93,6 +106,19 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ammo_762x39"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "mag_cz550_10rnd",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "ammo_308win"
             ],
             "Variants": []
         },

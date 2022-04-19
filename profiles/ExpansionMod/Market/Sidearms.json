@@ -17,6 +17,32 @@
             "Variants": []
         },
         {
+            "ClassName": "longhorn",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"PistolOptic"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "p1",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"Mag_P1_8Rnd"
+			],
+            "Variants": []
+        },
+        {
             "ClassName": "cz75",
             "MaxPriceThreshold": 400,
             "MinPriceThreshold": 400,
