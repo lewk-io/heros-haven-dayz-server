@@ -5,7 +5,7 @@
     "EnablePartyChat": 1,
     "EnableTransportChat": 1,
     "DisableShootToUnlock": 0,
-    "EnableGravecross": 1,
+    "EnableGravecross": 0,
     "GravecrossDeleteBody": 0,
     "GravecrossTimeThreshold": 1200,
     "Mapping": {
