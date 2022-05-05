@@ -202,8 +202,8 @@
         },
         {
             "ClassName": "ammo_308win",
-            "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 30,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1,
             "MaxStockThreshold": 1,
             "MinStockThreshold": 1,
