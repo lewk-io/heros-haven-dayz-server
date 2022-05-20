@@ -1509,54 +1509,6 @@
                     "Variants": []
                 },
                 {
-                    "Name": "ExpansionGunrack",
-                    "Attachments": [],
-                    "Chance": 0.05000000074505806,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionCone",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger2",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignDanger3",
-                    "Attachments": [],
-                    "Chance": 0.20000000298023225,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
-                    "Name": "ExpansionSignRoadBarrier",
-                    "Attachments": [],
-                    "Chance": 0.15000000596046449,
-                    "QuantityPercent": -1,
-                    "Max": -1,
-                    "Variants": []
-                },
-                {
                     "Name": "ExpansionSafeMini",
                     "Attachments": [],
                     "Chance": 0.20000000298023225,
