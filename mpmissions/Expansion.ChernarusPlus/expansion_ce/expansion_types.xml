@@ -1869,10 +1869,10 @@
         <usage name="Military"/>
     </type>
 	<type name="ExpansionGunrack">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1931,23 +1931,23 @@
         <usage name="Farm"/>
     </type>
     <type name="ExpansionCone">
-        <lifetime>7200</lifetime>
+        <lifetime>0</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger">
-        <lifetime>7200</lifetime>
+        <lifetime>0</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger2">
-        <lifetime>7200</lifetime>
+        <lifetime>0</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignDanger3">
-        <lifetime>7200</lifetime>
+        <lifetime>0</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionSignRoadBarrier">
-        <lifetime>7200</lifetime>
+        <lifetime>0</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ExpansionBarbedWire">
