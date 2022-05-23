@@ -1,9 +1,5 @@
 {
-    "m_Version": 4,
-    "PlayerLocationNotifier": 1,
-    "EnableGlobalChat": 1,
-    "EnablePartyChat": 1,
-    "EnableTransportChat": 1,
+    "m_Version": 6,
     "DisableShootToUnlock": 0,
     "EnableGravecross": 0,
     "GravecrossDeleteBody": 0,
@@ -79,14 +75,5 @@
     "UnlimitedStamina": 1,
     "UseDeathScreen": 1,
     "UseDeathScreenStatistics": 1,
-    "UseNewsFeedInGameMenu": 1,
-    "ChatColors": {
-        "SystemChatColor": "BA45BAFF",
-        "AdminChatColor": "C0392BFF",
-        "GlobalChatColor": "58C3F7FF",
-        "DirectChatColor": "FFFFFFFF",
-        "TransportChatColor": "FFCE09FF",
-        "PartyChatColor": "0AFA7AFF",
-        "TransmitterChatColor": "F9FF49FF"
-    }
+    "UseNewsFeedInGameMenu": 1
 }

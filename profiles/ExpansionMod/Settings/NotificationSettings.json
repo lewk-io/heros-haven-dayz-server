@@ -1,5 +1,5 @@
 {
-    "m_Version": 2,
+    "m_Version": 4,
     "EnableNotification": 1,
     "ShowPlayerJoinServer": 0,
     "JoinMessageType": 1,
@@ -24,6 +24,8 @@
     "KillFeedHeliHitNoDriver": 0,
     "KillFeedHeliCrash": 0,
     "KillFeedHeliCrashCrew": 0,
+    "KillFeedBoatHitDriver": 1,
+    "KillFeedBoatHitNoDriver": 1,
     "KillFeedBoatCrash": 0,
     "KillFeedBoatCrashCrew": 0,
     "KillFeedBarbedWire": 0,
@@ -32,6 +34,7 @@
     "KillFeedDehydration": 0,
     "KillFeedStarvation": 0,
     "KillFeedBleeding": 0,
+    "KillFeedStatusEffects": 1,
     "KillFeedSuicide": 0,
     "KillFeedWeapon": 0,
     "KillFeedMeleeWeapon": 0,
@@ -40,9 +43,5 @@
     "KillFeedAnimal": 0,
     "KillFeedKilledUnknown": 0,
     "KillFeedDiedUnknown": 0,
-    "EnableKillFeedDiscordMsg": 0,
-    "ShowVictimOnKillFeed": 1,
-    "ShowDistanceOnKillFeed": 1,
-    "ShowKillerOnKillFeed": 1,
-    "ShowWeaponOnKillFeed": 1
+    "EnableKillFeedDiscordMsg": 0
 }

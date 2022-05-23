@@ -1,17 +1,21 @@
 {
-    "m_Version": 0,
+    "m_Version": 2,
     "Safezone": 1,
+    "AdminTools": 1,
     "VehicleCarKey": 1,
     "VehicleTowing": 1,
     "VehicleLockPicking": 1,
+    "VehicleDestroyed": 1,
     "BaseBuildingRaiding": 1,
     "CodeLockRaiding": 1,
     "Territory": 1,
     "Killfeed": 1,
-    "Party": 1,
-    "Chat": 1,
-    "AdminTools": 1,
     "SpawnSelection": 1,
+    "Party": 1,
     "MissionAirdrop": 1,
-    "Market": 1
+    "Chat": 1,
+    "Market": 1,
+    "ATM": 0,
+    "LogToScripts": 0,
+    "LogToADM": 0
 }
