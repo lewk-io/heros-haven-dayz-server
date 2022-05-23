@@ -486,10 +486,10 @@
         <usage name="Farm" />
     </type>
     <type name="Msp_Safe">
-        <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <nominal>0</nominal>
+        <lifetime>120</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
