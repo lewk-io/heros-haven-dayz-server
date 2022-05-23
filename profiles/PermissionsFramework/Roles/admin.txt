@@ -105,6 +105,7 @@ Expansion.Territories.Delete 2
 Expansion.Territories.Delete.Destroyed 2
 Expansion.Territories.Delete.All 2
 Expansion.Territories.View 2
+Expansion.Territories.Edit 2
 Expansion.Debug 2
 Expansion.Debug.Update 2
 Expansion.Debug.View 2
@@ -115,6 +116,10 @@ Expansion.Vehicles.Delete.Unclaimed 2
 Expansion.Vehicles.Delete.Destroyed 2
 Expansion.Vehicles.Delete.All 2
 Expansion.Vehicles.View 2
+Expansion.Groups 2
+Expansion.Groups.DeleteGroup 2
+Expansion.Groups.EditGroup 2
+Expansion.Groups.View 2
 ESP 2
 ESP.View 2
 ESP.View.Immovable 2
