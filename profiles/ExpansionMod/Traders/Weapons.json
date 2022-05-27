@@ -18,5 +18,8 @@
         "Sidearms",
         "Sniper_Rifles",
         "Submachine_Guns"
-    ]
+    ],
+    "Items": {
+      "Longhorn": 2,
+    }
 }
