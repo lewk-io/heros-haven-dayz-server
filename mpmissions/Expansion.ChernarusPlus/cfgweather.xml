@@ -17,11 +17,11 @@
         <!-- Initial conditions of the fog (target value, time to change, how long will it stay) -->
         <current actual="0.1" time="120" duration="240" />
         <!-- What is the range of the fog value (0..1) -->
-        <limits min="0.0" max="1.0" />
+        <limits min="0.0" max="0.4" />
         <!-- How long does it take to the fog to change from one value to other (time in seconds) -->
-        <timelimits min="900" max="1800" />
+        <timelimits min="300" max="900" />
         <!-- How much should the fog change (0..1) -->
-        <changelimits min="0.0" max="1.0" />
+        <changelimits min="0.0" max="0.1" />
     </fog>
     <rain>
         <!-- Initial conditions of the rain (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
