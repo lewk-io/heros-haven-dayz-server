@@ -1,9 +1,9 @@
 {
     "m_Version": 6,
     "DisableShootToUnlock": 0,
-    "EnableGravecross": 0,
+    "EnableGravecross": 1,
     "GravecrossDeleteBody": 0,
-    "GravecrossTimeThreshold": 1200,
+    "GravecrossTimeThreshold": 3600,
     "Mapping": {
         "UseCustomMappingModule": 0,
         "Mapping": [
