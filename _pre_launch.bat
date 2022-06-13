@@ -1,1 +1,1 @@
-git reset --hard origin/main && git clean -df && git pull && cd BEC && BEC.exe -f Config.cfg --dsc
+git reset --hard origin/main && git clean -df && git pull
