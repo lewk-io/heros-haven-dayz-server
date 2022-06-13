@@ -63,6 +63,8 @@ profiles/ExpansionMod/ATM/**/*
 profiles/ExpansionMod/Groups/**/*
 profiles/ExpansionMod/Logs/**/*
 
+profiles/EventManagerLog/**/*
+
 profiles/PermissionsFramework/Players/*
 profiles/PermissionsFramework/Permissions/*
 !profiles/PermissionsFramework/**/dw-OmAQq9ROhl5Iu836sgxGcJlo7DGOoUnRIb0b0-nI.*
