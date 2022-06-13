@@ -88,17 +88,6 @@
             "CustomMessage": "Too close to the coast. You must be 850m away from the coast line"
         },
         {
-            "Name": "Severograd Stronghold",
-            "Center": [
-                8631.58,
-                112,
-                13384
-            ],
-            "Radius": 1000,
-            "Items": [],
-            "IsWhitelist": 1
-        },
-        {
             "Name": "Green Mountain",
             "Center": [
                 3701.33,
